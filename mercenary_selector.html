@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mercenary Build Selector</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+        }
+        select, button {
+            padding: 8px;
+            margin: 5px;
+            font-size: 16px;
+        }
+        #buildDetails {
+            margin-top: 20px;
+            padding: 15px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        #error {
+            color: red;
+            margin: 10px 0;
+        }
+        h2, h3 {
+            margin: 10px 0;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin: 5px 0;
+        }
+        .flavour-text {
+            font-style: italic;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <h1>Mercenary Build Selector</h1>
+    <div id="error" style="display: none;"></div>
+    <div>
+        <label for="classSelect">Select Class:</label>
+        <select id="classSelect" disabled>
+            <option value="">-- Loading Classes --</option>
+        </select>
+    </div>
+    <div>
+        <label for="buildSelect">Select Build:</label>
+        <select id="buildSelect" disabled>
+            <option value="">-- Select a Build --</option>
+        </select>
+    </div>
+    <div id="buildDetails" style="display: none;">
+        <h2>Build Details</h2>
+        <p><strong>Build Name:</strong> <span id="buildName"></span></p>
+        <p><strong>Class:</strong> <span id="className"></span></p>
+        <p><strong>Attributes:</strong> <span id="attributes"></span></p>
+        <p><strong>Infamous:</strong> <span id="infamous"></span></p>
+        <p><strong>Tags:</strong> <span id="tags"></span></p>
+        <p><strong>Tag Meanings:</strong> <span id="tagMeanings"></span></p>
+        <p><strong>Flavour Text:</strong> <span id="flavourText" class="flavour-text"></span></p>
+        <h3>Skills</h3>
+        <div id="skillsList"></div>
+    </div>
+
+    <script>
+        // DOM Elements
+        const classSelect = document.getElementById('classSelect');
+        const buildSelect = document.getElementById('buildSelect');
+        const buildDetails = document.getElementById('buildDetails');
+        const buildName = document.getElementById('buildName');
+        const className = document.getElementById('className');
+        const attributes = document.getElementById('attributes');
+        const infamous = document.getElementById('infamous');
+        const tags = document.getElementById('tags');
+        const tagMeanings = document.getElementById('tagMeanings');
+        const flavourText = document.getElementById('flavourText');
+        const skillsList = document.getElementById('skillsList');
+        const errorDiv = document.getElementById('error');
+
+        // Data placeholders
+        let classes = [];
+        let builds = [];
+        let skills = [];
+        let attributesData = [];
+        let flavourTextData = [];
+
+        // Inferred tag meanings (from previous analysis, extended as needed)
+        const tagMeaningsList = {
+            1199: 'Infamous Status',
+            1200: 'ElementalWitch Class',
+            1201: 'Lightning Specialization',
+            1202: 'Noble Lightning Enhancement',
+            1203: 'Cold Specialization',
+            1204: 'Noble Cold Enhancement',
+            1205: 'Fire Specialization',
+            1207: 'ChaosMinionWitch Class',
+            1208: 'Chaos DoT Specialization',
+            1209: 'Noble Chaos DoT Enhancement',
+            1210: 'Instability Specialization',
+            1211: 'Noble Instability Enhancement',
+            1212: 'Chaos Hit Specialization',
+            38: 'Strength Attribute',
+            39: 'Dexterity Attribute',
+            40: 'Intelligence Attribute',
+            41: 'Strength/Dexterity Hybrid',
+            42: 'Strength/Intelligence Hybrid',
+            43: 'Dexterity/Intelligence Hybrid'
+            // Add more tag meanings as needed
+        };
+
+        // Fetch JSON files
+        async function loadData() {
+            try {
+                const [classesResponse, buildsResponse, skillsResponse, attributesResponse, flavourTextResponse] = await Promise.all([
+                    fetch('MercenaryClasses.json'),
+                    fetch('MercenaryBuilds.json'),
+                    fetch('MercenarySkills.json'),
+                    fetch('MercenaryAttributes.json'),
+                    fetch('MercenaryFlavourText.json')
+                ]);
+
+                if (!classesResponse.ok || !buildsResponse.ok || !skillsResponse.ok || !attributesResponse.ok || !flavourTextResponse.ok) {
+                    throw new Error('Failed to load one or more JSON files');
+                }
+
+                classes = await classesResponse.json();
+                builds = await buildsResponse.json();
+                skills = await skillsResponse.json();
+                attributesData = await attributesResponse.json();
+                flavourTextData = await flavourTextResponse.json();
+
+                // Populate Class Dropdown
+                classSelect.innerHTML = '<option value="">-- Select a Class --</option>';
+                classSelect.disabled = false;
+                classes.forEach(cls => {
+                    const option = document.createElement('option');
+                    option.value = cls._index;
+                    option.textContent = cls.Id;
+                    classSelect.appendChild(option);
+                });
+            } catch (error) {
+                errorDiv.textContent = `Error loading data: ${error.message}`;
+                errorDiv.style.display = 'block';
+            }
+        }
+
+        // Map classes to attributes (based on inferred class-to-attribute relationships)
+        const classToAttributeMap = {
+            0: 4, // ElementalWitch -> Int (Intelligence-based)
+            1: 4, // ChaosMinionWitch -> Int (Intelligence-based)
+            2: 2, // TrapsMinesShadow -> Dex (Dexterity-based)
+            3: 2, // Crit1HShadow -> Dex (Dexterity-based)
+            4: 0, // MeleeAOEMarauder -> Str (Strength-based)
+            5: 0, // MeleeStrikesMarauder -> Str (Strength-based)
+            6: 6, // MiscScion -> Str/Dex/Int (Hybrid)
+            7: 5, // AurasMinionsTemplar -> Str/Int (Hybrid)
+            8: 5  // PhysConvertTemplar -> Str/Int (Hybrid)
+        };
+
+        // Event Listener for Class Selection
+        classSelect.addEventListener('change', () => {
+            const classId = parseInt(classSelect.value);
+            buildSelect.innerHTML = '<option value="">-- Select a Build --</option>';
+            buildSelect.disabled = !classId && classId !== 0;
+            buildDetails.style.display = 'none';
+
+            if (classId || classId === 0) {
+                const filteredBuilds = builds.filter(build => build.Class === classId);
+                filteredBuilds.forEach(build => {
+                    const option = document.createElement('option');
+                    option.value = build._index;
+                    option.textContent = build.BuildName;
+                    buildSelect.appendChild(option);
+                });
+            }
+        });
+
+        // Event Listener for Build Selection
+        buildSelect.addEventListener('change', () => {
+            const buildIndex = parseInt(buildSelect.value);
+            if (buildIndex || buildIndex === 0) {
+                const build = builds.find(b => b._index === buildIndex);
+                const cls = classes.find(c => c._index === build.Class);
+                const attribute = attributesData.find(a => a._index === classToAttributeMap[build.Class]);
+
+                // Populate Build Details
+                buildName.textContent = build.BuildName;
+                className.textContent = cls.Id;
+                attributes.textContent = attribute ? attribute.Name : 'Unknown';
+                infamous.textContent = build.Infamous ? 'Yes' : 'No';
+                tags.textContent = build.Tags;
+
+                // Populate Tag Meanings
+                const tagList = build.Tags.split(',').map(t => t.trim());
+                tagMeanings.textContent = tagList.map(tag => `${tag}: ${tagMeaningsList[tag] || 'Unknown'}`).join(', ');
+
+                // Populate Flavour Text (match by tags) - FIXED HERE
+                const buildTags = new Set(tagList);
+                const matchingFlavour = flavourTextData.find(ft => {
+                    const flavourTags = ft.Tags.split(',').map(t => t.trim());
+                    return flavourTags.some(tag => buildTags.has(tag));
+                });
+                flavourText.textContent = matchingFlavour && cls ? matchingFlavour.Description.replace(/\{0\}/g, cls.Id) : 'No flavour text available';
+
+                // Populate Skills
+                skillsList.innerHTML = '';
+                const skillGroups = [build.Skill1, build.Skill2, build.Skill3];
+                skillGroups.forEach((skillGroup, index) => {
+                    if (skillGroup) {
+                        const skillIndices = skillGroup.split(',').map(s => parseInt(s.trim()));
+                        const skillHeader = document.createElement('h4');
+                        skillHeader.textContent = `Skill Group ${index + 1}`;
+                        skillsList.appendChild(skillHeader);
+                        const ul = document.createElement('ul');
+                        skillIndices.forEach(skillIndex => {
+                            const skill = skills.find(s => s._index === skillIndex);
+                            if (skill) {
+                                const li = document.createElement('li');
+                                li.innerHTML = `<strong>${skill.Name}</strong>: ${skill.Description}`;
+                                ul.appendChild(li);
+                            } else {
+                                const li = document.createElement('li');
+                                li.textContent = `Skill with index ${skillIndex} not found`;
+                                ul.appendChild(li);
+                            }
+                        });
+                        skillsList.appendChild(ul);
+                    }
+                });
+
+                buildDetails.style.display = 'block';
+            } else {
+                buildDetails.style.display = 'none';
+            }
+        });
+
+        // Initialize the app
+        loadData();
+    </script>
+</body>
+</html>

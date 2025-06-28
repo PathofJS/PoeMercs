@@ -1,0 +1,106 @@
+[
+  {
+    "_index": 0,
+    "Id": "ElementalWitch",
+    "MonsterVariety": 2617,
+    "Icon": "Art/2DArt/UIImages/InGame/MercenariesofTrarthus/MercClassIconWitch",
+    "House": "Art/2DArt/UIImages/InGame/MercenariesofTrarthus/HouseCyaxan",
+    "MonsterVarietyAllied": 2630
+  },
+  {
+    "_index": 1,
+    "Id": "ChaosMinionWitch",
+    "MonsterVariety": 2618,
+    "Icon": "Art/2DArt/UIImages/InGame/MercenariesofTrarthus/MercClassIconWitch",
+    "House": "Art/2DArt/UIImages/InGame/MercenariesofTrarthus/HouseCyaxan",
+    "MonsterVarietyAllied": 2631
+  },
+  {
+    "_index": 2,
+    "Id": "TrapsMinesShadow",
+    "MonsterVariety": 2619,
+    "Icon": "Art/2DArt/UIImages/InGame/MercenariesofTrarthus/MercClassIconShadow",
+    "House": "Art/2DArt/UIImages/InGame/MercenariesofTrarthus/HouseAzadi",
+    "MonsterVarietyAllied": 2632
+  },
+  {
+    "_index": 3,
+    "Id": "Crit1HShadow",
+    "MonsterVariety": 2620,
+    "Icon": "Art/2DArt/UIImages/InGame/MercenariesofTrarthus/MercClassIconShadow",
+    "House": "Art/2DArt/UIImages/InGame/MercenariesofTrarthus/HouseAzadi",
+    "MonsterVarietyAllied": 2633
+  },
+  {
+    "_index": 4,
+    "Id": "MeleeAOEMarauder",
+    "MonsterVariety": 2621,
+    "Icon": "Art/2DArt/UIImages/InGame/MercenariesofTrarthus/MercClassIconMarauder",
+    "House": "Art/2DArt/UIImages/InGame/MercenariesofTrarthus/HouseKeita",
+    "MonsterVarietyAllied": 2634
+  },
+  {
+    "_index": 5,
+    "Id": "MeleeStrikesMarauder",
+    "MonsterVariety": 2622,
+    "Icon": "Art/2DArt/UIImages/InGame/MercenariesofTrarthus/MercClassIconMarauder",
+    "House": "Art/2DArt/UIImages/InGame/MercenariesofTrarthus/HouseKeita",
+    "MonsterVarietyAllied": 2635
+  },
+  {
+    "_index": 6,
+    "Id": "MiscScion",
+    "MonsterVariety": 2623,
+    "Icon": "Art/2DArt/UIImages/InGame/MercenariesofTrarthus/MercClassIconScion",
+    "House": "Art/2DArt/UIImages/InGame/MercenariesofTrarthus/HouseBardiya",
+    "MonsterVarietyAllied": 2636
+  },
+  {
+    "_index": 7,
+    "Id": "AurasMinionsTemplar",
+    "MonsterVariety": 2625,
+    "Icon": "Art/2DArt/UIImages/InGame/MercenariesofTrarthus/MercClassIconTemplar",
+    "House": "Art/2DArt/UIImages/InGame/MercenariesofTrarthus/HouseKeita",
+    "MonsterVarietyAllied": 2638
+  },
+  {
+    "_index": 8,
+    "Id": "PhysConvertTemplar",
+    "MonsterVariety": 2624,
+    "Icon": "Art/2DArt/UIImages/InGame/MercenariesofTrarthus/MercClassIconTemplar",
+    "House": "Art/2DArt/UIImages/InGame/MercenariesofTrarthus/HouseKeita",
+    "MonsterVarietyAllied": 2637
+  },
+  {
+    "_index": 9,
+    "Id": "NonEleBowRanger",
+    "MonsterVariety": 2626,
+    "Icon": "Art/2DArt/UIImages/InGame/MercenariesofTrarthus/MercClassIconRanger",
+    "House": "Art/2DArt/UIImages/InGame/MercenariesofTrarthus/HouseCyaxan",
+    "MonsterVarietyAllied": 2639
+  },
+  {
+    "_index": 10,
+    "Id": "EleBowRanger",
+    "MonsterVariety": 2627,
+    "Icon": "Art/2DArt/UIImages/InGame/MercenariesofTrarthus/MercClassIconRanger",
+    "House": "Art/2DArt/UIImages/InGame/MercenariesofTrarthus/HouseCyaxan",
+    "MonsterVarietyAllied": 2640
+  },
+  {
+    "_index": 11,
+    "Id": "PhysicalDuelist",
+    "MonsterVariety": 2628,
+    "Icon": "Art/2DArt/UIImages/InGame/MercenariesofTrarthus/MercClassIconDuelist",
+    "House": "Art/2DArt/UIImages/InGame/MercenariesofTrarthus/HouseAzadi",
+    "MonsterVarietyAllied": 2641
+  },
+  {
+    "_index": 12,
+    "Id": "MeleeAOEStrikeDuelist",
+    "MonsterVariety": 2629,
+    "Icon": "Art/2DArt/UIImages/InGame/MercenariesofTrarthus/MercClassIconDuelist",
+    "House": "Art/2DArt/UIImages/InGame/MercenariesofTrarthus/HouseAzadi",
+    "MonsterVarietyAllied": 2642
+  }
+]

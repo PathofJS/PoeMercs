@@ -1,0 +1,2138 @@
+[
+  {
+    "_index": 0,
+    "Id": 10986,
+    "PossibleSupports": "",
+    "Name": "Do Nothing",
+    "Description": "This really shouldn't be here...",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 1,
+    "Id": 900,
+    "PossibleSupports": "0, 1, 42, 37, 38, 39, 71, 72, 73, 93, 94, 95, 142, 154, 155, 156, 168, 169, 170, 171, 172, 173, 234",
+    "Name": "Spark",
+    "Description": "Launches unpredictable sparks that move randomly until they hit an enemy or expire.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 2,
+    "Id": 2374,
+    "PossibleSupports": "11, 231, 232, 233, 49, 50, 51, 58",
+    "Name": "Conductivity",
+    "Description": "Curses all targets in an area, lowering their lightning resistance and giving them a chance to be shocked when hit.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 3,
+    "Id": 5251,
+    "PossibleSupports": "6, 7, 231, 232, 233, 235",
+    "Name": "Orb of Storms",
+    "Description": "Creates a stationary electrical orb that strikes enemies in its area of effect with beams of lightning that can then split to hit more enemies. ",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 4,
+    "Id": 2969,
+    "PossibleSupports": "42, 71, 72, 73, 231, 232, 233, 52, 53, 54, 11, 12, 93, 94, 95, 65, 66, 67, 168, 169, 170",
+    "Name": "Greater Stormcall",
+    "Description": "Sets markers at many locations. After a short duration, lightning strikes the markers, dealing damage around them.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 5,
+    "Id": 2970,
+    "PossibleSupports": "42, 71, 72, 73, 231, 232, 233, 52, 53, 54, 11, 12, 93, 94, 95, 65, 66, 67, 168, 169, 170, 236",
+    "Name": "Stormcall",
+    "Description": "Sets a marker at a location. After a short duration, lightning strikes the marker, dealing damage around it.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 6,
+    "Id": 2250,
+    "PossibleSupports": "42, 37, 38, 39, 71, 72, 73, 93, 94, 95",
+    "Name": "[DNT] Unused",
+    "Description": "[DNT] Unused",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 7,
+    "Id": 2251,
+    "PossibleSupports": "6, 7, 42, 37, 38, 39, 71, 72, 73, 93, 94, 95, 237, 86, 87, 88",
+    "Name": "Arc",
+    "Description": "An arc of lightning reaches from the caster to a targeted enemy and chains to other enemies, but not immediately back. Each time the arc chains, it will also chain a secondary arc to another enemy that the main arc has not already hit, which cannot chain further.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 8,
+    "Id": 1006,
+    "PossibleSupports": "231, 232, 233, 37, 38, 39, 71, 72, 73, 93, 94, 95, 147, 148, 149, 150, 159, 238",
+    "Name": "Greater Shock Nova",
+    "Description": "Repeatedly casts rings of Lightning, followed by larger Lightning novas. Each effect deals lightning damage to enemies caught in the area. Damage from this skill is highly likely to shock.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 9,
+    "Id": 1206,
+    "PossibleSupports": "231, 232, 233, 37, 38, 39, 52, 53, 54",
+    "Name": "Lightning Warp",
+    "Description": "Waits for a duration before teleporting to a targeted destination, with the duration based on distance and movement speed. When the teleport occurs, lightning damage is dealt both around the area of arrival and departure.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 10,
+    "Id": 5217,
+    "PossibleSupports": "11, 231, 232, 233, 52, 53, 54",
+    "Name": "Frost Bomb",
+    "Description": "Creates a crystal that pulses with cold for a duration. Each pulse applies a debuff to nearby enemies for a secondary duration which reduces life regeneration rate, and also inflicts Cold Exposure. When the crystal's duration ends, it explodes, dealing heavy cold damage to enemies around it.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 11,
+    "Id": 5642,
+    "PossibleSupports": "0, 1, 37, 38, 39, 68, 69, 70, 99, 100, 101, 142, 154, 155, 156",
+    "Name": "Frostbolt",
+    "Description": "Fires a slow-moving projectile that pierces through enemies, dealing cold damage.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 12,
+    "Id": 5670,
+    "PossibleSupports": "37, 38, 39, 231, 232, 233, 49, 50, 51, 80, 81, 82, 55, 56, 57, 59, 60, 61",
+    "Name": "Vortex",
+    "Description": "An icy blast explodes around the caster, dealing cold damage to enemies, and leaving behind a whirling vortex which deals cold damage over time and chills enemies caught in it.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 13,
+    "Id": 62,
+    "PossibleSupports": "37, 38, 39, 99, 100, 101, 80, 81, 82, 68, 69, 70, 102, 148, 149, 150, 168, 169, 170, 83, 84, 85, 239",
+    "Name": "Ice Nova",
+    "Description": "A circle of ice expands from the caster.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 14,
+    "Id": 63,
+    "PossibleSupports": "37, 38, 39, 99, 100, 101, 80, 81, 82, 68, 69, 70, 102, 148, 149, 150, 168, 169, 170",
+    "Name": "Ice Nova of Projection",
+    "Description": "A circle of ice expands from the target.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 15,
+    "Id": 11006,
+    "PossibleSupports": "37, 38, 39, 231, 232, 233, 49, 50, 51, 168, 169, 170",
+    "Name": "Flame Wall",
+    "Description": "Creates a wall of fire for a duration, which deals burning damage to everything in its area. Each enemy that enters the wall also receives a secondary burning debuff which persists for a short duration after leaving the wall. Non-enemy projectiles fired through the wall deal added fire damage and apply the wall's secondary debuff on hit.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 16,
+    "Id": 977,
+    "PossibleSupports": "11, 231, 232, 233, 49, 50, 51, 159",
+    "Name": "Frost Wall",
+    "Description": "Creates a wall of ice which holds back enemies. Targets under the wall are damaged and pushed back.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 17,
+    "Id": 4906,
+    "PossibleSupports": "11, 12, 231, 232, 233, 49, 51, 50, 68, 69, 70, 148, 149, 150, 80, 81, 82, 59, 60, 61, 83, 84, 85",
+    "Name": "Icestorm",
+    "Description": "Icy bolts rain down over the targeted area. They explode when landing, dealing damage to nearby enemies and chilling them, as well as causing patches of chilled ground.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseBardiyaSkill.dds"
+  },
+  {
+    "_index": 18,
+    "Id": 2350,
+    "PossibleSupports": "11, 231, 232, 233, 49, 50, 51, 58",
+    "Name": "Flammability",
+    "Description": "Curses all targets in an area, lowering their fire resistance and giving them a chance to be ignited when hit.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 19,
+    "Id": 2365,
+    "PossibleSupports": "11, 231, 232, 233, 49, 50, 51, 58",
+    "Name": "Frostbite",
+    "Description": "Curses all targets in an area, lowering their cold resistance and giving them a chance to be frozen when hit.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 20,
+    "Id": 11618,
+    "PossibleSupports": "0, 1, 37, 38, 39, 99, 100, 101, 148, 149, 150, 102, 154, 155, 156, 83, 84, 85",
+    "Name": "Eye of Winter",
+    "Description": "Fires a single eye projectile which constantly releases shard projectiles in a spiral. The shards will damage enemies they impact, dealing cold damage. The eye cannot damage enemies. When the eye dissipates or collides with terrain, it releases a faster spiral of extra shards.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 21,
+    "Id": 10224,
+    "PossibleSupports": "65, 66, 67, 231, 232, 233, 99, 100, 101",
+    "Name": "Frostblink",
+    "Description": "Teleport to a location, damaging enemies and leaving Chilled ground in an area at both ends of the teleport.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 22,
+    "Id": 4839,
+    "PossibleSupports": "65, 66, 67, 37, 38, 39, 49, 50, 51",
+    "Name": "Flame Dash",
+    "Description": "Teleport to a location, damaging enemies and leaving a trail of burning ground.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 23,
+    "Id": 4838,
+    "PossibleSupports": "65, 66, 67, 37, 38, 39, 49, 50, 51, 55, 56, 57, 159, 168, 169, 170, 199",
+    "Name": "Greater Flame Dash",
+    "Description": "Repeatedly teleport to many locations, damaging enemies and leaving trails of dangerous burning ground.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 24,
+    "Id": 3047,
+    "PossibleSupports": "231, 232, 233, 77, 78, 79, 37, 38, 39, 103, 104, 105, 96, 97, 98, 139, 140, 141, 162, 199",
+    "Name": "Flameblast",
+    "Description": "Channels to build up a large fiery explosion. The longer it is channelled, the larger the area of effect and damage of the explosion.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 25,
+    "Id": 3166,
+    "PossibleSupports": "37, 38, 39, 231, 232, 233, 77, 78, 79, 55, 56, 57",
+    "Name": "Flame Surge",
+    "Description": "Strikes enemies with a surge of flame. Burning enemies are dealt more damage. Hitting an ignited enemy will create burning ground under them. Damage modifiers don't apply to this burning ground.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 26,
+    "Id": 8588,
+    "PossibleSupports": "",
+    "Name": "Flame Aegis",
+    "Description": "Surrounds the caster with a fiery barrier which will absorb incoming fire damage up to a point, then break. This barrier will recharge over time.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseBardiyaSkill.dds"
+  },
+  {
+    "_index": 27,
+    "Id": 3051,
+    "PossibleSupports": "231, 232, 233, 77, 78, 79, 37, 38, 39, 162, 103, 104, 105, 96, 97, 98, 159, 199",
+    "Name": "Vaal Flameblast",
+    "Description": "Targets an area and builds up stages in that area based on cast speed. It explodes every 3 stages, until it reaches a maximum of 15. As it gains more stages, the area gets smaller but the damage gets higher.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 28,
+    "Id": 3,
+    "PossibleSupports": "231, 232, 233, 0, 1, 96, 97, 98, 77, 78, 79, 103, 104, 105, 142, 154, 155, 156, 168, 169, 170, 22, 199",
+    "Name": "Fireball",
+    "Description": "Unleashes a ball of fire towards a target which explodes, damaging nearby foes.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 29,
+    "Id": 4,
+    "PossibleSupports": "231, 232, 233, 0, 1, 96, 97, 98, 77, 78, 79, 103, 104, 105, 168, 169, 170, 199, 242",
+    "Name": "Fireball of Impact",
+    "Description": "Unleashes a ball of fire towards a targeted location which then explodes, damaging nearby foes.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 30,
+    "Id": 4968,
+    "PossibleSupports": "231, 232, 233, 0, 1, 142, 37, 38, 39, 6, 7, 96, 97, 98, 148, 149, 150, 154, 155, 156, 151, 152, 153, 134, 77, 78, 79, 168, 169, 170, 199",
+    "Name": "Rolling Magma",
+    "Description": "Lob a fiery orb that deals area damage as it hits the ground. The skill chains, bouncing forward to deal damage multiple times.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 31,
+    "Id": 1955,
+    "PossibleSupports": "",
+    "Name": "Anger",
+    "Description": "Casts an aura that grants added fire damage to attacks and spells.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 32,
+    "Id": 2954,
+    "PossibleSupports": "",
+    "Name": "Purity of Fire",
+    "Description": "Casts an aura that grants fire resistance.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 33,
+    "Id": 2959,
+    "PossibleSupports": "",
+    "Name": "Purity of Ice",
+    "Description": "Casts an aura that grants cold resistance.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 34,
+    "Id": 2964,
+    "PossibleSupports": "",
+    "Name": "Purity of Lightning",
+    "Description": "Casts an aura that grants lightning resistance.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 35,
+    "Id": 11004,
+    "PossibleSupports": "231, 232, 233, 49, 50, 51",
+    "Name": "Sigil of Power",
+    "Description": "Places a Sigil on the ground, which grants a buff to allies in the area around it for a duration. The Sigil gains stages mana is spent in its area, making the buff more powerful.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 36,
+    "Id": 2401,
+    "PossibleSupports": "231, 232, 233, 42, 71, 72, 73, 93, 94, 95, 159, 86, 87, 88",
+    "Name": "Ball Lightning of Static",
+    "Description": "Creates a ball of lightning at a location that damages each enemy in an area around it repeatedly with bolts of lightning.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 37,
+    "Id": 1929,
+    "PossibleSupports": "",
+    "Name": "Discipline",
+    "Description": "Casts an aura that grants additional energy shield and increased energy shield recharge rate.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 38,
+    "Id": 1973,
+    "PossibleSupports": "",
+    "Name": "Wrath",
+    "Description": "Casts an aura that adds lightning damage to attacks, and makes spells deal more lightning damage.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 39,
+    "Id": 1099,
+    "PossibleSupports": "58, 37, 38, 39",
+    "Name": "Temporal Chains",
+    "Description": "Curses all enemies in an area, lowering their action speed and making other effects on them expire more slowly.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 40,
+    "Id": 10047,
+    "PossibleSupports": "231, 232, 233, 55, 56, 57",
+    "Name": "Bane",
+    "Description": "Applies a debuff to enemies in an area, which deals chaos damage over time. Casting this spell also triggers any Hexes this Mercenary has.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 41,
+    "Id": 2788,
+    "PossibleSupports": "231, 232, 233, 49, 50, 51, 37, 38, 39, 65, 66, 67",
+    "Name": "Proximity Shield",
+    "Description": "Creates a barrier for a short duration which will negate incoming damage that originates from outside the barrier.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseBardiyaSkill.dds"
+  },
+  {
+    "_index": 42,
+    "Id": 10372,
+    "PossibleSupports": "231, 232, 233, 65, 66, 67, 161, 159",
+    "Name": "Withering Step",
+    "Description": "Grants Elusive and a buff that grants Phasing. While this buff is active, enemies in the surrounding area will be Withered.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 43,
+    "Id": 2000,
+    "PossibleSupports": "",
+    "Name": "Clarity",
+    "Description": "Casts an aura that grants mana regeneration.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 44,
+    "Id": 5370,
+    "PossibleSupports": "231, 232, 233, 49, 50, 51, 129, 130, 131, 37, 38, 39",
+    "Name": "Wither Totem",
+    "Description": "Creates a Spell Totem that casts a debilitating debuff on enemies in an area, hindering their movement and also inflicts the Withered debuff, which increases the Chaos Damage they take and can stack up to 15 times.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 45,
+    "Id": 10073,
+    "PossibleSupports": "",
+    "Name": "Malevolence",
+    "Description": "Casts an aura that multiplies damage over time and increases skill effect duration.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 46,
+    "Id": 9991,
+    "PossibleSupports": "49, 50, 51, 55, 56, 57, 142, 0, 1, 133, 126, 127, 128, 65, 66, 67, 26, 27, 28",
+    "Name": "Greater Soulrend",
+    "Description": "Fires a nova of slow moving projectiles that turn towards enemies in front of them, damaging and piercing through those they hit, and leeching some of that damage as energy shield. As the projectiles travel, they repeatedly applies a short but powerful chaos damage over time debuff to each enemy in an area around them.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 47,
+    "Id": 5408,
+    "PossibleSupports": "126, 127, 128, 49, 50, 51, 0, 1, 65, 66, 67, 159, 55, 56, 57",
+    "Name": "Altar of Chaos",
+    "Description": "Creates a profane altar which continually deals chaos damage over time to enemies around it.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseBardiyaSkill.dds"
+  },
+  {
+    "_index": 48,
+    "Id": 5379,
+    "PossibleSupports": "49, 50, 51, 55, 56, 57, 142, 0, 1, 126, 127, 128, 6, 7, 160",
+    "Name": "Essence Drain of Wickedness",
+    "Description": "Fires a piercing projectile that applies a damage over time debuff when it hits. Healing the caster for a portion of the debuff damage.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 49,
+    "Id": 4230,
+    "PossibleSupports": "49, 50, 51, 231, 232, 233, 55, 56, 57, 126, 127, 128, 65, 66, 67",
+    "Name": "Scourstorm",
+    "Description": "Surrounds the caster with whipping winds of profane energy that deals chaos damage over time to nearby enemies.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseBardiyaSkill.dds"
+  },
+  {
+    "_index": 50,
+    "Id": 5704,
+    "PossibleSupports": "49, 50, 51, 37, 38, 39, 55, 56, 57, 231, 232, 233, 132, 126, 127, 128, 139, 140, 141",
+    "Name": "Blight",
+    "Description": "Apply a debuff to enemies which deals chaos damage over time. Enemies who aren't already debuffed by Blight are also hindered for a shorter secondary duration, slowing their movement. Continued channelling adds layers of damage to the debuff, each with their own duration.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 51,
+    "Id": 8505,
+    "PossibleSupports": "37, 38, 39, 231, 232, 233, 77, 78, 79, 163, 96, 97, 98",
+    "Name": "Bodyswap",
+    "Description": "Explodes your body and recreates it at the location of a targeted enemy or corpse, dealing spell damage in an area at both locations. If targeting a corpse, the corpse will also explode, dealing damage around it.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 52,
+    "Id": 10253,
+    "PossibleSupports": "",
+    "Name": "Pride",
+    "Description": "Casts an aura that causes nearby enemies to take more physical damage.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 53,
+    "Id": 1927,
+    "PossibleSupports": "49, 50, 51, 65, 66, 67, 159, 231, 232, 233",
+    "Name": "Vaal Vitality",
+    "Description": "Casts a temporary aura that grants life regeneration.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseCyaxanSkill.dds"
+  },
+  {
+    "_index": 54,
+    "Id": 11385,
+    "PossibleSupports": "49, 50, 51, 37, 38, 39, 11, 12, 231, 232, 233, 126, 127, 128, 55, 56, 57, 126, 127, 128, 217, 218, 219, 157, 158, 164, 165, 166, 123, 124, 125",
+    "Name": "Reap",
+    "Description": "Creates a bloody scythe that swipes an area applying a physical damage over time debuff and hitting enemies with physical damage.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 55,
+    "Id": 5190,
+    "PossibleSupports": "49, 50, 51, 231, 232, 233, 157, 158, 217, 218, 219, 164, 165, 166, 37, 38, 39, 123, 124, 125",
+    "Name": "Corrupted Blade Vortex of the Scythe",
+    "Description": "This spell creates a swarm of ethereal blades which briefly orbit in an area around you, dealing damage and applying corrupted blood to all enemies in their radius.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 56,
+    "Id": 11810,
+    "PossibleSupports": "49, 50, 51, 65, 66, 67, 126, 127, 128, 231, 232, 233, 159, 55, 56, 57, 217, 218, 219, 164, 165, 166, 243",
+    "Name": "Vaal Reap",
+    "Description": "Creates a bloody scythes that swipes an area, hitting enemies with physical damage. An area of boiling blood is left beneath them for a duration which deals physical damage over time.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 57,
+    "Id": 11353,
+    "PossibleSupports": "49, 50, 51, 126, 127, 128, 37, 38, 39, 55, 56, 57, 164, 165, 166",
+    "Name": "Exsanguinate",
+    "Description": "Releases several tendrils of blood. The tendrils deal physical damage and inflict a physical damage over time debuff to enemies, which can stack up to 3 times. Effects which allow skills to chain can apply to these tendrils.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 58,
+    "Id": 5624,
+    "PossibleSupports": "231, 232, 233, 55, 56, 57, 49, 50, 51, 126, 127, 128, 55, 56, 57, 164, 165, 166",
+    "Name": "Boiling Blood",
+    "Description": "Creates a pool of boiling blood on using a travel skill, which deals physical damage over time to enemies within it.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseCyaxanSkill.dds"
+  },
+  {
+    "_index": 59,
+    "Id": 3007,
+    "PossibleSupports": "231, 232, 233, 52, 53, 54, 65, 66, 67, 159, 11, 12, 217, 218, 219, 157, 158, 164, 165, 166",
+    "Name": "[DNT] Unused",
+    "Description": "[DNT] Unused",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 60,
+    "Id": 1147,
+    "PossibleSupports": "",
+    "Name": "Blasphemy Enfeeble",
+    "Description": "Casts an aura that curses all enemies in an area, reducing their accuracy and making them deal less damage.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 61,
+    "Id": 3197,
+    "PossibleSupports": "231, 232, 233, 49, 50, 51, 37, 38, 39, 65, 66, 67, 159, 126, 127, 128",
+    "Name": "Desecrate",
+    "Description": "Desecrates the ground, spawning corpses based on monsters in the current area and dealing chaos damage over time to enemies.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 62,
+    "Id": 3242,
+    "PossibleSupports": "49, 50, 51, 37, 38, 39, 65, 66, 67",
+    "Name": "Bone Offering",
+    "Description": "Consumes a corpse, granting allied minions the power to block both attacks and spells. The skill consumes other nearby corpses, increasing the duration for each corpse consumed.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 63,
+    "Id": 3232,
+    "PossibleSupports": "49, 50, 51, 37, 38, 39, 65, 66, 67",
+    "Name": "Flesh Offering",
+    "Description": "Consumes a corpse, which temporarily empowers allied minions with swiftness. The skill consumes other nearby corpses, increasing the duration for each corpse consumed.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 64,
+    "Id": 11369,
+    "PossibleSupports": "",
+    "Name": "Relic of Binding",
+    "Description": "Summons a stationary Relic which generates an aura. Enemies in the aura will take damage based on their life when using movement skills.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseBardiyaSkill.dds"
+  },
+  {
+    "_index": 65,
+    "Id": 1246,
+    "PossibleSupports": "37, 38, 39, 200, 217, 218, 219, 164, 165, 166, 177, 178, 179, 188, 189, 190, 240",
+    "Name": "Summon Skeletons",
+    "Description": "Summons Skeleton Warrior minions. They use a melee attack and die after a duration.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 66,
+    "Id": 3130,
+    "PossibleSupports": "37, 38, 39, 96, 97, 98, 168, 169, 170, 177, 178, 179, 188, 189, 190, 200, 244",
+    "Name": "Summon Raging Spirit",
+    "Description": "Summons a short-lived flaming skull that rushes at nearby enemies and attacks them rapidly, converting all its physical damage to fire. ",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 67,
+    "Id": 636,
+    "PossibleSupports": "200, 217, 218, 219, 164, 165, 166, 177, 178, 179, 188, 189, 190, 191, 192, 253",
+    "Name": "Raise Zombie of Gigantism",
+    "Description": "Raises a single gigantic zombie minion from a corpse, which will follow you and attack enemies with a melee strike.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 68,
+    "Id": 635,
+    "PossibleSupports": "200, 37, 38, 39, 217, 218, 219, 164, 165, 166, 177, 178, 179",
+    "Name": "Raise Zombie of Falling",
+    "Description": "Raises necromantic energies into the sky where they coalesce into a zombie minion. The minion then attacks by falling to the ground, causing an impact that deals damage in an area and kills the zombie.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 69,
+    "Id": 9993,
+    "PossibleSupports": "0, 1, 142, 6, 7, 183, 184, 185, 37, 38, 39, 148, 149, 150, 143, 144, 145, 174, 175, 176, 26, 27, 28, 245",
+    "Name": "Soulrend of Reaping",
+    "Description": "Fires a projectile that deals chaos damage to enemies it hits and leeches some of that damage as energy shield.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 70,
+    "Id": 11517,
+    "PossibleSupports": "49, 50, 51, 52, 53, 54, 148, 149, 150, 183, 184, 185, 231, 232, 233, 37, 38, 39, 187, 143, 144, 145, 174, 175, 176, 26, 27, 28",
+    "Name": "Voltaxic Burst",
+    "Description": "Each cast of this spell waits for a short duration, releasing a burst of lightning and chaos spell damage in the surrounding area when that duration ends. Enemies killed by this damage, or shortly after, will explode.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 71,
+    "Id": 10987,
+    "PossibleSupports": "143, 144, 145, 146, 49, 50, 51, 157, 158, 65, 66, 67, 231, 232, 233, 148, 149, 150, 174, 175, 176",
+    "Name": "Void Sphere",
+    "Description": "Creates a Void Sphere which Hinders enemies in an area around it, with the debuff being stronger on enemies closer to the sphere. It also regularly releases pulses of area damage. The Void Sphere will consume the corpses of any enemies which die in its area.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 72,
+    "Id": 5806,
+    "PossibleSupports": "183, 184, 185, 231, 232, 233, 37, 38, 39, 148, 149, 150, 143, 144, 145, 174, 175, 176, 26, 27, 28",
+    "Name": "Dark Pact",
+    "Description": "Sacrifices life from a nearby allied Skeleton minion to deal chaos damage in an area around it. This effect will chain to other nearby allied skeletons. If there are no nearby allied Skeletons it will  deal damage around the caster instead.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 73,
+    "Id": 3248,
+    "PossibleSupports": "183, 184, 185, 231, 232, 233, 37, 38, 39, 148, 149, 150, 174, 175, 176, 157, 158, 143, 144, 145, 186, 26, 27, 28",
+    "Name": "Profane Cascade",
+    "Description": "Pillars of unholy stone emerge from the ground in a series of small bursts, each damaging enemies caught in the area.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseBardiyaSkill.dds"
+  },
+  {
+    "_index": 74,
+    "Id": 11370,
+    "PossibleSupports": "",
+    "Name": "Summon Seeking Void",
+    "Description": "Summons a living void that seeks nearby enemies, continually firing bolts of chaotic energy while doing so.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseBardiyaSkill.dds"
+  },
+  {
+    "_index": 75,
+    "Id": 11539,
+    "PossibleSupports": "183, 184, 185, 231, 232, 233, 37, 38, 39, 148, 149, 150, 143, 144, 145, 174, 175, 176, 0, 1, 142, 129, 130, 131, 26, 27, 28",
+    "Name": "Forbidden Rite Totem",
+    "Description": "Creates a Spell Totem that casts an exploding projectile towards targets and extra projectiles surrounding it. The projectiles deal chaos damage based on the totem's life and energy shield. Casting this spell damages the totem.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 76,
+    "Id": 8957,
+    "PossibleSupports": "11, 231, 232, 233, 49, 50, 51, 58",
+    "Name": "Despair",
+    "Description": "Curses all targets in an area, lowering their chaos resistance.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 77,
+    "Id": 6242,
+    "PossibleSupports": "",
+    "Name": "Envy",
+    "Description": "Casts an aura that adds chaos damage to attacks and spells.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 78,
+    "Id": 10062,
+    "PossibleSupports": "",
+    "Name": "Zealotry",
+    "Description": "Casts an aura that grants bonuses to damage and critical strike chance of spells, and gives a chance to create Consecrated Ground against stronger enemies.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 79,
+    "Id": 2747,
+    "PossibleSupports": "231, 232, 233, 206, 207, 208, 49, 50, 51, 65, 66, 67, 159",
+    "Name": "Smoke Mine",
+    "Description": "Throws a mine that will then cause teleportation when detonated. Creates clouds of smoke that blinds enemies, and gives a temporary buff to movement speed. ",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 80,
+    "Id": 1936,
+    "PossibleSupports": "",
+    "Name": "Grace",
+    "Description": "Casts an aura that grants evasion.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 81,
+    "Id": 10393,
+    "PossibleSupports": "",
+    "Name": "Summon Skitterbots",
+    "Description": "Summons a Chilling Skitterbot and a Shocking Skitterbot, which will trigger traps and detonate mines. Mines detonated by Skitterbots will re-arm and can then be detonated again. The Skitterbots grant more trap and mine damage, and cannot be targeted or damaged.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 82,
+    "Id": 2706,
+    "PossibleSupports": "65, 66, 67, 159, 49, 50, 51, 213, 214, 215, 209, 210, 211, 71, 72, 73, 0, 1, 86, 87, 88",
+    "Name": "Vaal Lightning Trap",
+    "Description": "Throws a trap that launches a ring of projectiles through the enemy that set it off, dealing lightning damage to them and subsequent targets and leaving a trail of shocked ground.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 83,
+    "Id": 8344,
+    "PossibleSupports": "65, 66, 67, 49, 50, 51, 231, 232, 233, 37, 38, 39",
+    "Name": "Trarthan Agility",
+    "Description": "Creates a temporary aura that grants action speed.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseAzadiSkill.dds"
+  },
+  {
+    "_index": 84,
+    "Id": 2804,
+    "PossibleSupports": "213, 214, 215, 206, 207, 208, 209, 210, 211, 212, 154, 155, 156, 151, 152, 153, 0, 1, 201",
+    "Name": "Spectral Throw of Trarthus",
+    "Description": "Throws a trap which, once triggered, fires many spectral weapons. They fly out in all directions and then return to where the trap triggered, in a spinning attack that damages enemies in their path.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 85,
+    "Id": 11558,
+    "PossibleSupports": "213, 214, 215, 206, 207, 208, 209, 210, 211, 212, 154, 155, 156, 151, 152, 153, 201",
+    "Name": "Spectral Helix of Trarthus",
+    "Description": "Throws a trap which, once triggered, fires a spectral weapon. It spins around while flying in a large spiral, damaging enemies in its path, and bouncing if it collides with walls.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 86,
+    "Id": 2047,
+    "PossibleSupports": "213, 214, 215, 206, 207, 208, 65, 66, 67, 159, 217, 218, 219, 49, 50, 51",
+    "Name": "Bear Trap",
+    "Description": "Throws a trap that damages and immobilises an enemy for a duration based on how much damage was dealt. After the immobilise expires, a debuff remains on the enemy for a duration, lowering their movement speed by an amount which lessens over time. The affected enemy will take increased damage from traps and mines until the debuff expires.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 87,
+    "Id": 11546,
+    "PossibleSupports": "231, 232, 232, 206, 207, 208, 212, 213, 214, 215, 157, 158, 148, 149, 150, 174, 175, 176, 209, 210, 211, 201, 123, 124, 125",
+    "Name": "Blade Trap",
+    "Description": "Throws a trap which, once triggered, swings two copies the equipped weapon around it in circles, each repeatedly damaging enemies it spins through.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 88,
+    "Id": 2403,
+    "PossibleSupports": "206, 207, 208, 213, 214, 215, 42, 71, 72, 73, 209, 210, 211, 231, 232, 233, 202, 86, 87, 88",
+    "Name": "Ball Lightning of Orbiting Trap",
+    "Description": "Throws a trap which, once triggered, fires a single projectile which moves in a spiral while damaging each enemy in an area around it repeatedly with bolts of lightning.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 89,
+    "Id": 1207,
+    "PossibleSupports": "206, 207, 208, 213, 214, 215, 42, 71, 72, 73, 209, 210, 211, 231, 232, 233, 202, 201, 86, 87, 88",
+    "Name": "Lightning Warp Trap",
+    "Description": "Throws a trap which, once triggered, teleports to a targeted destination. When the teleport occurs, lightning damage is dealt to the area around both where the trap was and where it teleported to. ",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 90,
+    "Id": 9092,
+    "PossibleSupports": "206, 207, 208, 213, 214, 215, 42, 71, 72, 73, 209, 210, 211, 231, 232, 233, 65, 66, 67, 159, 246, 86, 87, 88",
+    "Name": "Lightning Spire Trap",
+    "Description": "Throws a trap which, once triggered, will repeatedly strike multiple areas around it for a duration, dealing lightning damage.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 91,
+    "Id": 2701,
+    "PossibleSupports": "206, 207, 208, 213, 214, 215, 0, 1, 6, 7, 171, 172, 173, 42, 71, 72, 73, 209, 210, 211, 212, 201, 202, 241, 86, 87, 88",
+    "Name": "Lightning Trap",
+    "Description": "Throws a trap that launches a ring of projectiles through the enemy that set it off, dealing lightning damage to them and subsequent targets.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 92,
+    "Id": 2680,
+    "PossibleSupports": "71, 72, 73, 231, 232, 233, 37, 38, 39, 93, 94, 136, 137, 138, 135, 148, 149, 150",
+    "Name": "Unnerving Blast",
+    "Description": "Creates a delayed explosion at a targeted area which unnerves enemies on hit. The explosion does physical damage partially converted to lightning.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseAzadiSkill.dds"
+  },
+  {
+    "_index": 93,
+    "Id": 9116,
+    "PossibleSupports": "120, 121, 122, 231, 232, 233, 65, 66, 67, 136, 137, 138",
+    "Name": "Charged Dash of the Arcane",
+    "Description": "Projects an illusion which gains stages while it moves, until it stops at a maximum total distance. Waves of area damage frequently pulse along its path. Increases and reductions to spell damage apply to the damage this attack deals.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 94,
+    "Id": 11662,
+    "PossibleSupports": "231, 232, 233, 148, 149, 150, 136, 137, 138, 49, 50, 51, 65, 66, 67, 159",
+    "Name": "Tornado of Elemental Turbulence",
+    "Description": "Creates a Tornado of a random element that hinders and repeatedly damages enemies around it, converting physical damage to its element. The Tornado will chase down enemies for a duration.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 95,
+    "Id": 2280,
+    "PossibleSupports": "",
+    "Name": "Arctic Armour",
+    "Description": "Conjures an icy barrier that chills enemies on hit. The barrier creates chilled ground while moving, and causes less Fire and Physical damage while stationary.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 96,
+    "Id": 10997,
+    "PossibleSupports": "37, 38, 39, 65, 66, 67, 159, 231, 232, 233, 49, 50, 51",
+    "Name": "Frost Shield",
+    "Description": "Places a Frost Shield that drains energy shield for one second or until none remains, gaining stages while this drain occurs. The Frost Shield takes and prevents some damage from hits of allies while in its area. Enemies in the area are Chilled.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 97,
+    "Id": 5046,
+    "PossibleSupports": "206, 207, 208, 213, 214, 215, 209, 210, 211, 231, 232, 233, 202, 68, 69, 70, 80, 81, 82, 201, 123, 124, 125",
+    "Name": "Ice Trap",
+    "Description": "Throws a trap that creates a series of icy runic explosions when triggered, dealing cold damage to all enemies caught in the blasts.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 98,
+    "Id": 11812,
+    "PossibleSupports": "65, 66, 67, 159, 49, 50, 51",
+    "Name": "Vaal Arctic Armour",
+    "Description": "Immediately encases the caster in ice, protecting for a duration or until taken damage from a number of hits, and also grants a buff once the cast time has finished. Cannot move or perform non-instant actions while protected in the ice. When the ice breaks, the buff is also removed.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 99,
+    "Id": 6319,
+    "PossibleSupports": "206, 207, 208, 213, 214, 215, 209, 210, 211, 231, 232, 233, 202, 68, 69, 70, 201",
+    "Name": "[DNT] UNUSED",
+    "Description": "[DNT] UNUSED",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseCyaxanSkill.dds"
+  },
+  {
+    "_index": 100,
+    "Id": 5671,
+    "PossibleSupports": "206, 207, 208, 213, 214, 215, 209, 210, 211, 231, 232, 233, 202, 68, 69, 70, 80, 81, 82, 126, 127, 128",
+    "Name": "Greater Vortex Trap",
+    "Description": "Throw multiple traps that cause icy blasts, dealing cold damage to enemies, and leaving behind whirling vortices which deals cold damage over time and chills enemies caught in them.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 101,
+    "Id": 2223,
+    "PossibleSupports": "206, 207, 208, 213, 214, 215, 209, 210, 211, 231, 232, 233, 202, 68, 69, 70, 80, 81, 82, 201, 0, 1",
+    "Name": "Creeping Frost Trap",
+    "Description": "Throws a trap which, once triggered, fire an icy projectile that bursts on impact or when reaching the targeted area, dealing area damage and creating a chilling area that deals cold damage over time. This area will creep across the ground towards nearby enemies until its duration expires.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 102,
+    "Id": 11944,
+    "PossibleSupports": "71, 72, 73, 231, 232, 233, 37, 38, 39, 93, 94, 136, 137, 138, 148, 149, 150, 65, 66, 67",
+    "Name": "Divine Retribution",
+    "Description": "Retaliate against a blocked hit with a surge of divine power, causing multiple waves of lightning bursts to expand outward from a targeted location. ",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 103,
+    "Id": 10068,
+    "PossibleSupports": "139, 140, 141, 71, 72, 73, 231, 232, 233, 37, 38, 39, 93, 94, 136, 137, 138, 135, 148, 149, 150",
+    "Name": "Divine Ire",
+    "Description": "Channels raw energy to build up stages, damaging surrounding enemies. Releases to unleash this energy in a burst in the surrounding area and a beam forward. Maximum of 10 Stages.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 104,
+    "Id": 2027,
+    "PossibleSupports": "231, 232, 233, 38, 37, 39, 129, 130, 131, 136, 137, 138, 49, 50, 51, 107, 148, 149, 150, 114",
+    "Name": "Shockwave Totem of Shocking",
+    "Description": "Summons a totem that shakes the earth around it, knocking back and damaging nearby enemies. A portion of physical damage the totem deals is converted to lightning.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 105,
+    "Id": 10054,
+    "PossibleSupports": "231, 232, 233, 49, 50, 51, 65, 66, 67, 159, 136, 137, 138, 71, 72, 73, 86, 87, 88",
+    "Name": "Wave of Conviction",
+    "Description": "An expanding wave of energy surges forward, damaging enemies in a cone-shaped area over a duration. Each enemy hit is inflicted with Exposure matching the element of which they took the highest damage",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 106,
+    "Id": 3916,
+    "PossibleSupports": "",
+    "Name": "Herald of Ash",
+    "Description": "Grants a buff providing fire damage based on physical damage. While the buff is active, on enemy kill, other enemies near them will be burned based on the overkill damage. ",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 107,
+    "Id": 10055,
+    "PossibleSupports": "231, 232, 233, 49, 50, 51, 65, 66, 67, 159, 136, 137, 138, 77, 78, 79, 193, 194, 195, 199",
+    "Name": "Wave of Conviction of Trarthus",
+    "Description": "An expanding wave of energy surges outwards, damaging enemies in a ring-shaped area over a duration. The ring then returns, damaging enemies again on the way back.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 108,
+    "Id": 6505,
+    "PossibleSupports": "231, 232, 233, 136, 137, 138, 77, 78, 79, 37, 38, 39, 0, 1, 154, 155, 156, 220, 193, 194, 195, 199",
+    "Name": "Holy Mortar",
+    "Description": "Fling a blast of holy flame, which explodes on impact dealing a mixture of fire and physical area damage.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseAzadiSkill.dds"
+  },
+  {
+    "_index": 109,
+    "Id": 6589,
+    "PossibleSupports": "231, 232, 233, 49, 50, 51, 136, 137, 138, 77, 78, 79, 37, 38, 39, 65, 66, 67, 159, 193, 194, 195, 199",
+    "Name": "Meteor",
+    "Description": "Call a meteor from the skies, which crashes down dealing area fire damage to those it hits.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseAzadiSkill.dds"
+  },
+  {
+    "_index": 110,
+    "Id": 9982,
+    "PossibleSupports": "231, 232, 233, 49, 50, 51, 216, 136, 137, 138, 77, 78, 79, 37, 38, 39",
+    "Name": "Purifying Flame",
+    "Description": "Creates a wave of divine fire dealing damage in a line, then creates Consecrated Ground and deals damage in an area. A larger shockwave then expands outwards, damaging enemies standing on Consecrated Ground that were not already hit.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 111,
+    "Id": 5906,
+    "PossibleSupports": "129, 130, 131, 37, 38, 39, 49, 50, 51, 65, 66, 67, 159, 247",
+    "Name": "Scorching Ray Totem",
+    "Description": "Creates a Spell Totem that unleashes a beam of fire that burns enemies it touches. Enemies in the beam raises the burning, adding a portion of the beam's damage in stages. Inflicts Fire Exposure at maximum stages. Enemies who leave the beam continue to burn for a duration.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 112,
+    "Id": 2293,
+    "PossibleSupports": "77, 78, 79, 49, 50, 51, 129, 130, 131, 0, 1, 37, 38, 39, 154, 155, 156, 136, 137, 138, 114, 199, 248",
+    "Name": "Holy Flame Totem",
+    "Description": "Summons a totem that channels to fire a stream of flame at nearby enemies, and creates an area of consecrated ground around the totem.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 113,
+    "Id": 11777,
+    "PossibleSupports": "0, 1, 126, 127, 128, 65, 66, 67, 159, 49, 50, 51, 231, 232, 233, 55, 56, 57",
+    "Name": "Vaal Caustic Arrow",
+    "Description": "Fires a slow-moving serpentine arrow which deals chaos damage while piercing enemies, and leaves a trail of caustic ground. Enemies standing on the caustic ground take chaos damage over time.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 114,
+    "Id": 652,
+    "PossibleSupports": "0, 1, 231, 232, 233, 49, 50, 51, 126, 127, 128, 157, 158, 120, 121, 122, 143, 144, 145, 113, 2, 171, 172, 173, 22",
+    "Name": "Caustic Arrow",
+    "Description": "Fires an arrow which deals chaos damage in an area on impact, and spreads caustic ground. Enemies standing on the caustic ground take chaos damage over time.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 115,
+    "Id": 6784,
+    "PossibleSupports": "231, 232, 233, 143, 144, 145",
+    "Name": "Chaotic Burst",
+    "Description": "Deals physical and chaos attack damage in an area.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseBardiyaSkill.dds"
+  },
+  {
+    "_index": 116,
+    "Id": 8524,
+    "PossibleSupports": "0, 1, 157, 158, 183, 184, 185, 120, 121, 122, 154, 155, 156, 33, 34, 35",
+    "Name": "Chaotic Shot",
+    "Description": "Fire a rapidly decelerating arrow that converts part of the physical damage it deals to chaos. When it comes to a stop, it will trigger Chaotic Burst.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseBardiyaSkill.dds"
+  },
+  {
+    "_index": 117,
+    "Id": 9397,
+    "PossibleSupports": "0, 1, 231, 232, 233, 49, 50, 51, 126, 127, 128, 157, 158, 120, 121, 122, 143, 144, 145, 113, 254",
+    "Name": "Toxic Rain",
+    "Description": "Fire arrows into the air that rain down around the targeted area, dealing damage to enemies they hit and creating spore pods where they land. Each spore pod deals chaos damage over time to nearby enemies and slows their movement speed. The pods last for a duration before bursting, dealing area damage.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 118,
+    "Id": 9387,
+    "PossibleSupports": "0, 1, 49, 50, 51, 126, 127, 128, 157, 158, 120, 121, 122, 143, 144, 145, 33, 34, 35, 14, 74, 113",
+    "Name": "Scourge Arrow of Menace",
+    "Description": "Fire an arrow that leaves a spore pod in its wake. The spore pod blooms, firing thorn arrows, which travel for a short time before dissipating. Modifiers that cause additional projectiles to be fired will only apply to the initial arrows, each of which leaves its own spore pod.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 119,
+    "Id": 9012,
+    "PossibleSupports": "231, 232, 233, 49, 50, 51, 65, 66, 67, 159, 180, 181, 182, 30, 31, 32",
+    "Name": "Intimidating Cry",
+    "Description": "Performs a warcry, taunting nearby enemies to attack the user and exerting subsequent attacks. The user and nearby allies gain a buff that grants movement speed.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 120,
+    "Id": 9193,
+    "PossibleSupports": "231, 232, 233, 223, 164, 165, 166, 120, 121, 122, 228, 229, 230, 203, 204, 205, 191, 192, 46",
+    "Name": "Ground Slam",
+    "Description": "Slams the ground, creating a wave that travels forward and damages enemies with an increased chance to stun. The wave deals more damage to closer enemies. ",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 121,
+    "Id": 106,
+    "PossibleSupports": "231, 232, 233, 120, 121, 122, 228, 229, 230, 164, 165, 166, 222",
+    "Name": "Leap Slam",
+    "Description": "Jump through the air, damaging and knocking back enemies when landing.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 122,
+    "Id": 1533,
+    "PossibleSupports": "49, 50, 51, 65, 66, 67, 159, 37, 38, 39, 224",
+    "Name": "Molten Shell",
+    "Description": "Applies a buff that adds armour, and can take some of the damage from hits before being depleted.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 123,
+    "Id": 1558,
+    "PossibleSupports": "",
+    "Name": "Endure",
+    "Description": "Grants endurance charges to all nearby allies.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseKeitaSkill.dds"
+  },
+  {
+    "_index": 124,
+    "Id": 5945,
+    "PossibleSupports": "120, 121, 122, 65, 66, 67, 159, 231, 232, 233, 228, 229, 230, 164, 165, 166, 123, 124, 125",
+    "Name": "Burrow",
+    "Description": "Dive underground, dealing attack damage to nearby enemies and burrowing towards a targeted location. Then, erupt from the earth, dealing attack damage in an area.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseKeitaSkill.dds"
+  },
+  {
+    "_index": 125,
+    "Id": 10819,
+    "PossibleSupports": "228, 229, 230, 164, 165, 166, 231, 232, 233, 120, 121, 122, 217, 218, 219, 123, 124, 125, 249",
+    "Name": "Sunder of Trarthus",
+    "Description": "Slams the ground, creating a slow wave of churning terrain that damages enemies in a sequence of areas. A number of enemies hit by the wave will release a shockwave, damaging other enemies around them. Using the skill again will stop the previous wave. When the wave reaches a target or terrain, it can restart aiming towards an enemy, if one is in range.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 126,
+    "Id": 8612,
+    "PossibleSupports": "228, 229, 230, 164, 165, 166, 231, 232, 233, 120, 121, 122, 217, 218, 219, 65, 66, 67, 159, 203, 204, 205, 123, 124, 125",
+    "Name": "Tectonic Cascade",
+    "Description": "Create a cascading series of concussive eruptions which deal attack damage.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseKeitaSkill.dds"
+  },
+  {
+    "_index": 127,
+    "Id": 5329,
+    "PossibleSupports": "228, 229, 230, 164, 165, 166, 231, 232, 233, 49, 50, 51, 120, 121, 122, 217, 218, 219, 110, 111, 112, 123, 124, 125",
+    "Name": "Earthquake of Amplification",
+    "Description": "Smashes the ground, dealing damage in an area and cracking the earth. The crack will erupt in a powerful aftershock after a long duration. Cracks created before the first one has erupted will not generate their own aftershocks.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 128,
+    "Id": 1948,
+    "PossibleSupports": "",
+    "Name": "Determination",
+    "Description": "Casts an aura that grants armour.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 129,
+    "Id": 9203,
+    "PossibleSupports": "228, 229, 230, 164, 165, 166, 221, 217, 218, 219, 120, 121, 122, 231, 232, 233, 65, 66, 67, 159, 203, 204, 205, 123, 124, 125",
+    "Name": "Vaal Ground Slam",
+    "Description": "Slams the ground, creating a wave that travels in all directions that damages enemies with an increased chance to stun. The wave deals more damage to closer enemies.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 130,
+    "Id": 4749,
+    "PossibleSupports": "231, 232, 233, 49, 50, 51, 65, 66, 67, 159, 180, 181, 182, 30, 31, 32",
+    "Name": "Infernal Cry",
+    "Description": "Performs a warcry, taunting nearby enemies to attack the user and exerting subsequent attacks. The user and nearby allies gain a buff that grants a portion of their physical damage as extra fire damage. In addition to being taunted, enemies are inflicted with a secondary debuff causing them to explode when they die, dealing fire damage in an area.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 131,
+    "Id": 11769,
+    "PossibleSupports": "77, 78, 79, 231, 232, 233, 228, 229, 230, 96, 97, 98, 225, 120, 121, 122, 76, 40, 193, 194, 195, 199",
+    "Name": "Volcanic Fissure of Snaking",
+    "Description": "Slam the ground, creating a winding fissure that deals area damage while travelling outwards. When it reaches the target location it erupts dealing damage in an area. After erupting, the fissure can continue to move towards enemies to cause further eruptions.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 132,
+    "Id": 11671,
+    "PossibleSupports": "49, 50, 51, 37, 38, 39, 65, 66, 67, 47",
+    "Name": "Flame Link",
+    "Description": "Targets an ally to apply a buff which links to them for a duration, which grants added fire damage to the linked target. If the target dies while linked, the caster will also die. ",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 133,
+    "Id": 5776,
+    "PossibleSupports": "49, 50, 51, 231, 232, 233, 77, 78, 79, 120, 121, 122, 225, 193, 194, 195, 199",
+    "Name": "Ashen Fissure",
+    "Description": "Creates a fiery fissure which deals attack damage, partially converting physical damage to fire. Enemies struck have a chance to be covered in ash.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseKeitaSkill.dds"
+  },
+  {
+    "_index": 134,
+    "Id": 9250,
+    "PossibleSupports": "49, 50, 51, 231, 232, 233, 77, 78, 79, 120, 121, 122, 9, 225, 123, 124, 125, 193, 194, 195, 199",
+    "Name": "Consecrated Path",
+    "Description": "Slams the ground at a targeted location. If an enemy is near the targetted location, teleport to it from a short distance away, slam, and create an area of consecrated ground. ",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 135,
+    "Id": 8547,
+    "PossibleSupports": "77, 78, 79, 231, 232, 233, 96, 97, 98",
+    "Name": "Triggerslam",
+    "Description": "On landing from Leap Slam, cause a fiery eruption which deals attack damage, partially converting physical to fire.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseKeitaSkill.dds"
+  },
+  {
+    "_index": 136,
+    "Id": 8613,
+    "PossibleSupports": "231, 232, 233, 77, 78, 79, 120, 121, 122, 225, 46, 228, 229, 230, 40, 191, 192, 193, 194, 195, 199",
+    "Name": "Tectonic Slam",
+    "Description": "Slams the ground, unleashing a fiery fissure forward, dealing area damage and randomly releasing a number of smaller fissures branching off from it. Consumes an Endurance Charge every third time the ground is slammed with this skill. ",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 137,
+    "Id": 4676,
+    "PossibleSupports": "68, 69, 70, 120, 121, 122, 225, 228, 229, 230, 231, 232, 233, 48",
+    "Name": "Ice Crash",
+    "Description": "Slams the ground, damaging enemies in an area around the impact in three stages of increasing size. Enemies take slightly less damage on the second and third stage, and can only be hit by one stage.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 138,
+    "Id": 955,
+    "PossibleSupports": "68, 69, 70, 120, 121, 122, 62, 63, 64, 59, 60, 61, 80, 81, 82, 99, 100, 101",
+    "Name": "Glacial Hammer",
+    "Description": "Hits enemies, converting some of your physical damage to cold damage. If a non-unique enemy is frozen and is on less than one third life, they will shatter when hit by Glacial Hammer. If striking three times in a row, the third strike will freeze enemies more easily. Requires a Mace, Sceptre or Staff.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 139,
+    "Id": 965,
+    "PossibleSupports": "68, 69, 70, 83, 84, 85, 49, 50, 51, 65, 66, 67, 231, 232, 233, 90, 91, 92, 59, 60, 61, 99, 100, 101",
+    "Name": "Vaal Glacial Hammer",
+    "Description": "Hits enemies, converting physical damage to cold damage. Traps enemies in a circle of ice so that they can't escape. ",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 140,
+    "Id": 5330,
+    "PossibleSupports": "68, 69, 70, 120, 121, 122, 225, 228, 229, 230, 231, 232, 233, 52, 53, 54, 99, 100, 101, 59, 60, 61, 123, 124, 125",
+    "Name": "Earthquake of Winter",
+    "Description": "Smashes the ground, dealing damage in an area and cracking the earth. The crack will erupt in a powerful aftershock after a duration. Physical damage dealt is partially converted to cold.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 141,
+    "Id": 1280,
+    "PossibleSupports": "120, 121, 122, 164, 165, 166, 62, 63, 64, 191, 192, 46, 21, 4, 83, 84, 85",
+    "Name": "Heavy Strike of Trarthus",
+    "Description": "Attacks enemies with a forceful blow which has a higher chance to deal double damage the higher your intelligence. Increases and reductions to spell damage apply to attack damage with this skill.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 142,
+    "Id": 304,
+    "PossibleSupports": "120, 121, 122, 164, 165, 166, 110, 111, 112, 191, 192, 196, 197, 198, 62, 63, 64, 4, 46",
+    "Name": "Dual Strike",
+    "Description": "Attacks with both weapons, dealing the damage of both in one strike. ",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 143,
+    "Id": 1963,
+    "PossibleSupports": "",
+    "Name": "Hatred",
+    "Description": "Casts an aura that grants extra cold damage based on physical damage.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 144,
+    "Id": 3318,
+    "PossibleSupports": "77, 78, 79, 0, 1, 171, 172, 173, 65, 66, 67, 159, 126, 127, 128, 231, 232, 233, 123, 124, 125, 199",
+    "Name": "Vaal Burning Arrow",
+    "Description": "Fires an arrow that explodes, dealing fire damage to its target and other nearby enemies, with an increased chance of igniting them.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 145,
+    "Id": 5136,
+    "PossibleSupports": "231, 232, 233, 120, 121, 122, 90, 91, 92, 126, 127, 128, 49, 50, 51, 55, 56, 57, 199, 250",
+    "Name": "Blast Rain of Trarthus",
+    "Description": "Fires a single arrow up in the air, to rain down at a targeted location. The arrow deals area damage around where it lands, as well as releasing a wave of fire which will apply a burning debuff to enemies.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 146,
+    "Id": 2351,
+    "PossibleSupports": "",
+    "Name": "Blasphemy Flammability",
+    "Description": "Casts an aura that curses all enemies in an area, lowering their fire resistance and giving them a chance to be ignited when hit.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 147,
+    "Id": 11746,
+    "PossibleSupports": "",
+    "Name": "Alchemist's Mark",
+    "Description": "Curses an enemy, granting flask charges on hit and creating Burning Ground under the target if a hit Ignites them, and Caustic Ground if it Poisons them.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 148,
+    "Id": 1984,
+    "PossibleSupports": "120, 121, 122, 126, 127, 128, 96, 97, 98, 77, 78, 79, 0, 1, 142, 55, 56, 57, 74, 22, 199, 251",
+    "Name": "Burning Arrow",
+    "Description": "Fires a burning arrow that deals fire damage and has a chance to ignite.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 149,
+    "Id": 6714,
+    "PossibleSupports": "120, 121, 122, 126, 127, 128, 49, 50, 51, 65, 66, 67, 159, 231, 232, 233",
+    "Name": "Molten Well",
+    "Description": "Fires an incendiary arrow into the air which will create an area of molten ground on impact. Enemies within the molten ground take fire damage over time.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseBardiyaSkill.dds"
+  },
+  {
+    "_index": 150,
+    "Id": 10451,
+    "PossibleSupports": "77, 78, 79, 0, 1, 65, 66, 67, 159, 231, 232, 233, 114, 129, 130, 131, 255",
+    "Name": "Artillery Ballista",
+    "Description": "Summons a ballista totem that propels a sequence of fiery arrows into the air. The arrows impact the ground in a line, each dealing area damage to enemies around it.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 151,
+    "Id": 1064,
+    "PossibleSupports": "77, 78, 79, 120, 121, 122, 0, 1, 126, 127, 128, 96, 97, 98, 75, 123, 124, 125",
+    "Name": "Explosive Arrow",
+    "Description": "Fires a sequence of arrows which will stick into an enemy or wall, and then explode, dealing area damage around them, either after a duration or when the maximum number of arrows stuck to that target is reached. ",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 152,
+    "Id": 2474,
+    "PossibleSupports": "231, 232, 233, 120, 121, 122, 40, 110, 111, 112, 15, 139, 140, 141, 196, 197, 198",
+    "Name": "Cyclone of the Empire",
+    "Description": "Moves towards a targeted location while spinning constantly attacking enemies in an area. Enemies struck by this skill are knocked inwards towards the attacker.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 153,
+    "Id": 9190,
+    "PossibleSupports": "120, 121, 122, 110, 111, 112, 62, 63, 64, 46, 164, 165, 166, 49, 50, 51, 167, 4, 196, 197, 198, 65, 66, 67, 159",
+    "Name": "Vaal Double Strike",
+    "Description": "Performs two fast strikes with a melee weapon, each of which summons a double for a duration to continuously attack monsters in this fashion.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 154,
+    "Id": 115,
+    "PossibleSupports": "120, 121, 122, 191, 192, 232, 231, 233, 164, 165, 166, 123, 124, 125, 110, 111, 112, 23, 24, 25, 196, 197, 198",
+    "Name": "Sweep",
+    "Description": "Swings a two handed melee weapon in a circle, knocking back monsters around the character.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 155,
+    "Id": 4696,
+    "PossibleSupports": "30, 31, 32, 180, 181, 182, 65, 66, 67, 159, 49, 50, 51, 231, 232, 233",
+    "Name": "Rallying Cry",
+    "Description": "Performs a warcry, taunting nearby enemies to attack the user and exerting subsequent attacks. Nearby allies gain a buff based on the user's weapon.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 156,
+    "Id": 8786,
+    "PossibleSupports": "231, 232, 233, 164, 165, 166, 123, 124, 125, 110, 111, 112, 23, 24, 25, 196, 197, 198",
+    "Name": "Triggerblades",
+    "Description": "Large blades spike upwards from the ground, dealing attack damage in an area.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseAzadiSkill.dds"
+  },
+  {
+    "_index": 157,
+    "Id": 10184,
+    "PossibleSupports": "65, 66, 67, 159, 49, 50, 51",
+    "Name": "Steelskin Ally",
+    "Description": "Applies a buff to an ally which can take some damage from hits before being depleted.",
+    "HouseIcon": "Art/2DArt/BuffIcons/QuickGuard.dds"
+  },
+  {
+    "_index": 158,
+    "Id": 746,
+    "PossibleSupports": "191, 192, 120, 121, 122, 110, 111, 112, 13, 62, 63, 64, 46, 164, 165, 166, 4, 196, 197, 198",
+    "Name": "Flicker Strike",
+    "Description": "Teleports the character to a nearby enemy and attacks with a melee weapon. Grants a buff that increases movement speed for a duration. The cooldown can be bypassed by expending a Frenzy Charge.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 159,
+    "Id": 1552,
+    "PossibleSupports": "",
+    "Name": "Incite",
+    "Description": "Grants frenzy charges to all nearby allies.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseAzadiSkill.dds"
+  },
+  {
+    "_index": 160,
+    "Id": 10198,
+    "PossibleSupports": "23, 24, 25, 164, 165, 166, 120, 121, 122, 231, 232, 233, 126, 127, 128, 17, 103, 104, 105, 196, 197, 198",
+    "Name": "Bladestorm",
+    "Description": "Perform a spinning attack, damaging surrounding enemies and creating a bladestorm matching the active stance. The bladestorm repeatedly damages enemies, based on weapon damage and attack time, for a duration. Blood bladestorms are stationary and cause Bleeding, while Sand bladestorms move slowly forwards and Blind enemies. ",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 161,
+    "Id": 6709,
+    "PossibleSupports": "",
+    "Name": "Bloodthirst",
+    "Description": "Applies a short duration buff to nearby allies, granting them physical damage over time multiplier and attack speed.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseAzadiSkill.dds"
+  },
+  {
+    "_index": 162,
+    "Id": 5623,
+    "PossibleSupports": "231, 232, 233, 49, 50, 51, 65, 66, 67, 159, 126, 127, 128",
+    "Name": "Oil Slick",
+    "Description": "Creates an area of oil covered ground, which slows all enemies within it",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseAzadiSkill.dds"
+  },
+  {
+    "_index": 163,
+    "Id": 5793,
+    "PossibleSupports": "23, 24, 25, 164, 165, 166, 120, 121, 122, 231, 232, 233, 126, 127, 128, 103, 104, 105, 191, 192, 196, 197, 198",
+    "Name": "Lacerate",
+    "Description": "Slashes twice, releasing waves of force that damage enemies they hit. Enemies in the middle of the slashes can be hit by both. The slashes will have a chance to inflict bleeding in Blood Stance, or have a wider angle in Sand Stance. ",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 164,
+    "Id": 10206,
+    "PossibleSupports": "23, 24, 25, 164, 165, 166, 120, 121, 122, 231, 232, 233, 126, 127, 128, 103, 104, 105, 191, 192, 18, 196, 197, 198",
+    "Name": "Perforate",
+    "Description": "Smash the ground to bring forth multiple spears to damage enemies. When in Blood Stance, multiple spikes burst from the ground in sequence, able to hit enemies multiple times. In Sand Stance, the spikes are thrust outwards. ",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 165,
+    "Id": 2578,
+    "PossibleSupports": "0, 1, 126, 127, 128, 23, 24, 25, 103, 104, 105, 231, 232, 233, 164, 165, 166",
+    "Name": "Blood Mortar",
+    "Description": "Flings a mortar of blood in an arc which deals attack damage on impact and has a high chance to inflict bleeding.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseAzadiSkill.dds"
+  },
+  {
+    "_index": 166,
+    "Id": 10568,
+    "PossibleSupports": "120, 121, 122, 0, 1, 19, 90, 91, 92, 171, 172, 173, 6, 7, 83, 84, 85, 86, 87, 88, 148, 149, 150, 174, 175, 176",
+    "Name": "Kinetic Bolt",
+    "Description": "Fires a projectile that changes direction in a zig-zag pattern at regular intervals or when hitting enemies. Each time it changes direction, a secondary projectile breaks off, flying in the direction it changed away from.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 167,
+    "Id": 4473,
+    "PossibleSupports": "120, 121, 122, 0, 1, 19, 90, 91, 92, 171, 172, 173, 6, 7, 83, 84, 85, 86, 87, 88, 148, 149, 150, 174, 175, 176, 22, 142",
+    "Name": "Kinetic Blast of Clustering",
+    "Description": "Fires a projectile from a Wand that causes a series of area explosions in a secondary radius around its point of impact, each damaging enemies.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 168,
+    "Id": 1547,
+    "PossibleSupports": "120, 121, 122, 148, 149, 150, 174, 175, 176, 0, 1, 90, 91, 92, 83, 84, 85, 86, 87, 88",
+    "Name": "Power Siphon",
+    "Description": "Fires your wand to fire a single projectile each at a number of nearby enemies, granting a power charge if an enemy is killed by, or soon after, the hit.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 169,
+    "Id": 3103,
+    "PossibleSupports": "120, 121, 122, 0, 1, 154, 155, 156, 90, 91, 92, 148, 149, 150, 174, 175, 176, 83, 84, 85, 86, 87, 88",
+    "Name": "Barrage",
+    "Description": "Fires individual projectiles repeatedly with a Bow or Wand. These projectiles have a small randomised spread.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 170,
+    "Id": 4472,
+    "PossibleSupports": "65, 66, 67, 159, 0, 1, 154, 155, 156, 90, 91, 92, 148, 149, 150, 174, 175, 176, 22, 83, 84, 85, 86, 87, 88",
+    "Name": "Greater Kinetic Blast",
+    "Description": "Fires many projectiles from a Wand that cause series' of area explosions in a secondary radius around their points of impact, each damaging enemies.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 171,
+    "Id": 4705,
+    "PossibleSupports": "180, 181, 182, 231, 232, 233, 49, 50, 51, 65, 66, 67",
+    "Name": "Inspiring Cry",
+    "Description": "Taunts nearby enemies while granting increased damage and mana regeneration rate to nearby allies.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 172,
+    "Id": 1123,
+    "PossibleSupports": "11, 12, 231, 232, 233, 37, 38, 39, 58",
+    "Name": "Elemental Weakness",
+    "Description": "Curses all targets in an area, lowering their elemental resistances.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 173,
+    "Id": 10441,
+    "PossibleSupports": "120, 121, 122, 0, 1, 49, 50, 51, 108, 217, 218, 219, 109",
+    "Name": "Ensnaring Arrow",
+    "Description": "Fires an arrow that remains in the ground behind its final target, tethering that enemy to it. Ensnared enemies have less movement speed while trying to break the snare. The snare will break if they leave the area of effect.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 174,
+    "Id": 3931,
+    "PossibleSupports": "",
+    "Name": "Poacher's Mark",
+    "Description": "Curses an enemy, lowering their physical damage reduction, and adding physical damage to all hits against them. Attacking the cursed enemy will grant life and mana, and killing them will grant a frenzy charge. ",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 175,
+    "Id": 9134,
+    "PossibleSupports": "120, 121, 122, 154, 155, 156, 231, 232, 233, 217, 218, 219, 164, 165, 166, 110, 111, 112",
+    "Name": "Rain of Arrows of Saturation",
+    "Description": "Fires multiple arrows into the air, to slowly land in sequence after a delay, starting at the targeted location and spreading outwards in all directions. Each arrow deals damage in an area around it. Half of the arrows will land directly on targets if there are targets in their range.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 176,
+    "Id": 5027,
+    "PossibleSupports": "120, 121, 122, 154, 155, 233, 217, 218, 219, 164, 165, 166, 110, 111, 112, 0, 1, 114, 129, 130, 131",
+    "Name": "Siege Ballista of Trarthus",
+    "Description": "Summons a ring of ballista totems around a targeted location. These ballistae fire once at the targeted location and then expire.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 177,
+    "Id": 3879,
+    "PossibleSupports": "120, 121, 122, 154, 155, 233, 217, 218, 219, 164, 165, 166, 110, 111, 112, 0, 1, 115, 113, 6, 7, 74, 22",
+    "Name": "Tornado Shot",
+    "Description": "Fires a piercing shot that travels until it reaches the targeted location. It will then fire projectiles out in all directions from that point, which will travel for a short time before disappearing.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 178,
+    "Id": 10434,
+    "PossibleSupports": "120, 121, 122, 154, 155, 233, 217, 218, 219, 164, 165, 166, 110, 111, 112, 0, 1, 114, 129, 130, 131, 171, 172, 173",
+    "Name": "Shrapnel Ballista",
+    "Description": "Summons a ballista totem that fires multiple arrows with extreme force, breaking them apart into shrapnel. Enemies can be hit by multiple arrows from the same attack.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 179,
+    "Id": 11832,
+    "PossibleSupports": "120, 121, 122, 0, 1, 217, 218, 219, 142, 151, 152, 153, 154, 155, 156, 164, 165, 166",
+    "Name": "Greater Split Arrow",
+    "Description": "Fires multiple arrows which redirect and split midair multiple times.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 180,
+    "Id": 386,
+    "PossibleSupports": "120, 121, 122, 0, 1, 217, 218, 219, 142, 151, 152, 153, 154, 155, 156, 164, 165, 166, 6, 7, 171, 172, 173, 23, 24, 25",
+    "Name": "Split Arrow",
+    "Description": "Fires multiple arrows at different targets.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 181,
+    "Id": 1874,
+    "PossibleSupports": "55, 56, 57, 49, 50, 51, 120, 121, 122, 164, 165, 166, 126, 127, 128, 103, 104, 105, 171, 172, 173, 0, 1, 6, 7, 22",
+    "Name": "Puncture",
+    "Description": "Fires a puncturing arrow, which causes a bleeding debuff affected by modifiers to skill duration.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 182,
+    "Id": 1895,
+    "PossibleSupports": "42, 71, 72, 73, 120, 121, 122, 90, 91, 92, 0, 1, 142, 74, 5, 22, 86, 87, 88",
+    "Name": "Lightning Arrow",
+    "Description": "Fires a charged arrow which damages enemies by causing them to be struck by a bolt of lightning, which also damages a number of surrounding enemies.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 183,
+    "Id": 11816,
+    "PossibleSupports": "42, 71, 72, 73, 120, 121, 122, 90, 91, 92, 0, 1, 6, 7, 22, 252, 86, 87, 88",
+    "Name": "Vaal Lightning Arrow",
+    "Description": "Fires charged arrows, which repeatedly travel for a short time before changing direction. When they hit enemies, they are struck by a bolt of lightning which damages a number of surrounding enemies.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 184,
+    "Id": 11550,
+    "PossibleSupports": "42, 71, 72, 73, 120, 121, 122, 90, 91, 92, 0, 1, 41, 231, 232, 233, 123, 124, 125, 86, 87, 88",
+    "Name": "Storm Rain",
+    "Description": "Fires an arrow into the air to land at a targeted location, dealing area damage. The arrow sticks in the ground where it lands, and periodically fires a beam of lightning to another arrow near it, dealing area damage between them.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 185,
+    "Id": 10163,
+    "PossibleSupports": "",
+    "Name": "Precision",
+    "Description": "Casts an aura that grants accuracy and critical strike chance.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 186,
+    "Id": 1162,
+    "PossibleSupports": "",
+    "Name": "Assassin's Mark",
+    "Description": "Curses an enemy, making them more vulnerable to Critical Strikes. Killing the cursed enemy will grant life and mana, and a power charge.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 187,
+    "Id": 5161,
+    "PossibleSupports": "42, 71, 72, 73, 120, 121, 122, 90, 91, 92, 0, 1, 74",
+    "Name": "Galvanic Arrow",
+    "Description": "Fire a trio of electrical arrows that quickly dissipate, vanishing shortly after being loosed. The arrows are fired with such force that they create a burst of lightning, damaging enemies in a cone in front of you.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 188,
+    "Id": 1894,
+    "PossibleSupports": "42, 71, 72, 73, 120, 121, 122, 90, 91, 92, 0, 1, 142, 74, 5, 22, 86, 87, 88",
+    "Name": "Greater Lightning Arrow",
+    "Description": "Fires multiple charged arrows which damage enemies by causing them to be struck by a bolt of lightning, which also damages a number of surrounding enemies. Lightning damage dealt by this skill has a chance to sap.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 189,
+    "Id": 182,
+    "PossibleSupports": "120, 121, 122, 231, 232, 233, 116, 117, 118, 164, 165, 166, 217, 218, 219, 119, 191, 192, 228, 229, 230",
+    "Name": "Cleave",
+    "Description": "Swings equipped weapon in an arc, damaging monsters in an area. ",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 190,
+    "Id": 107,
+    "PossibleSupports": "120, 121, 122, 231, 232, 233, 116, 117, 118, 164, 165, 166, 217, 218, 219, 228, 229, 230, 222, 46, 123, 124, 125",
+    "Name": "Leap Slam of Groundbreaking",
+    "Description": "Jump a short distance through the air, damaging and knocking back enemies with your weapon where you land. Enemies you would land on are pushed out of the way.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 191,
+    "Id": 4888,
+    "PossibleSupports": "65, 66, 67, 159, 49, 50, 51, 62, 63, 64, 20, 120, 121, 122, 4, 196, 197, 198",
+    "Name": "Vigilant Strike",
+    "Description": "Attacks enemies with a powerful melee strike which grants Fortification, reducing damage taken from hits. The cooldown can be bypassed by expending an Endurance Charge.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 192,
+    "Id": 1279,
+    "PossibleSupports": "120, 121, 122, 164, 165, 166, 62, 63, 64, 191, 192, 46, 21, 4, 196, 197, 198, 109",
+    "Name": "Heavy Strike of Vulnerability",
+    "Description": "Attacks enemies with a forceful blow, with a chance to inflict Vulnerability on hit.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 193,
+    "Id": 11570,
+    "PossibleSupports": "120, 121, 122, 164, 165, 166, 62, 63, 64, 191, 192, 46, 106, 49, 50, 51, 228, 229, 230, 4, 196, 197, 198, 109",
+    "Name": "Boneshatter",
+    "Description": "Attack enemies with a forceful melee strike that also hurts the user. Successive uses will raise the damage dealt both to enemies and the user. Stunning an enemy with the strike releases a damaging pulse.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 194,
+    "Id": 2122,
+    "PossibleSupports": "65, 66, 67, 159, 231, 232, 233, 129, 130, 131",
+    "Name": "Decoy Totem",
+    "Description": "Summons a totem that taunts nearby monsters to attack it.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 195,
+    "Id": 9207,
+    "PossibleSupports": "65, 66, 67, 159, 120, 121, 122, 114, 129, 130, 131, 231, 232, 233, 164, 165, 166, 123, 124, 125",
+    "Name": "Vaal Ancestral Warchief",
+    "Description": "Summons an Ancestor Totem which attacks enemies with a powerful cascading slam. If enemies are far away, it will leap toward them as it slams.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 196,
+    "Id": 1920,
+    "PossibleSupports": "",
+    "Name": "Vitality",
+    "Description": "Casts an aura that grants life regeneration.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 197,
+    "Id": 6625,
+    "PossibleSupports": "65, 66, 67, 159, 231, 232, 233, 120, 121, 122, 164, 165, 166, 228, 229, 230",
+    "Name": "Tunnelslam",
+    "Description": "Creates a burrowing charge which travels forwards and then explodes, dealing area damage. Damage from this skill has a chance to intimidate on hit.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseKeitaSkill.dds"
+  },
+  {
+    "_index": 198,
+    "Id": 259,
+    "PossibleSupports": "30, 31, 32, 180, 181, 182, 231, 232, 233, 49, 50, 51",
+    "Name": "Enduring Cry",
+    "Description": "Performs a warcry, taunting all nearby enemies to attack the user and granting a buff to the user and nearby allies. The user and allied players also gain endurance charges.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 199,
+    "Id": 8593,
+    "PossibleSupports": "",
+    "Name": "Physical Aegis",
+    "Description": "Surrounds the caster with a physical barrier which will absorb incoming physical damage up to a point, then break. This barrier will recharge over time.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseKeitaSkill.dds"
+  },
+  {
+    "_index": 200,
+    "Id": 3647,
+    "PossibleSupports": "0, 1, 90, 91, 92, 136, 137, 138, 120, 121, 122, 3, 151, 152, 153, 154, 155, 156",
+    "Name": "Sanctified Strike",
+    "Description": "Attacks with physical and lightning damage. This attack causes balls of holy energy to launch forth from the enemies hit, divided amongst all enemies hit by the strike. These will deal area attack damage to enemies where they land.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseAzadiSkill.dds"
+  },
+  {
+    "_index": 201,
+    "Id": 3922,
+    "PossibleSupports": "231, 232, 233, 164, 165, 166, 228, 229, 230, 177, 178, 179, 188, 189, 190, 191, 192",
+    "Name": "Herald of Purity",
+    "Description": "Grants a buff which provides more physical damage. When an enemy is killed while this buff is active, this skill will summon a Sentinel of Purity, or refresh the duration and life of an existing one instead if the maximum number is active. The Sentinels of Purity have a single-target melee attack and an area melee attack.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 202,
+    "Id": 5777,
+    "PossibleSupports": "65, 66, 67, 159, 49, 50, 51",
+    "Name": "Enrage",
+    "Description": "Enrage for a short duration, gaining attack speed, movement speed and damage.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseKeitaSkill.dds"
+  },
+  {
+    "_index": 203,
+    "Id": 11761,
+    "PossibleSupports": "65, 66, 67, 159, 231, 232, 233, 164, 165, 166, 228, 229, 230, 121, 120, 122, 116, 117, 118",
+    "Name": "Vaal Cleave",
+    "Description": "Swings equipped weapon in an arc, damaging monsters in an area. Killing Blows on Rare or Unique enemies grant a buff that improves Cleave for a duration. Killing Blows on Rare Enemies also steal their modifiers for a secondary duration.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 204,
+    "Id": 5771,
+    "PossibleSupports": "231, 232, 233, 164, 165, 166, 228, 229, 230, 121, 120, 122, 116, 117, 118, 40, 196, 197, 198, 203, 204, 205",
+    "Name": "Slicing Wind",
+    "Description": "Release an arc of pure force, dealing area damage.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseAzadiSkill.dds"
+  },
+  {
+    "_index": 205,
+    "Id": 10211,
+    "PossibleSupports": "231, 232, 233, 116, 117, 118, 120, 121, 122, 164, 165, 166, 228, 229, 230, 123, 124, 125",
+    "Name": "Chain Hook of Trarthus",
+    "Description": "Throws chains ahead, chaining targets hit. Enemies chained will grant rage when hit. When chains are broken, they snap and deal damage in an area around the target they were attached to.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 206,
+    "Id": 3608,
+    "PossibleSupports": "",
+    "Name": "Raise Spectre: Holy Flame Elementals",
+    "Description": "Raises a spectral version of a Holy Flame Elemental as a minion.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseAzadiSkill.dds"
+  },
+  {
+    "_index": 207,
+    "Id": 2625,
+    "PossibleSupports": "231, 232, 233, 93, 94, 95, 228, 229, 230, 90, 91, 92, 123, 124, 125",
+    "Name": "Touch of God",
+    "Description": "Slams the ground with a fist, with less attack speed, but more damage. This attack deals Lightning Damage to enemies in a large area, with a chance to Shock them. Cannot be Evaded.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 208,
+    "Id": 9256,
+    "PossibleSupports": "231, 232, 233, 43, 44, 45, 90, 91, 92, 120, 121, 122, 226",
+    "Name": "Smite",
+    "Description": "Performs a melee attack, and causes lightning to strike a nearby enemy, dealing damage in an area. Each target can only be hit once by this skill. Hitting an enemy grants an aura for a duration.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 209,
+    "Id": 1296,
+    "PossibleSupports": "120, 121, 122, 231, 232, 233, 177, 178, 179, 188, 189, 190, 191, 192, 164, 165, 166, 4",
+    "Name": "Dominating Blow",
+    "Description": "Attacks enemies with a melee strike, applying a debuff for a short duration. If a non-unique enemy dies while affected by the debuff, the enemy's corpse will be consumed and a Sentinel of Dominance with the same rarity, prefix and suffix modifiers will be summoned for a longer secondary duration.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 210,
+    "Id": 9407,
+    "PossibleSupports": "65, 66, 67, 231, 232, 233, 164, 165, 166, 136, 137, 138, 177, 178, 179, 16",
+    "Name": "Holy Relic",
+    "Description": "Summon a Holy Relic that stays nearby. When an enemy is hit with an attack, the Holy Relic triggers a nova spell with a short cooldown, that deals physical damage to enemies and grants life regeneration to allies in an area around it. This life regeneration is higher when applied to minions.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 211,
+    "Id": 4180,
+    "PossibleSupports": "65, 66, 67, 159, 49, 50, 51, 231, 232, 233, 164, 165, 166, 136, 137, 138",
+    "Name": "Beacons of Faith",
+    "Description": "Creates numerous beacons in a large area which explode after a delay, dealing physical area damage. Each explosion creates a patch of consecrated ground.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseAzadiSkill.dds"
+  },
+  {
+    "_index": 212,
+    "Id": 6123,
+    "PossibleSupports": "154, 155, 156, 120, 121, 122, 164, 165, 166, 110, 111, 112, 0, 1, 6, 7, 171, 172, 173",
+    "Name": "Spectral Shield Throw of Trarthus",
+    "Description": "Throws a spectral shield as a piercing projectile which deals off-hand damage augmented by the defences of the shield. When it reaches the targeted location it will hover in place, repeatedly firing a number of smaller shards as projectiles in all directions. The rate at which it releases shards will increase until all shards have been fired.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 213,
+    "Id": 11554,
+    "PossibleSupports": "231, 232, 233, 120, 121, 122, 164, 165, 166, 228, 229, 230, 46, 110, 111, 112, 8, 203, 204, 205",
+    "Name": "Shield Crush",
+    "Description": "Swipe your shield, dealing area damage in three waves in front of you. Enemies can be hit by two of the waves where they overlap.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 214,
+    "Id": 207,
+    "PossibleSupports": "231, 232, 233, 120, 121, 122, 164, 165, 166, 228, 229, 230, 227",
+    "Name": "Shield Charge",
+    "Description": "Charges at a targeted location or enemy, pushing away enemies in the path and repeatedly dealing off-hand damage in a small area forwards. Deals damage in a larger area when reaching the target. The further travelled, the more damage dealt, and the greater the chance of stunning enemies.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 215,
+    "Id": 6710,
+    "PossibleSupports": "",
+    "Name": "Prismplate",
+    "Description": "Applies a short duration buff to an ally, causing a portion of their armour to apply to elemental damage taken.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseAzadiSkill.dds"
+  },
+  {
+    "_index": 216,
+    "Id": 6711,
+    "PossibleSupports": "",
+    "Name": "Brutal Teachings",
+    "Description": "Applies a short duration buff to nearby allies, causing impales they inflict to last for one additional hit.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseAzadiSkill.dds"
+  },
+  {
+    "_index": 217,
+    "Id": 9636,
+    "PossibleSupports": "110, 111, 112, 120, 121, 122, 164, 165, 166, 0, 1, 23, 24, 25, 154, 155, 156, 142",
+    "Name": "Shattering Steel",
+    "Description": "Swing an Axe or Sword, firing projectiles which shatter on impact or soon after being launched, dealing area damage in front of where they shatter.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 218,
+    "Id": 11000,
+    "PossibleSupports": "110, 111, 112, 120, 121, 122, 164, 165, 166, 0, 1, 23, 24, 25, 154, 155, 156, 142",
+    "Name": "Splitting Steel",
+    "Description": "Fire a single projectile that splits on impact or at the targeted location, dealing area damage when it splits and again when the split projectiles explode at the end of their flight.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 219,
+    "Id": 9614,
+    "PossibleSupports": "110, 111, 112, 120, 121, 122, 164, 165, 166, 0, 1, 23, 24, 25, 154, 155, 156, 142, 256",
+    "Name": "Lancing Steel",
+    "Description": "Thrust an Axe or Sword forward, consuming Steel Shards to form a cluster of shards. The cluster will fire a number of projectiles in sequence, aiming at enemies in front of or close to it. Steel Shards are gained with the Call of Steel Skill.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 220,
+    "Id": 11018,
+    "PossibleSupports": "",
+    "Name": "Call of Steel",
+    "Description": "Calls impale debuffs from enemies, alive or dead, in a large surrounding area to gain steel shards. Deals reflected damage in a smaller area around each enemy based on the impales removed from them. Continues to grant shards over time until reaching maximum or until they are spent.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 221,
+    "Id": 319,
+    "PossibleSupports": "120, 121, 122, 46, 164, 165, 166, 83, 84, 85, 26, 27, 28",
+    "Name": "Whirling Blades",
+    "Description": "Dive through enemies, dealing weapon damage. If dual wielding attacks with both weapons, dealing the damage of both in one hit. Only works with Daggers, Claws, and One-Handed Swords.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 222,
+    "Id": 10418,
+    "PossibleSupports": "33, 34, 35, 120, 121, 122, 0, 1, 154, 155, 156, 126, 127, 128, 103, 104, 105, 26, 27, 28, 157, 158",
+    "Name": "Venom Gyre",
+    "Description": "Fires a returning projectile that can be caught. Caught projectiles spiral outwards when you use Whirling Blades and do not return.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 223,
+    "Id": 1046,
+    "PossibleSupports": "33, 34, 35, 120, 121, 122, 126, 127, 128, 103, 104, 105, 26, 27, 28, 157, 158, 49, 50, 51, 62, 63, 64, 191, 192, 4",
+    "Name": "Viper Strike",
+    "Description": "Hits enemies, converting some of the physical damage to chaos damage and inflicting poison which will be affected by modifiers to skill duration. If dual wielding, will strike with both weapons.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 224,
+    "Id": 10414,
+    "PossibleSupports": "33, 34, 35, 120, 121, 122, 126, 127, 128, 103, 104, 105, 26, 27, 28, 157, 158, 62, 63, 64, 191, 192, 4",
+    "Name": "Pestilent Strike",
+    "Description": "Attacks enemies inflicting a debuff on hit. If a debuffed enemy dies while poisoned, Pestilent Strike inflicts a secondary chaos damage over time debuff on enemies around them, based on the poisons on the slain enemy. ",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 225,
+    "Id": 10360,
+    "PossibleSupports": "33, 34, 35, 143, 144, 145, 6, 7, 157, 158, 26, 27, 28, 0, 1, 154, 155, 156, 142, 257",
+    "Name": "Cobra Lash",
+    "Description": "Fires a poisonous projectile attack that will chain between enemies. ",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 226,
+    "Id": 3648,
+    "PossibleSupports": "33, 34, 35, 120, 121, 122, 0, 1, 154, 155, 156, 126, 127, 128, 103, 104, 105, 26, 27, 28, 157, 158",
+    "Name": "Profane Strike",
+    "Description": "Attacks with physical and chaos damage. This attack causes balls of unholy energy to launch forth from the enemies hit, divided amongst all enemies hit by the strike. These will deal area attack damage to enemies where they land.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 227,
+    "Id": 4751,
+    "PossibleSupports": "180, 181, 182, 65, 66, 67, 159, 231, 232, 233",
+    "Name": "Abyssal Cry",
+    "Description": "Performs a warcry, Hindering nearby enemies and causing them to explode when killed. The Hinder effect is proportional to the number of surrounding enemies. Taunts all nearby enemies to attack the user.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 228,
+    "Id": 9643,
+    "PossibleSupports": "65, 66, 67, 159, 231, 232, 233, 37, 38, 39, 148, 149, 150, 174, 175, 176, 157, 158, 164, 165, 166",
+    "Name": "Seismic Crush",
+    "Description": "Rip stone from the earth, compacting it into a bludgeoning sphere to slam down onto enemies.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseAzadiSkill.dds"
+  },
+  {
+    "_index": 229,
+    "Id": 1208,
+    "PossibleSupports": "65, 66, 67, 231, 232, 233, 37, 38, 39, 157, 158, 148, 149, 150",
+    "Name": "Bloody Warp",
+    "Description": "Teleport to a targeted destination. When the teleport occurs, physical damage is dealt to the area around both the origin and the destination.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 230,
+    "Id": 5191,
+    "PossibleSupports": "37, 38, 39, 231, 232, 233, 148, 149, 150, 174, 175, 176, 49, 50, 51, 157, 158, 164, 165, 166",
+    "Name": "Blade Vortex",
+    "Description": "This spell creates ethereal blades which orbit in an area around the caster, dealing damage every 0.6 seconds to all enemies in their radius. As more blades are added, the damage becomes greater and more frequent.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 231,
+    "Id": 2171,
+    "PossibleSupports": "37, 38, 39, 148, 149, 150, 174, 175, 176, 49, 50, 51, 157, 158, 164, 165, 166, 0, 1, 171, 172, 173",
+    "Name": "Ethereal Knives",
+    "Description": "Fires an arc of knives outwards in front of the caster which deal physical damage.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 232,
+    "Id": 9036,
+    "PossibleSupports": "",
+    "Name": "Aspect of the Spider",
+    "Description": "While active, periodically applies a Spider's Web debuff to nearby Enemies, and Hinders them. Each Spider's Web on an Enemy increases the Damage they take. Hinder reduces their movement speed.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 233,
+    "Id": 10704,
+    "PossibleSupports": "",
+    "Name": "Clutches of the Damned",
+    "Description": "Create a temporary tear through which the grasping hands of damned souls can claw, slowing enemies significantly.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseAzadiSkill.dds"
+  },
+  {
+    "_index": 234,
+    "Id": 5172,
+    "PossibleSupports": "11, 12, 37, 38, 39, 157, 158, 148, 149, 150, 174, 175, 176, 231, 232, 233, 10, 164, 165, 166",
+    "Name": "Bladefall",
+    "Description": "Ethereal weapons rain from the sky, dealing damage to enemies in a sequence of volleys. Enemies can be hit multiple times where these overlap.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 235,
+    "Id": 5173,
+    "PossibleSupports": "157, 158, 148, 149, 150, 174, 175, 176, 231, 232, 233, 123, 124, 125, 164, 165, 166",
+    "Name": "Bladefall of Trarthus",
+    "Description": "Casts a buff which causes volleys of ethereal weapons rain from the sky, dealing damage to enemies they impact.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 236,
+    "Id": 2971,
+    "PossibleSupports": "11, 12, 231, 232, 233, 49, 50, 51, 52, 53, 54, 55, 56, 57, 126, 127, 128, 37, 38, 39, 164, 165, 166, 123, 124, 125, 157, 158",
+    "Name": "Storm Call of Trarthus",
+    "Description": "Sets a marker at a location. After a short duration, a bolt strikes the marker, dealing physical damage around it and causing bolts to strike at any other markers. Bolt impacts will leave behind a pool of boiling blood, which deals physical damage over time to enemies within it for a secondary duration.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 237,
+    "Id": 1528,
+    "PossibleSupports": "",
+    "Name": "Tempest Shield",
+    "Description": "Enchants the equipped shield with the power of storms, which lashes out to deal arcing lightning damage to attackers on block.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 238,
+    "Id": 1141,
+    "PossibleSupports": "11, 12, 37, 38, 39, 231, 232, 233, 58",
+    "Name": "Punishment",
+    "Description": "Curses all targets in an area, causing them to be debilitated when they hit enemies and increasing damage they take while on low life.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 239,
+    "Id": 3654,
+    "PossibleSupports": "90, 91, 92, 0, 1, 6, 7, 77, 78, 79, 231, 232, 233, 193, 194, 195, 199",
+    "Name": "Vaal Molten Strike",
+    "Description": "Attacks with physical and fire damage. This attack causes balls of molten magma to launch forth causing area attack damage to enemies where they land.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 240,
+    "Id": 3649,
+    "PossibleSupports": "90, 91, 92, 0, 1, 6, 7, 77, 78, 79, 231, 232, 233, 193, 194, 195, 199, 258",
+    "Name": "Molten Strike",
+    "Description": "Attacks with physical and fire damage. This attack causes balls of molten magma to launch forth from the enemies hit, divided amongst all enemies hit by the strike. These will deal area attack damage to enemies where they land.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 241,
+    "Id": 9198,
+    "PossibleSupports": "90, 91, 92, 6, 7, 77, 78, 79, 231, 232, 233, 120, 121, 122, 191, 192, 193, 194, 195, 199",
+    "Name": "Infernal Blow of Immolation",
+    "Description": "Applies a charged debuff to themselves the first time the mercenary hits an enemy with this skill. Upon reaching 6 charges, or charges expiring, the charged debuff is removed to damage nearby enemies.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 242,
+    "Id": 3301,
+    "PossibleSupports": "49, 50, 51, 65, 66, 67, 159",
+    "Name": "Inflame",
+    "Description": "Become enraged and cloaked in flame, gaining a percentage of physical damage as extra fire as well as movement speed and attack speed for a short duration.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseKeitaSkill.dds"
+  },
+  {
+    "_index": 243,
+    "Id": 1468,
+    "PossibleSupports": "90, 91, 92, 0, 1, 6, 7, 77, 78, 79, 231, 232, 233, 142, 171, 172, 173, 6, 7, 193, 194, 195, 199",
+    "Name": "Flamebolt Strike",
+    "Description": "Swings with fiery energies. In addition to converting some physical damage to fire damage, the stored energy is released from the weapon as projectiles as you strike, flying out to hit farther-away enemies. The projectiles cannot miss if the melee attack hit a target.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 244,
+    "Id": 4592,
+    "PossibleSupports": "90, 91, 92, 49, 50, 51, 6, 7, 71, 72, 73, 231, 232, 233, 83, 84, 85",
+    "Name": "Static Strike",
+    "Description": "Attack with a melee weapon, gaining static energy for a duration if hitting an enemy. While statically charged, frequently hit a number of nearby enemies with beams, dealing attack damage.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 245,
+    "Id": 4912,
+    "PossibleSupports": "90, 91, 92, 0, 1, 6, 7, 142, 171, 172, 173, 6, 7, 68, 69, 70, 83, 84, 85, 59, 60, 61, 120, 121, 122, 191, 192, 86, 87, 88",
+    "Name": "Frost Blades",
+    "Description": "Attacks enemies with increased range, releasing icy blades from the first enemy hit which fly at other enemies.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 246,
+    "Id": 5035,
+    "PossibleSupports": "90, 91, 92, 0, 1, 6, 7, 142, 68, 69, 70, 83, 84, 85, 59, 60, 61, 0, 120, 121, 122, 89, 191, 192, 1, 83, 84, 85, 86, 87, 88",
+    "Name": "Wild Strike",
+    "Description": "Strike enemies, converting physical damage to a random element. Depending on the element chosen, causes a fiery explosion, an arcing bolt of lightning, or an icy wave. The same element is not chosen twice in a row.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 247,
+    "Id": 11559,
+    "PossibleSupports": "154, 155, 156, 151, 152, 153, 83, 84, 85, 90, 91, 92, 120, 121, 122",
+    "Name": "Spectral Helix",
+    "Description": "Throws a spectral melee weapon. It spins around while flying in a large spiral, damaging enemies in its path, and bouncing if it collides with walls.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 248,
+    "Id": 3918,
+    "PossibleSupports": "",
+    "Name": "Herald of Ice",
+    "Description": "Grants a buff adding cold damage to spells and attacks. If you shatter an enemy, this skill will cause them to explode and deal AoE cold damage to enemies near them. This damage is not affected by modifiers to spell damage.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 249,
+    "Id": 11529,
+    "PossibleSupports": "37, 38, 39, 71, 72, 73, 177, 178, 179, 188, 189, 190, 231, 232, 233, 11, 12, 93, 94, 95, 148, 149, 150, 86, 87, 88",
+    "Name": "Absolution",
+    "Description": "Damages enemies in an area, applying a debuff for a short duration. If a non-unique enemy dies while affected by the debuff, the corpse will be consumed to summon a Sentinel of Absolution for a secondary duration, or to refresh the duration and life of an existing one instead if you have the maximum number of them. ",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 250,
+    "Id": 11525,
+    "PossibleSupports": "180, 181, 182, 231, 232, 233, 65, 66, 67, 159",
+    "Name": "Battlemage's Cry",
+    "Description": "Performs a warcry, taunting nearby enemies to attack the user and exerting subsequent attacks. The user and nearby allies gain a buff that boosts critical strike chance.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 251,
+    "Id": 943,
+    "PossibleSupports": "177, 178, 179, 188, 189, 190, 136, 137, 138, 231, 232, 233, 0, 1, 120, 121, 122, 37, 38, 39, 148, 149, 150",
+    "Name": "Raise Spectre of Transience",
+    "Description": "Raises a spectral version of a defeated foe as a temporary minion.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 252,
+    "Id": 3609,
+    "PossibleSupports": "",
+    "Name": "Reinforce: Fallen Bishop",
+    "Description": "Calls on a powerful undead clergyman which curses surrounding enemies.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseAzadiSkill.dds"
+  },
+  {
+    "_index": 253,
+    "Id": 3610,
+    "PossibleSupports": "",
+    "Name": "Reinforce: Fallen Emperor",
+    "Description": "Calls on a long dead emporer to deliver brutal justice to deserving enemies.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseAzadiSkill.dds"
+  },
+  {
+    "_index": 254,
+    "Id": 3611,
+    "PossibleSupports": "",
+    "Name": "Reinforce: Fallen Osseotitan",
+    "Description": "Calls on a Colossus of cursed bone to inflict pain on your foes.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseAzadiSkill.dds"
+  },
+  {
+    "_index": 255,
+    "Id": 2208,
+    "PossibleSupports": "90, 91, 92, 68, 69, 70, 6, 7, 171, 172, 173, 0, 1, 231, 232, 233, 59, 60, 61, 22, 142",
+    "Name": "Ice Shot",
+    "Description": "Fires an arrow that converts some physical damage to cold on its target and converts all physical damage to cold in a cone behind that target.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 256,
+    "Id": 11820,
+    "PossibleSupports": "90, 91, 92, 68, 69, 70, 6, 7, 171, 172, 173, 0, 1, 231, 232, 233, 59, 60, 61, 22, 142, 65, 66, 67, 99, 100, 101",
+    "Name": "Vaal Ice Shot",
+    "Description": "Fires an arrow that converts some physical damage to cold on its target and converts all physical damage to cold in a cone behind that target. Summons a squad of Mirage Sharpshooters for a duration.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 257,
+    "Id": 1944,
+    "PossibleSupports": "",
+    "Name": "Vaal Grace",
+    "Description": "Casts a temporary aura that grants additional chance to evade attacks, and makes suppressed spell damage unlucky.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 258,
+    "Id": 8596,
+    "PossibleSupports": "49, 50, 51, 65, 66, 67, 37, 38, 39",
+    "Name": "Impenetrable Bastion",
+    "Description": "Creates an impenetrable barrier around an allied target, briefly making them completely invulnerable to damage.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseKeitaSkill.dds"
+  },
+  {
+    "_index": 259,
+    "Id": 6033,
+    "PossibleSupports": "90, 91, 92, 68, 69, 70, 6, 7, 171, 172, 173, 59, 60, 61, 22, 142, 65, 66, 67, 99, 100, 101",
+    "Name": "Frigid Forkshot",
+    "Description": "Fires an arrow which forks multiple times as it travels and deals high cold damage to those hit.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseBardiyaSkill.dds"
+  },
+  {
+    "_index": 260,
+    "Id": 5138,
+    "PossibleSupports": "90, 91, 92, 68, 69, 70, 0, 1, 231, 232, 233, 59, 60, 61, 22, 142, 65, 66, 67, 99, 100, 101",
+    "Name": "Icicle Rain",
+    "Description": "Fires arrows up in the air, to rain down in an area. Each arrow deals cold area damage around where it lands, and they will all overlap on the targeted location.",
+    "HouseIcon": "Art/2DArt/SkillIcons/HouseBardiyaSkill.dds"
+  },
+  {
+    "_index": 261,
+    "Id": 10188,
+    "PossibleSupports": "",
+    "Name": "Dash",
+    "Description": "Performs a series of quick teleports towards a targeted location.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 262,
+    "Id": 3102,
+    "PossibleSupports": "120, 121, 122, 0, 1, 217, 218, 219, 142, 151, 152, 153, 154, 155, 156, 164, 165, 166, 6, 7, 171, 172, 173",
+    "Name": "Barrage of Volley Fire",
+    "Description": "Fires projectiles repeatedly with a Bow or Wand. These projectiles have a small randomised spread.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 263,
+    "Id": 1907,
+    "PossibleSupports": "",
+    "Name": "Haste",
+    "Description": "Casts an aura that increases the movement speed, attack speed and cast speed.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 264,
+    "Id": 4494,
+    "PossibleSupports": "65, 66, 67, 49, 50, 51, 120, 121, 122, 154, 155, 156, 177, 178, 179, 188, 189, 190, 83, 84, 85, 159, 0, 1, 171, 172, 173, 6, 7",
+    "Name": "Mirror Arrow",
+    "Description": "Fires an arrow at the target destination. When the arrow lands, a clone is summoned.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 265,
+    "Id": 4487,
+    "PossibleSupports": "65, 66, 67, 49, 50, 51, 120, 121, 122, 154, 155, 156, 177, 178, 179, 188, 189, 190",
+    "Name": "Blink Arrow",
+    "Description": "Fires an arrow at the target destination. When the arrow lands, the user is teleported to it and a clone is summoned at the old location. The clone is a minion that copies the bow and quiver.",
+    "HouseIcon": ""
+  },
+  {
+    "_index": 266,
+    "Id": 357,
+    "PossibleSupports": "120, 121, 122, 0, 1, 171, 172, 173, 6, 7, 74, 22",
+    "Name": "Frenzy",
+    "Description": "Performs an attack with a ranged weapon that grants a frenzy charge if it hits.",
+    "HouseIcon": ""
+  }
+]

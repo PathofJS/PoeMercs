@@ -1,0 +1,2333 @@
+[
+  {
+    "_index": 0,
+    "Id": "MultipleProjectilesLow",
+    "Stat": "173",
+    "StatValues": "2",
+    "Name": "Lesser Multiple Projectiles",
+    "SupportFamily": 0,
+    "GemIcon": "Art/2DItems/Gems/Support/LesserMultipleProjectiles.dds"
+  },
+  {
+    "_index": 1,
+    "Id": "MultipleProjectilesHigh",
+    "Stat": "173",
+    "StatValues": "3",
+    "Name": "Greater Multiple Projectiles",
+    "SupportFamily": 0,
+    "GemIcon": "Art/2DItems/Gems/Support/GreaterMultipleProjectiles.dds"
+  },
+  {
+    "_index": 2,
+    "Id": "CausticArrowSpecificChaosConvertHigh",
+    "Stat": "1102",
+    "StatValues": "40",
+    "Name": "Gilded Caustic Conversion",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 3,
+    "Id": "HolyMoltenStrikeSpecificLightningExposureHigh",
+    "Stat": "10712",
+    "StatValues": "30",
+    "Name": "Gilded Exposure on Hit",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 4,
+    "Id": "MeleeSplashHigh",
+    "Stat": "3838, 1246, 1248",
+    "StatValues": "35, 1, -30",
+    "Name": "Melee Splash",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/Splash.dds"
+  },
+  {
+    "_index": 5,
+    "Id": "LightningArrowSpecificAddedTargetsHigh",
+    "Stat": "788",
+    "StatValues": "2",
+    "Name": "Gilded Extra Targets",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 6,
+    "Id": "AdditionalChainsLow",
+    "Stat": "172",
+    "StatValues": "1",
+    "Name": "Lesser Chain",
+    "SupportFamily": 1,
+    "GemIcon": "Art/2DItems/Gems/Support/chain.dds"
+  },
+  {
+    "_index": 7,
+    "Id": "AdditionalChainsMid",
+    "Stat": "172",
+    "StatValues": "3",
+    "Name": "Chain",
+    "SupportFamily": 1,
+    "GemIcon": "Art/2DItems/Gems/Support/chain.dds"
+  },
+  {
+    "_index": 8,
+    "Id": "ShieldCrushSpecificAttackDamageFromShieldHigh",
+    "Stat": "11372",
+    "StatValues": "3",
+    "Name": "Gilded Shield Damage",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 9,
+    "Id": "ConsecratedPathSpecificDamageGainHigh",
+    "Stat": "4723",
+    "StatValues": "40",
+    "Name": "Gilded Consecration",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 10,
+    "Id": "BladeFallSpecificAddedVolleysHigh",
+    "Stat": "7939",
+    "StatValues": "2",
+    "Name": "Gilded Volleys",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 11,
+    "Id": "SpellCascadeLow",
+    "Stat": "6851",
+    "StatValues": "1",
+    "Name": "Lesser Spell Cascade",
+    "SupportFamily": 2,
+    "GemIcon": "Art/2DItems/Gems/Support/SpellCascade.dds"
+  },
+  {
+    "_index": 12,
+    "Id": "SpellCascadeHigh",
+    "Stat": "6851",
+    "StatValues": "2",
+    "Name": "Spell Cascade",
+    "SupportFamily": 2,
+    "GemIcon": "Art/2DItems/Gems/Support/SpellCascade.dds"
+  },
+  {
+    "_index": 13,
+    "Id": "FlickerStrikeSpecificConsumeAllImpalesHigh",
+    "Stat": "18311",
+    "StatValues": "50",
+    "Name": "Gilded Impale Extraction",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 14,
+    "Id": "ScourgeArrowAltSpecificPodCountHigh",
+    "Stat": "19474",
+    "StatValues": "1",
+    "Name": "Gilded Additional Pods",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 15,
+    "Id": "CycloneSpecificMoveSpeedHigh",
+    "Stat": "1230",
+    "StatValues": "35",
+    "Name": "Gilded Faster Cyclone",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 16,
+    "Id": "HolyRelicSpecificRegenHigh",
+    "Stat": "10248",
+    "StatValues": "1500",
+    "Name": "Gilded Relic Recovery",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 17,
+    "Id": "BladestormSpecificAdditionalStormHigh",
+    "Stat": "9285",
+    "StatValues": "1",
+    "Name": "Gilded Maximum Storms",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 18,
+    "Id": "PerforateSpecificSpikesHigh",
+    "Stat": "9316",
+    "StatValues": "2",
+    "Name": "Gilded Maximum Spikes",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 19,
+    "Id": "SacredWispsHigh",
+    "Stat": "20115",
+    "StatValues": "1",
+    "Name": "Greater Sacred Wisps",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/WandWispSupport.dds"
+  },
+  {
+    "_index": 20,
+    "Id": "VigilantStrikeSpecificShareFortifyHigh",
+    "Stat": "5814",
+    "StatValues": "8",
+    "Name": "Gilded Fortification",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 21,
+    "Id": "HeavyStrikeSpecificMoreMaxPhysHigh",
+    "Stat": "5676",
+    "StatValues": "40",
+    "Name": "Gilded Heft",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 22,
+    "Id": "ForkHigh",
+    "Stat": "1113",
+    "StatValues": "1",
+    "Name": "Greater Fork",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/Fork.dds"
+  },
+  {
+    "_index": 23,
+    "Id": "BleedLow",
+    "Stat": "3625, 5344",
+    "StatValues": "20, 20",
+    "Name": "Lesser Chance to Bleed",
+    "SupportFamily": 9,
+    "GemIcon": "Art/2DItems/Gems/Support/ChanceToBleed.dds"
+  },
+  {
+    "_index": 24,
+    "Id": "BleedMid",
+    "Stat": "3625, 5344",
+    "StatValues": "35, 20",
+    "Name": "Chance to Bleed",
+    "SupportFamily": 9,
+    "GemIcon": "Art/2DItems/Gems/Support/ChanceToBleed.dds"
+  },
+  {
+    "_index": 25,
+    "Id": "BleedHigh",
+    "Stat": "3625, 5344",
+    "StatValues": "50, 40",
+    "Name": "Greater Chance to Bleed",
+    "SupportFamily": 9,
+    "GemIcon": "Art/2DItems/Gems/Support/ChanceToBleed.dds"
+  },
+  {
+    "_index": 26,
+    "Id": "AddedChaosLow",
+    "Stat": "64, 65",
+    "StatValues": "10, 16",
+    "Name": "Lesser Added Chaos",
+    "SupportFamily": 10,
+    "GemIcon": "Art/2DItems/Gems/Support/AddedChaosDamage.dds"
+  },
+  {
+    "_index": 27,
+    "Id": "AddedChaosMid",
+    "Stat": "64, 65",
+    "StatValues": "33, 49",
+    "Name": "Added Chaos",
+    "SupportFamily": 10,
+    "GemIcon": "Art/2DItems/Gems/Support/AddedChaosDamage.dds"
+  },
+  {
+    "_index": 28,
+    "Id": "AddedChaosHigh",
+    "Stat": "64, 65",
+    "StatValues": "73, 109",
+    "Name": "Greater Added Chaos",
+    "SupportFamily": 10,
+    "GemIcon": "Art/2DItems/Gems/Support/AddedChaosDamage.dds"
+  },
+  {
+    "_index": 29,
+    "Id": "EnduringCrySpecificOnslaughtGainHigh",
+    "Stat": "12082",
+    "StatValues": "1",
+    "Name": "Gilded Onslaught on Cry",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 30,
+    "Id": "WarcryRageLow",
+    "Stat": "7458",
+    "StatValues": "10",
+    "Name": "Lesser Raging Cry",
+    "SupportFamily": 6,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverStrSupportGem.dds"
+  },
+  {
+    "_index": 31,
+    "Id": "WarcryRageMid",
+    "Stat": "7458",
+    "StatValues": "15",
+    "Name": "Raging Cry",
+    "SupportFamily": 6,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverStrSupportGem.dds"
+  },
+  {
+    "_index": 32,
+    "Id": "WarcryRageHigh",
+    "Stat": "7458",
+    "StatValues": "20",
+    "Name": "Greater Raging Cry",
+    "SupportFamily": 6,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverStrSupportGem.dds"
+  },
+  {
+    "_index": 33,
+    "Id": "PoisonChanceLow",
+    "Stat": "3364",
+    "StatValues": "20",
+    "Name": "Lesser Chance to Poison",
+    "SupportFamily": 4,
+    "GemIcon": "Art/2DItems/Gems/Support/Poison.dds"
+  },
+  {
+    "_index": 34,
+    "Id": "PoisonChanceMid",
+    "Stat": "3364",
+    "StatValues": "35",
+    "Name": "Chance to Poison",
+    "SupportFamily": 4,
+    "GemIcon": "Art/2DItems/Gems/Support/Poison.dds"
+  },
+  {
+    "_index": 35,
+    "Id": "PoisonChanceHigh",
+    "Stat": "3364",
+    "StatValues": "50",
+    "Name": "Greater Chance to Poison",
+    "SupportFamily": 4,
+    "GemIcon": "Art/2DItems/Gems/Support/Poison.dds"
+  },
+  {
+    "_index": 36,
+    "Id": "DarkPactSpecificMaledictionOnHitHigh",
+    "Stat": "12139",
+    "StatValues": "1",
+    "Name": "Gilded Malediction",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 37,
+    "Id": "CastSpeedLow",
+    "Stat": "216",
+    "StatValues": "15",
+    "Name": "Lesser Faster Casting",
+    "SupportFamily": 3,
+    "GemIcon": "Art/2DItems/Gems/Support/FasterCast.dds"
+  },
+  {
+    "_index": 38,
+    "Id": "CastSpeedMid",
+    "Stat": "216",
+    "StatValues": "25",
+    "Name": "Faster Casting",
+    "SupportFamily": 3,
+    "GemIcon": "Art/2DItems/Gems/Support/FasterCast.dds"
+  },
+  {
+    "_index": 39,
+    "Id": "CastSpeedHigh",
+    "Stat": "216",
+    "StatValues": "35",
+    "Name": "Greater Faster Casting",
+    "SupportFamily": 3,
+    "GemIcon": "Art/2DItems/Gems/Support/FasterCast.dds"
+  },
+  {
+    "_index": 40,
+    "Id": "KnockbackLow",
+    "Stat": "110, 401",
+    "StatValues": "1, 40",
+    "Name": "Knockback",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/Knockback.dds"
+  },
+  {
+    "_index": 41,
+    "Id": "StormRainSpecificNumberOfBurstsHigh",
+    "Stat": "14373",
+    "StatValues": "2",
+    "Name": "Gilded Additional Pulses",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 42,
+    "Id": "LightningDamageLuckyHigh",
+    "Stat": "11414",
+    "StatValues": "1",
+    "Name": "Greater Lucky Lightning Damage",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverIntSupportGem.dds"
+  },
+  {
+    "_index": 43,
+    "Id": "GenerosityLow",
+    "Stat": "2409, 3834",
+    "StatValues": "1, 10",
+    "Name": "Lesser Generosity",
+    "SupportFamily": 7,
+    "GemIcon": "Art/2DItems/Gems/Support/GenerositySupport.dds"
+  },
+  {
+    "_index": 44,
+    "Id": "GenerosityMid",
+    "Stat": "2409, 3834",
+    "StatValues": "1, 20",
+    "Name": "Generosity",
+    "SupportFamily": 7,
+    "GemIcon": "Art/2DItems/Gems/Support/GenerositySupport.dds"
+  },
+  {
+    "_index": 45,
+    "Id": "GenerosityHigh",
+    "Stat": "2409, 3834",
+    "StatValues": "1, 30",
+    "Name": "Greater Generosity",
+    "SupportFamily": 7,
+    "GemIcon": "Art/2DItems/Gems/Support/GenerositySupport.dds"
+  },
+  {
+    "_index": 46,
+    "Id": "FortifyHigh",
+    "Stat": "5406",
+    "StatValues": "1",
+    "Name": "Greater Fortify",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/FortifyGem.dds"
+  },
+  {
+    "_index": 47,
+    "Id": "FlameLinkSpecificAddedFlatHigh",
+    "Stat": "14813, 14814",
+    "StatValues": "38, 56",
+    "Name": "Gilded Empowered Link",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 48,
+    "Id": "IceCrashSpecificTertiaryRadiusHigh",
+    "Stat": "18301",
+    "StatValues": "5",
+    "Name": "Gilded Icecrash Radius",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 49,
+    "Id": "IncreaseDurationLow",
+    "Stat": "20687",
+    "StatValues": "15",
+    "Name": "Lesser More Duration",
+    "SupportFamily": 8,
+    "GemIcon": "Art/2DItems/Gems/Support/IncreasedDuration.dds"
+  },
+  {
+    "_index": 50,
+    "Id": "IncreaseDurationMid",
+    "Stat": "20687",
+    "StatValues": "25",
+    "Name": "More Duration",
+    "SupportFamily": 8,
+    "GemIcon": "Art/2DItems/Gems/Support/IncreasedDuration.dds"
+  },
+  {
+    "_index": 51,
+    "Id": "IncreaseDurationHigh",
+    "Stat": "20687",
+    "StatValues": "40",
+    "Name": "Greater More Duration",
+    "SupportFamily": 8,
+    "GemIcon": "Art/2DItems/Gems/Support/IncreasedDuration.dds"
+  },
+  {
+    "_index": 52,
+    "Id": "ReduceDurationLow",
+    "Stat": "20687",
+    "StatValues": "-15",
+    "Name": "Lesser Less Duration",
+    "SupportFamily": 8,
+    "GemIcon": "Art/2DItems/Gems/Support/ReduceDuration.dds"
+  },
+  {
+    "_index": 53,
+    "Id": "ReduceDurationMid",
+    "Stat": "20687",
+    "StatValues": "-25",
+    "Name": "Less Duration",
+    "SupportFamily": 8,
+    "GemIcon": "Art/2DItems/Gems/Support/ReduceDuration.dds"
+  },
+  {
+    "_index": 54,
+    "Id": "ReduceDurationHigh",
+    "Stat": "20687",
+    "StatValues": "-40",
+    "Name": "Greater Less Duration",
+    "SupportFamily": 8,
+    "GemIcon": "Art/2DItems/Gems/Support/ReduceDuration.dds"
+  },
+  {
+    "_index": 55,
+    "Id": "DamageOverTimeReduceDurationLow",
+    "Stat": "3458, 14543",
+    "StatValues": "15, -20",
+    "Name": "Lesser Swift Affliction",
+    "SupportFamily": 12,
+    "GemIcon": "Art/2DItems/Gems/Support/SupportRapidDecayGem.dds"
+  },
+  {
+    "_index": 56,
+    "Id": "DamageOverTimeReduceDurationMid",
+    "Stat": "3458, 14543",
+    "StatValues": "20, -20",
+    "Name": "Swift Affliction",
+    "SupportFamily": 12,
+    "GemIcon": "Art/2DItems/Gems/Support/SupportRapidDecayGem.dds"
+  },
+  {
+    "_index": 57,
+    "Id": "DamageOverTimeReduceDurationHigh",
+    "Stat": "3458, 14543",
+    "StatValues": "30, -20",
+    "Name": "Greater Swift Affliction",
+    "SupportFamily": 12,
+    "GemIcon": "Art/2DItems/Gems/Support/SupportRapidDecayGem.dds"
+  },
+  {
+    "_index": 58,
+    "Id": "CurseEffectHigh",
+    "Stat": "1385",
+    "StatValues": "20",
+    "Name": "Greater Curse Effect",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverIntSupportGem.dds"
+  },
+  {
+    "_index": 59,
+    "Id": "HypothermiaLow",
+    "Stat": "2911, 7924",
+    "StatValues": "15, 15",
+    "Name": "Lesser Hypothermia",
+    "SupportFamily": 13,
+    "GemIcon": "Art/2DItems/Gems/Support/DamageAgainstChilled.dds"
+  },
+  {
+    "_index": 60,
+    "Id": "HypothermiaMid",
+    "Stat": "2911, 7924",
+    "StatValues": "20, 20",
+    "Name": "Hypothermia",
+    "SupportFamily": 13,
+    "GemIcon": "Art/2DItems/Gems/Support/DamageAgainstChilled.dds"
+  },
+  {
+    "_index": 61,
+    "Id": "HypothermiaHigh",
+    "Stat": "2911, 7924",
+    "StatValues": "30, 30",
+    "Name": "Greater Hypothermia",
+    "SupportFamily": 13,
+    "GemIcon": "Art/2DItems/Gems/Support/DamageAgainstChilled.dds"
+  },
+  {
+    "_index": 62,
+    "Id": "StrikeRangeLow",
+    "Stat": "1229",
+    "StatValues": "2",
+    "Name": "Lesser Strike Distance",
+    "SupportFamily": 14,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverStrSupportGem.dds"
+  },
+  {
+    "_index": 63,
+    "Id": "StrikeRangeMid",
+    "Stat": "1229",
+    "StatValues": "4",
+    "Name": "Strike Distance",
+    "SupportFamily": 14,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverStrSupportGem.dds"
+  },
+  {
+    "_index": 64,
+    "Id": "StrikeRangeHigh",
+    "Stat": "1229",
+    "StatValues": "6",
+    "Name": "Greater Strike Distance",
+    "SupportFamily": 14,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverStrSupportGem.dds"
+  },
+  {
+    "_index": 65,
+    "Id": "CooldownSpeedLow",
+    "Stat": "3335",
+    "StatValues": "20",
+    "Name": "Lesser Cooldown Recovery",
+    "SupportFamily": 15,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverIntSupportGem.dds"
+  },
+  {
+    "_index": 66,
+    "Id": "CooldownSpeedMid",
+    "Stat": "3335",
+    "StatValues": "30",
+    "Name": "Cooldown Recovery",
+    "SupportFamily": 15,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverIntSupportGem.dds"
+  },
+  {
+    "_index": 67,
+    "Id": "CooldownSpeedHigh",
+    "Stat": "3335",
+    "StatValues": "40",
+    "Name": "Greater Cooldown Recovery",
+    "SupportFamily": 15,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverIntSupportGem.dds"
+  },
+  {
+    "_index": 68,
+    "Id": "ColdPenetrationLow",
+    "Stat": "593",
+    "StatValues": "8",
+    "Name": "Lesser Cold Penetration",
+    "SupportFamily": 16,
+    "GemIcon": "Art/2DItems/Gems/Support/ColdPenetration.dds"
+  },
+  {
+    "_index": 69,
+    "Id": "ColdPenetrationMid",
+    "Stat": "593",
+    "StatValues": "10",
+    "Name": "Cold Penetration",
+    "SupportFamily": 16,
+    "GemIcon": "Art/2DItems/Gems/Support/ColdPenetration.dds"
+  },
+  {
+    "_index": 70,
+    "Id": "ColdPenetrationHigh",
+    "Stat": "593",
+    "StatValues": "12",
+    "Name": "Greater Cold Penetration",
+    "SupportFamily": 16,
+    "GemIcon": "Art/2DItems/Gems/Support/ColdPenetration.dds"
+  },
+  {
+    "_index": 71,
+    "Id": "LightningPenetrationLow",
+    "Stat": "594",
+    "StatValues": "8",
+    "Name": "Lesser Lightning Penetration",
+    "SupportFamily": 17,
+    "GemIcon": "Art/2DItems/Gems/Support/LightningPenetration.dds"
+  },
+  {
+    "_index": 72,
+    "Id": "LightningPenetrationMid",
+    "Stat": "594",
+    "StatValues": "10",
+    "Name": "Lightning Penetration",
+    "SupportFamily": 17,
+    "GemIcon": "Art/2DItems/Gems/Support/LightningPenetration.dds"
+  },
+  {
+    "_index": 73,
+    "Id": "LightningPenetrationHigh",
+    "Stat": "594",
+    "StatValues": "12",
+    "Name": "Greater Lightning Penetration",
+    "SupportFamily": 17,
+    "GemIcon": "Art/2DItems/Gems/Support/LightningPenetration.dds"
+  },
+  {
+    "_index": 74,
+    "Id": "ArrowNovaHigh",
+    "Stat": "1776, 10517, 10622, 10944, 173",
+    "StatValues": "1, 1, 1, 1, 3",
+    "Name": "Arrow Nova",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/GreenRainSupportGem.dds"
+  },
+  {
+    "_index": 75,
+    "Id": "ExplosiveArrowSpecificMaxHigh",
+    "Stat": "11500",
+    "StatValues": "2",
+    "Name": "Gilded Maximum Explosions",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 76,
+    "Id": "VolcanicFissureSpecificRepeatHigh",
+    "Stat": "17309",
+    "StatValues": "1",
+    "Name": "Gilded Additional Fissures",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 77,
+    "Id": "FirePenetrationLow",
+    "Stat": "592",
+    "StatValues": "8",
+    "Name": "Lesser Fire Penetration",
+    "SupportFamily": 18,
+    "GemIcon": "Art/2DItems/Gems/Support/FirePenetration.dds"
+  },
+  {
+    "_index": 78,
+    "Id": "FirePenetrationMid",
+    "Stat": "592",
+    "StatValues": "10",
+    "Name": "Fire Penetration",
+    "SupportFamily": 18,
+    "GemIcon": "Art/2DItems/Gems/Support/FirePenetration.dds"
+  },
+  {
+    "_index": 79,
+    "Id": "FirePenetrationHigh",
+    "Stat": "592",
+    "StatValues": "12",
+    "Name": "Greater Fire Penetration",
+    "SupportFamily": 18,
+    "GemIcon": "Art/2DItems/Gems/Support/FirePenetration.dds"
+  },
+  {
+    "_index": 80,
+    "Id": "NonDamagingAilmentEffectLow",
+    "Stat": "6299",
+    "StatValues": "30",
+    "Name": "Lesser Ailment Effect",
+    "SupportFamily": 29,
+    "GemIcon": "Art/2DItems/Gems/Support/UnboundAilments.dds"
+  },
+  {
+    "_index": 81,
+    "Id": "NonDamagingAilmentEffectMid",
+    "Stat": "6299",
+    "StatValues": "40",
+    "Name": "Ailment Effect",
+    "SupportFamily": 29,
+    "GemIcon": "Art/2DItems/Gems/Support/UnboundAilments.dds"
+  },
+  {
+    "_index": 82,
+    "Id": "NonDamagingAilmentEffectHigh",
+    "Stat": "6299",
+    "StatValues": "50",
+    "Name": "Greater Ailment Effect",
+    "SupportFamily": 29,
+    "GemIcon": "Art/2DItems/Gems/Support/UnboundAilments.dds"
+  },
+  {
+    "_index": 83,
+    "Id": "AddedColdLow",
+    "Stat": "50, 51",
+    "StatValues": "10, 16",
+    "Name": "Lesser Added Cold",
+    "SupportFamily": 26,
+    "GemIcon": "Art/2DItems/Gems/Support/AddedColdDamage.dds"
+  },
+  {
+    "_index": 84,
+    "Id": "AddedColdMid",
+    "Stat": "50, 51",
+    "StatValues": "33, 49",
+    "Name": "Added Cold",
+    "SupportFamily": 26,
+    "GemIcon": "Art/2DItems/Gems/Support/AddedColdDamage.dds"
+  },
+  {
+    "_index": 85,
+    "Id": "AddedColdHigh",
+    "Stat": "50, 51",
+    "StatValues": "73, 109",
+    "Name": "Greater Added Cold",
+    "SupportFamily": 26,
+    "GemIcon": "Art/2DItems/Gems/Support/AddedColdDamage.dds"
+  },
+  {
+    "_index": 86,
+    "Id": "AddedLightningLow",
+    "Stat": "57, 58",
+    "StatValues": "1, 23",
+    "Name": "Lesser Added Lightning",
+    "SupportFamily": 27,
+    "GemIcon": "Art/2DItems/Gems/Support/AddedLightningDamage.dds"
+  },
+  {
+    "_index": 87,
+    "Id": "AddedLightningMid",
+    "Stat": "57, 58",
+    "StatValues": "4, 75",
+    "Name": "Added Lightning",
+    "SupportFamily": 27,
+    "GemIcon": "Art/2DItems/Gems/Support/AddedLightningDamage.dds"
+  },
+  {
+    "_index": 88,
+    "Id": "AddedLightningHigh",
+    "Stat": "57, 58",
+    "StatValues": "9, 168",
+    "Name": "Greater Added Lightning",
+    "SupportFamily": 27,
+    "GemIcon": "Art/2DItems/Gems/Support/AddedLightningDamage.dds"
+  },
+  {
+    "_index": 89,
+    "Id": "WildStrikeSpecificEleWeakOnHitHigh",
+    "Stat": "15090",
+    "StatValues": "50",
+    "Name": "Gilded Elemental Weakness on Hit",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 90,
+    "Id": "EleDamageWithAttacksLow",
+    "Stat": "6062",
+    "StatValues": "15",
+    "Name": "Lesser Elemental Damage with Attacks",
+    "SupportFamily": 28,
+    "GemIcon": "Art/2DItems/Gems/Support/WeaponElementalDamage.dds"
+  },
+  {
+    "_index": 91,
+    "Id": "EleDamageWithAttacksMid",
+    "Stat": "6062",
+    "StatValues": "20",
+    "Name": "Elemental Damage with Attacks",
+    "SupportFamily": 28,
+    "GemIcon": "Art/2DItems/Gems/Support/WeaponElementalDamage.dds"
+  },
+  {
+    "_index": 92,
+    "Id": "EleDamageWithAttacksHigh",
+    "Stat": "6062",
+    "StatValues": "30",
+    "Name": "Greater Elemental Damage with Attacks",
+    "SupportFamily": 28,
+    "GemIcon": "Art/2DItems/Gems/Support/WeaponElementalDamage.dds"
+  },
+  {
+    "_index": 93,
+    "Id": "ShockChanceLow",
+    "Stat": "658",
+    "StatValues": "20",
+    "Name": "Lesser Shock Chance",
+    "SupportFamily": 45,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverIntSupportGem.dds"
+  },
+  {
+    "_index": 94,
+    "Id": "ShockChanceMid",
+    "Stat": "658",
+    "StatValues": "40",
+    "Name": "Shock Chance",
+    "SupportFamily": 45,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverIntSupportGem.dds"
+  },
+  {
+    "_index": 95,
+    "Id": "ShockChanceHigh",
+    "Stat": "658",
+    "StatValues": "60",
+    "Name": "Greater Shock Chance",
+    "SupportFamily": 45,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverIntSupportGem.dds"
+  },
+  {
+    "_index": 96,
+    "Id": "IgniteChanceLow",
+    "Stat": "610",
+    "StatValues": "20",
+    "Name": "Lesser Ignite Chance",
+    "SupportFamily": 46,
+    "GemIcon": "Art/2DItems/Gems/Support/ChancetoIgnite.dds"
+  },
+  {
+    "_index": 97,
+    "Id": "IgniteChanceMid",
+    "Stat": "610",
+    "StatValues": "40",
+    "Name": "Ignite Chance",
+    "SupportFamily": 46,
+    "GemIcon": "Art/2DItems/Gems/Support/ChancetoIgnite.dds"
+  },
+  {
+    "_index": 98,
+    "Id": "IgniteChanceHigh",
+    "Stat": "610",
+    "StatValues": "60",
+    "Name": "Greater Ignite Chance",
+    "SupportFamily": 46,
+    "GemIcon": "Art/2DItems/Gems/Support/ChancetoIgnite.dds"
+  },
+  {
+    "_index": 99,
+    "Id": "FreezeChanceLow",
+    "Stat": "454",
+    "StatValues": "20",
+    "Name": "Lesser Freeze Chance",
+    "SupportFamily": 50,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverDexIntSupportGem.dds"
+  },
+  {
+    "_index": 100,
+    "Id": "FreezeChanceMid",
+    "Stat": "454",
+    "StatValues": "40",
+    "Name": "Freeze Chance",
+    "SupportFamily": 50,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverDexIntSupportGem.dds"
+  },
+  {
+    "_index": 101,
+    "Id": "FreezeChanceHigh",
+    "Stat": "454",
+    "StatValues": "60",
+    "Name": "Greater Freeze Chance",
+    "SupportFamily": 50,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverDexIntSupportGem.dds"
+  },
+  {
+    "_index": 102,
+    "Id": "BrittleChanceHigh",
+    "Stat": "8658",
+    "StatValues": "30",
+    "Name": "Brittle Chance",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverDexIntSupportGem.dds"
+  },
+  {
+    "_index": 103,
+    "Id": "AilmentDamageLow",
+    "Stat": "6087, 6088",
+    "StatValues": "15, -30",
+    "Name": "Lesser Ailment Damage",
+    "SupportFamily": 19,
+    "GemIcon": "Art/2DItems/Gems/Support/DeadlyAilments.dds"
+  },
+  {
+    "_index": 104,
+    "Id": "AilmentDamageMid",
+    "Stat": "6087, 6088",
+    "StatValues": "20, -30",
+    "Name": "Ailment Damage",
+    "SupportFamily": 19,
+    "GemIcon": "Art/2DItems/Gems/Support/DeadlyAilments.dds"
+  },
+  {
+    "_index": 105,
+    "Id": "AilmentDamageHigh",
+    "Stat": "6087, 6088",
+    "StatValues": "30, -30",
+    "Name": "Greater Ailment Damage",
+    "SupportFamily": 19,
+    "GemIcon": "Art/2DItems/Gems/Support/DeadlyAilments.dds"
+  },
+  {
+    "_index": 106,
+    "Id": "BoneshatterSpecificTraumaDurationHigh",
+    "Stat": "14251",
+    "StatValues": "2000",
+    "Name": "Gilded Trauma Duration",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 107,
+    "Id": "ShockwaveTotemSpecificAstralHigh",
+    "Stat": "10669",
+    "StatValues": "1",
+    "Name": "Gilded Astral Totem",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 108,
+    "Id": "EnsnaringArrowSpecificEffectHigh",
+    "Stat": "10518",
+    "StatValues": "10",
+    "Name": "Gilded Ensare Effect",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 109,
+    "Id": "MaimOnHitHigh",
+    "Stat": "3811, 6085",
+    "StatValues": "1, 10",
+    "Name": "Maim",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/Maim.dds"
+  },
+  {
+    "_index": 110,
+    "Id": "ImpaleChanceLow",
+    "Stat": "12947",
+    "StatValues": "20",
+    "Name": "Lesser Impale Chance",
+    "SupportFamily": 22,
+    "GemIcon": "Art/2DItems/Gems/Support/impale.dds"
+  },
+  {
+    "_index": 111,
+    "Id": "ImpaleChanceMid",
+    "Stat": "12947",
+    "StatValues": "40",
+    "Name": "Impale Chance",
+    "SupportFamily": 22,
+    "GemIcon": "Art/2DItems/Gems/Support/impale.dds"
+  },
+  {
+    "_index": 112,
+    "Id": "ImpaleChanceHigh",
+    "Stat": "12947",
+    "StatValues": "60",
+    "Name": "Greater Impale Chance",
+    "SupportFamily": 22,
+    "GemIcon": "Art/2DItems/Gems/Support/impale.dds"
+  },
+  {
+    "_index": 113,
+    "Id": "MirageArcherHigh",
+    "Stat": "7077, 7076, 7289, 7074, 7258, 7265",
+    "StatValues": "1, 1, 1, 4000, -60, -138",
+    "Name": "Mirage Archer",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MirageArcher.dds"
+  },
+  {
+    "_index": 114,
+    "Id": "MultiTotemHigh",
+    "Stat": "8519, 866",
+    "StatValues": "1, 2",
+    "Name": "Multiple Totems",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MultipleTotems.dds"
+  },
+  {
+    "_index": 115,
+    "Id": "TornadoShotSpecificSecondaryProjHigh",
+    "Stat": "4246",
+    "StatValues": "2",
+    "Name": "Gilded Secondary Shots",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 116,
+    "Id": "RageOnMeleeHitLow",
+    "Stat": "20538",
+    "StatValues": "2",
+    "Name": "Lesser Rage on Hit",
+    "SupportFamily": 20,
+    "GemIcon": "Art/2DItems/Gems/Support/RageSupport.dds"
+  },
+  {
+    "_index": 117,
+    "Id": "RageOnMeleeHitMid",
+    "Stat": "20538",
+    "StatValues": "4",
+    "Name": "Rage on Hit",
+    "SupportFamily": 20,
+    "GemIcon": "Art/2DItems/Gems/Support/RageSupport.dds"
+  },
+  {
+    "_index": 118,
+    "Id": "RageOnMeleeHitHigh",
+    "Stat": "20538",
+    "StatValues": "6",
+    "Name": "Greater Rage on Hit",
+    "SupportFamily": 20,
+    "GemIcon": "Art/2DItems/Gems/Support/RageSupport.dds"
+  },
+  {
+    "_index": 119,
+    "Id": "CleaveSpecificCullHigh",
+    "Stat": "588",
+    "StatValues": "1",
+    "Name": "Gilded Cull",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 120,
+    "Id": "AttackSpeedLow",
+    "Stat": "70",
+    "StatValues": "15",
+    "Name": "Lesser Attack Speed",
+    "SupportFamily": 21,
+    "GemIcon": "Art/2DItems/Gems/Support/FasterAttacks.dds"
+  },
+  {
+    "_index": 121,
+    "Id": "AttackSpeedMid",
+    "Stat": "70",
+    "StatValues": "25",
+    "Name": "Attack Speed",
+    "SupportFamily": 21,
+    "GemIcon": "Art/2DItems/Gems/Support/FasterAttacks.dds"
+  },
+  {
+    "_index": 122,
+    "Id": "AttackSpeedHigh",
+    "Stat": "70",
+    "StatValues": "35",
+    "Name": "Greater Attack Speed",
+    "SupportFamily": 21,
+    "GemIcon": "Art/2DItems/Gems/Support/FasterAttacks.dds"
+  },
+  {
+    "_index": 123,
+    "Id": "ConcentratedEffectLow",
+    "Stat": "2710, 643",
+    "StatValues": "-30, 20",
+    "Name": "Lesser Concentrated Effect",
+    "SupportFamily": 23,
+    "GemIcon": "Art/2DItems/Gems/Support/ConcentratedAOE.dds"
+  },
+  {
+    "_index": 124,
+    "Id": "ConcentratedEffectMid",
+    "Stat": "2710, 643",
+    "StatValues": "-30, 30",
+    "Name": "Concentrated Effect",
+    "SupportFamily": 23,
+    "GemIcon": "Art/2DItems/Gems/Support/ConcentratedAOE.dds"
+  },
+  {
+    "_index": 125,
+    "Id": "ConcentratedEffectHigh",
+    "Stat": "2710, 643",
+    "StatValues": "-30, 40",
+    "Name": "Greater Concentrated Effect",
+    "SupportFamily": 23,
+    "GemIcon": "Art/2DItems/Gems/Support/ConcentratedAOE.dds"
+  },
+  {
+    "_index": 126,
+    "Id": "DotMultiLow",
+    "Stat": "10142",
+    "StatValues": "15",
+    "Name": "Lesser DoT Multiplier",
+    "SupportFamily": 24,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverIntSupportGem.dds"
+  },
+  {
+    "_index": 127,
+    "Id": "DotMultiMid",
+    "Stat": "10142",
+    "StatValues": "25",
+    "Name": "DoT Multiplier",
+    "SupportFamily": 24,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverIntSupportGem.dds"
+  },
+  {
+    "_index": 128,
+    "Id": "DotMultiHigh",
+    "Stat": "10142",
+    "StatValues": "35",
+    "Name": "Greater DoT Multiplier",
+    "SupportFamily": 24,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverIntSupportGem.dds"
+  },
+  {
+    "_index": 129,
+    "Id": "TotemDefencesLow",
+    "Stat": "1833, 1832",
+    "StatValues": "10, 30",
+    "Name": "Lesser Ironwood",
+    "SupportFamily": 25,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverStrIntSupportGem.dds"
+  },
+  {
+    "_index": 130,
+    "Id": "TotemDefencesMid",
+    "Stat": "1833, 1832",
+    "StatValues": "20, 40",
+    "Name": "Ironwood",
+    "SupportFamily": 25,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverStrIntSupportGem.dds"
+  },
+  {
+    "_index": 131,
+    "Id": "TotemDefencesHigh",
+    "Stat": "1833, 1832",
+    "StatValues": "30, 60",
+    "Name": "Greater Ironwood",
+    "SupportFamily": 25,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverStrIntSupportGem.dds"
+  },
+  {
+    "_index": 132,
+    "Id": "BlightSpecificSecondaryDurationHigh",
+    "Stat": "4350",
+    "StatValues": "80",
+    "Name": "Gilded Hinder Duration",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 133,
+    "Id": "SoulrendSpecificBaseDurationHigh",
+    "Stat": "356",
+    "StatValues": "1000",
+    "Name": "Gilded Additional Duration",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 134,
+    "Id": "RollingMagmaAOEPerProjHigh",
+    "Stat": "19583",
+    "StatValues": "5",
+    "Name": "Gilded Area per Projectile",
+    "SupportFamily": 51,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 135,
+    "Id": "DivineIreSpecificWidthHigh",
+    "Stat": "9080",
+    "StatValues": "40",
+    "Name": "Gilded Beam Width",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 136,
+    "Id": "PhysGainAsRandomLow",
+    "Stat": "1896",
+    "StatValues": "10",
+    "Name": "Lesser Physical as Extra",
+    "SupportFamily": 33,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverStrIntSupportGem.dds"
+  },
+  {
+    "_index": 137,
+    "Id": "PhysGainAsRandomMid",
+    "Stat": "1896",
+    "StatValues": "20",
+    "Name": "Physical as Extra",
+    "SupportFamily": 33,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverStrIntSupportGem.dds"
+  },
+  {
+    "_index": 138,
+    "Id": "PhysGainAsRandomHigh",
+    "Stat": "1896",
+    "StatValues": "35",
+    "Name": "Greater Physical as Extra",
+    "SupportFamily": 33,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverStrIntSupportGem.dds"
+  },
+  {
+    "_index": 139,
+    "Id": "ChannelSkillDamageReductionLow",
+    "Stat": "8832",
+    "StatValues": "-5",
+    "Name": "Lesser Infused Channelling",
+    "SupportFamily": 47,
+    "GemIcon": "Art/2DItems/Gems/Support/StormBarrier.dds"
+  },
+  {
+    "_index": 140,
+    "Id": "ChannelSkillDamageReductionMid",
+    "Stat": "8832",
+    "StatValues": "-8",
+    "Name": "Infused Channelling",
+    "SupportFamily": 47,
+    "GemIcon": "Art/2DItems/Gems/Support/StormBarrier.dds"
+  },
+  {
+    "_index": 141,
+    "Id": "ChannelSkillDamageReductionHigh",
+    "Stat": "8832",
+    "StatValues": "-10",
+    "Name": "Greater Infused Channelling",
+    "SupportFamily": 47,
+    "GemIcon": "Art/2DItems/Gems/Support/StormBarrier.dds"
+  },
+  {
+    "_index": 142,
+    "Id": "ProjectilesReturnHigh",
+    "Stat": "1126",
+    "StatValues": "1",
+    "Name": "Return",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/ReturnProjectiles.dds"
+  },
+  {
+    "_index": 143,
+    "Id": "WitherOnHitLow",
+    "Stat": "8318",
+    "StatValues": "15",
+    "Name": "Lesser Wither on Hit",
+    "SupportFamily": 30,
+    "GemIcon": "Art/2DItems/Gems/Support/WitherGemSupport.dds"
+  },
+  {
+    "_index": 144,
+    "Id": "WitherOnHitMid",
+    "Stat": "8318",
+    "StatValues": "30",
+    "Name": "Wither on Hit",
+    "SupportFamily": 30,
+    "GemIcon": "Art/2DItems/Gems/Support/WitherGemSupport.dds"
+  },
+  {
+    "_index": 145,
+    "Id": "WitherOnHitHigh",
+    "Stat": "8318",
+    "StatValues": "45",
+    "Name": "Greater Wither on Hit",
+    "SupportFamily": 30,
+    "GemIcon": "Art/2DItems/Gems/Support/WitherGemSupport.dds"
+  },
+  {
+    "_index": 146,
+    "Id": "VoidSphereSpecificTickRateHigh",
+    "Stat": "12958",
+    "StatValues": "35",
+    "Name": "Gilded Sphere Frequency",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 147,
+    "Id": "MaxShockHigh",
+    "Stat": "16454",
+    "StatValues": "10",
+    "Name": "Maximum Shock Effect",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverIntSupportGem.dds"
+  },
+  {
+    "_index": 148,
+    "Id": "CriticalStrikeLow",
+    "Stat": "553",
+    "StatValues": "80",
+    "Name": "Lesser Critical Chance",
+    "SupportFamily": 31,
+    "GemIcon": "Art/2DItems/Gems/Support/IncreasedCriticalStrikes.dds"
+  },
+  {
+    "_index": 149,
+    "Id": "CriticalStrikeMid",
+    "Stat": "553",
+    "StatValues": "120",
+    "Name": "Critical Chance",
+    "SupportFamily": 31,
+    "GemIcon": "Art/2DItems/Gems/Support/IncreasedCriticalStrikes.dds"
+  },
+  {
+    "_index": 150,
+    "Id": "CriticalStrikeHigh",
+    "Stat": "553",
+    "StatValues": "200",
+    "Name": "Greater Critical Chance",
+    "SupportFamily": 31,
+    "GemIcon": "Art/2DItems/Gems/Support/IncreasedCriticalStrikes.dds"
+  },
+  {
+    "_index": 151,
+    "Id": "ReducedProjSpeedLow",
+    "Stat": "175",
+    "StatValues": "-15",
+    "Name": "Lesser Slower Projectiles",
+    "SupportFamily": 32,
+    "GemIcon": "Art/2DItems/Gems/Support/SlowerProjectiles.dds"
+  },
+  {
+    "_index": 152,
+    "Id": "ReducedProjSpeedMid",
+    "Stat": "175",
+    "StatValues": "-30",
+    "Name": "Slower Projectiles",
+    "SupportFamily": 32,
+    "GemIcon": "Art/2DItems/Gems/Support/SlowerProjectiles.dds"
+  },
+  {
+    "_index": 153,
+    "Id": "ReducedProjSpeedHigh",
+    "Stat": "175",
+    "StatValues": "-40",
+    "Name": "Greater Slower Projectiles",
+    "SupportFamily": 32,
+    "GemIcon": "Art/2DItems/Gems/Support/SlowerProjectiles.dds"
+  },
+  {
+    "_index": 154,
+    "Id": "IncreasedProjSpeedLow",
+    "Stat": "175",
+    "StatValues": "15",
+    "Name": "Lesser Faster Projectiles",
+    "SupportFamily": 32,
+    "GemIcon": "Art/2DItems/Gems/Support/FasterProjectiles.dds"
+  },
+  {
+    "_index": 155,
+    "Id": "IncreasedProjSpeedMid",
+    "Stat": "175",
+    "StatValues": "30",
+    "Name": "Faster Projectiles",
+    "SupportFamily": 32,
+    "GemIcon": "Art/2DItems/Gems/Support/FasterProjectiles.dds"
+  },
+  {
+    "_index": 156,
+    "Id": "IncreasedProjSpeedHigh",
+    "Stat": "175",
+    "StatValues": "40",
+    "Name": "Greater Faster Projectiles",
+    "SupportFamily": 32,
+    "GemIcon": "Art/2DItems/Gems/Support/FasterProjectiles.dds"
+  },
+  {
+    "_index": 157,
+    "Id": "PhysGainAsChaosMid",
+    "Stat": "449",
+    "StatValues": "15",
+    "Name": "Physical as Extra Chaos",
+    "SupportFamily": 33,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverDexIntSupportGem.dds"
+  },
+  {
+    "_index": 158,
+    "Id": "PhysGainAsChaosHigh",
+    "Stat": "449",
+    "StatValues": "30",
+    "Name": "Greater Physical as Extra Chaos",
+    "SupportFamily": 33,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverDexIntSupportGem.dds"
+  },
+  {
+    "_index": 159,
+    "Id": "AddedCooldownCountHigh",
+    "Stat": "11610",
+    "StatValues": "1",
+    "Name": "Second Wind",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/SecondWindSupport.dds"
+  },
+  {
+    "_index": 160,
+    "Id": "AltEssenceDrainSpecificLeechHigh",
+    "Stat": "3699",
+    "StatValues": "3000",
+    "Name": "Gilded Additional Leech",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 161,
+    "Id": "WitheringStepSpecificWitherStacksHigh",
+    "Stat": "10092",
+    "StatValues": "5",
+    "Name": "Gilded Wither Stacks",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 162,
+    "Id": "FlameblastSpecificStagesHigh",
+    "Stat": "12988",
+    "StatValues": "3",
+    "Name": "Gilded Maximum Stages",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 163,
+    "Id": "BodySwapSpecificDamageFromLifeHigh",
+    "Stat": "6844",
+    "StatValues": "2",
+    "Name": "Gilded Damage from Life",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 164,
+    "Id": "BrutalityLow",
+    "Stat": "4910, 1711, 6141",
+    "StatValues": "1, 1, 15",
+    "Name": "Lesser Brutality",
+    "SupportFamily": 34,
+    "GemIcon": "Art/2DItems/Gems/Support/Brutality.dds"
+  },
+  {
+    "_index": 165,
+    "Id": "BrutalityMid",
+    "Stat": "4910, 1711, 6141",
+    "StatValues": "1, 1, 20",
+    "Name": "Brutality",
+    "SupportFamily": 34,
+    "GemIcon": "Art/2DItems/Gems/Support/Brutality.dds"
+  },
+  {
+    "_index": 166,
+    "Id": "BrutalityHigh",
+    "Stat": "4910, 1711, 6141",
+    "StatValues": "1, 1, 30",
+    "Name": "Greater Brutality",
+    "SupportFamily": 34,
+    "GemIcon": "Art/2DItems/Gems/Support/Brutality.dds"
+  },
+  {
+    "_index": 167,
+    "Id": "VaalDoubleStrikeSpecificCloneSpeedHigh",
+    "Stat": "7780",
+    "StatValues": "40",
+    "Name": "Gilded Clone Speed",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 168,
+    "Id": "EleFocusLow",
+    "Stat": "3899, 2754",
+    "StatValues": "15, 1",
+    "Name": "Lesser Elemental Focus",
+    "SupportFamily": 35,
+    "GemIcon": "Art/2DItems/Gems/Support/ElementalFocus.dds"
+  },
+  {
+    "_index": 169,
+    "Id": "EleFocusMid",
+    "Stat": "3899, 2754",
+    "StatValues": "20, 1",
+    "Name": "Elemental Focus",
+    "SupportFamily": 35,
+    "GemIcon": "Art/2DItems/Gems/Support/ElementalFocus.dds"
+  },
+  {
+    "_index": 170,
+    "Id": "EleFocusHigh",
+    "Stat": "3899, 2754",
+    "StatValues": "30, 1",
+    "Name": "Greater Elemental Focus",
+    "SupportFamily": 35,
+    "GemIcon": "Art/2DItems/Gems/Support/ElementalFocus.dds"
+  },
+  {
+    "_index": 171,
+    "Id": "PierceLow",
+    "Stat": "6234",
+    "StatValues": "1",
+    "Name": "Lesser Pierce",
+    "SupportFamily": 37,
+    "GemIcon": "Art/2DItems/Gems/Support/Pierce.dds"
+  },
+  {
+    "_index": 172,
+    "Id": "PierceMid",
+    "Stat": "6234",
+    "StatValues": "3",
+    "Name": "Pierce",
+    "SupportFamily": 37,
+    "GemIcon": "Art/2DItems/Gems/Support/Pierce.dds"
+  },
+  {
+    "_index": 173,
+    "Id": "PierceHigh",
+    "Stat": "6234",
+    "StatValues": "5",
+    "Name": "Greater Pierce",
+    "SupportFamily": 37,
+    "GemIcon": "Art/2DItems/Gems/Support/Pierce.dds"
+  },
+  {
+    "_index": 174,
+    "Id": "CritDamageLow",
+    "Stat": "95",
+    "StatValues": "30",
+    "Name": "Lesser Critical Damage",
+    "SupportFamily": 36,
+    "GemIcon": "Art/2DItems/Gems/Support/IncreasedCriticalDamage.dds"
+  },
+  {
+    "_index": 175,
+    "Id": "CritDamageMid",
+    "Stat": "95",
+    "StatValues": "45",
+    "Name": "Critical Damage",
+    "SupportFamily": 36,
+    "GemIcon": "Art/2DItems/Gems/Support/IncreasedCriticalDamage.dds"
+  },
+  {
+    "_index": 176,
+    "Id": "CritDamageHigh",
+    "Stat": "95",
+    "StatValues": "70",
+    "Name": "Greater Critical Damage",
+    "SupportFamily": 36,
+    "GemIcon": "Art/2DItems/Gems/Support/IncreasedCriticalDamage.dds"
+  },
+  {
+    "_index": 177,
+    "Id": "MinionDamageLow",
+    "Stat": "14536, 2952",
+    "StatValues": "-25, 15",
+    "Name": "Lesser Minion Damage",
+    "SupportFamily": 40,
+    "GemIcon": "Art/2DItems/Gems/Support/MinionDamage.dds"
+  },
+  {
+    "_index": 178,
+    "Id": "MinionDamageMid",
+    "Stat": "14536, 2952",
+    "StatValues": "-25, 20",
+    "Name": "Minion Damage",
+    "SupportFamily": 40,
+    "GemIcon": "Art/2DItems/Gems/Support/MinionDamage.dds"
+  },
+  {
+    "_index": 179,
+    "Id": "MinionDamageHigh",
+    "Stat": "14536, 2952",
+    "StatValues": "-25, 30",
+    "Name": "Greater Minion Damage",
+    "SupportFamily": 40,
+    "GemIcon": "Art/2DItems/Gems/Support/MinionDamage.dds"
+  },
+  {
+    "_index": 180,
+    "Id": "WarcrySpeedLow",
+    "Stat": "3477",
+    "StatValues": "35",
+    "Name": "Lesser Warcry Speed",
+    "SupportFamily": 39,
+    "GemIcon": "Art/2DItems/Gems/Support/UrgentOrdersSupport.dds"
+  },
+  {
+    "_index": 181,
+    "Id": "WarcrySpeedMid",
+    "Stat": "3477",
+    "StatValues": "50",
+    "Name": "Warcry Speed",
+    "SupportFamily": 39,
+    "GemIcon": "Art/2DItems/Gems/Support/UrgentOrdersSupport.dds"
+  },
+  {
+    "_index": 182,
+    "Id": "WarcrySpeedHigh",
+    "Stat": "3477",
+    "StatValues": "75",
+    "Name": "Greater Warcry Speed",
+    "SupportFamily": 39,
+    "GemIcon": "Art/2DItems/Gems/Support/UrgentOrdersSupport.dds"
+  },
+  {
+    "_index": 183,
+    "Id": "ChaosPenLow",
+    "Stat": "596",
+    "StatValues": "10",
+    "Name": "Lesser Chaos Penetration",
+    "SupportFamily": 38,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverIntSupportGem.dds"
+  },
+  {
+    "_index": 184,
+    "Id": "ChaosPenMid",
+    "Stat": "596",
+    "StatValues": "15",
+    "Name": "Chaos Penetration",
+    "SupportFamily": 38,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverIntSupportGem.dds"
+  },
+  {
+    "_index": 185,
+    "Id": "ChaosPenHigh",
+    "Stat": "596",
+    "StatValues": "20",
+    "Name": "Greater Chaos Penetration",
+    "SupportFamily": 38,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverIntSupportGem.dds"
+  },
+  {
+    "_index": 186,
+    "Id": "GlacialCascadeSpecificNumberOfSpikesHigh",
+    "Stat": "2104",
+    "StatValues": "2",
+    "Name": "Gilded Cascade Count",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 187,
+    "Id": "VoltaxicBurstSpecificConvertLightningToChaosHigh",
+    "Stat": "1487",
+    "StatValues": "40",
+    "Name": "Gilded Voltaxic Conversion",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 188,
+    "Id": "MinionLifeLow",
+    "Stat": "6503",
+    "StatValues": "25",
+    "Name": "Lesser Minion Life",
+    "SupportFamily": 44,
+    "GemIcon": "Art/2DItems/Gems/Support/MinionDamage.dds"
+  },
+  {
+    "_index": 189,
+    "Id": "MinionLifeMid",
+    "Stat": "6503",
+    "StatValues": "40",
+    "Name": "Minion Life",
+    "SupportFamily": 44,
+    "GemIcon": "Art/2DItems/Gems/Support/MinionDamage.dds"
+  },
+  {
+    "_index": 190,
+    "Id": "MinionLifeHigh",
+    "Stat": "6503",
+    "StatValues": "60",
+    "Name": "Greater Minion Life",
+    "SupportFamily": 44,
+    "GemIcon": "Art/2DItems/Gems/Support/MinionDamage.dds"
+  },
+  {
+    "_index": 191,
+    "Id": "MultistrikeMid",
+    "Stat": "1250, 1237, 1260",
+    "StatValues": "1, 15, -15",
+    "Name": "Multistrike",
+    "SupportFamily": 41,
+    "GemIcon": "Art/2DItems/Gems/Support/multipleattacks.dds"
+  },
+  {
+    "_index": 192,
+    "Id": "MultistrikeHigh",
+    "Stat": "1250, 1237, 1260",
+    "StatValues": "2, 15, -15",
+    "Name": "Greater Multistrike",
+    "SupportFamily": 41,
+    "GemIcon": "Art/2DItems/Gems/Support/multipleattacks.dds"
+  },
+  {
+    "_index": 193,
+    "Id": "AddedFireLow",
+    "Stat": "446",
+    "StatValues": "10",
+    "Name": "Lesser Added Fire",
+    "SupportFamily": 42,
+    "GemIcon": "Art/2DItems/Gems/Support/AddedFireDamage.dds"
+  },
+  {
+    "_index": 194,
+    "Id": "AddedFireMid",
+    "Stat": "446",
+    "StatValues": "20",
+    "Name": "Added Fire",
+    "SupportFamily": 42,
+    "GemIcon": "Art/2DItems/Gems/Support/AddedFireDamage.dds"
+  },
+  {
+    "_index": 195,
+    "Id": "AddedFireHigh",
+    "Stat": "446",
+    "StatValues": "30",
+    "Name": "Greater Added Fire",
+    "SupportFamily": 42,
+    "GemIcon": "Art/2DItems/Gems/Support/AddedFireDamage.dds"
+  },
+  {
+    "_index": 196,
+    "Id": "MeleePhysLow",
+    "Stat": "641, 6397",
+    "StatValues": "10, 10",
+    "Name": "Lesser Melee Physical Damage",
+    "SupportFamily": 43,
+    "GemIcon": "Art/2DItems/Gems/Support/IncreasedPhysicalDamage.dds"
+  },
+  {
+    "_index": 197,
+    "Id": "MeleePhysMid",
+    "Stat": "641, 6397",
+    "StatValues": "15, 15",
+    "Name": "Melee Physical Damage",
+    "SupportFamily": 43,
+    "GemIcon": "Art/2DItems/Gems/Support/IncreasedPhysicalDamage.dds"
+  },
+  {
+    "_index": 198,
+    "Id": "MeleePhysHigh",
+    "Stat": "641, 6397",
+    "StatValues": "20, 20",
+    "Name": "Greater Melee Physical Damage",
+    "SupportFamily": 43,
+    "GemIcon": "Art/2DItems/Gems/Support/IncreasedPhysicalDamage.dds"
+  },
+  {
+    "_index": 199,
+    "Id": "CombustionHigh",
+    "Stat": "7789",
+    "StatValues": "-10",
+    "Name": "Combustion",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/ChancetoIgnite.dds"
+  },
+  {
+    "_index": 200,
+    "Id": "MinionChaosCloudHigh",
+    "Stat": "3689",
+    "StatValues": "1200",
+    "Name": "Minion Caustic Death",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverIntSupportGem.dds"
+  },
+  {
+    "_index": 201,
+    "Id": "MultiTrapHigh",
+    "Stat": "1774",
+    "StatValues": "2",
+    "Name": "Multiple Traps",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MultiTrap.dds"
+  },
+  {
+    "_index": 202,
+    "Id": "TrapTriggerArcaneSurgeHigh",
+    "Stat": "11455",
+    "StatValues": "1",
+    "Name": "Arcane Traps",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverDexIntSupportGem.dds"
+  },
+  {
+    "_index": 203,
+    "Id": "LeechLow",
+    "Stat": "105",
+    "StatValues": "200",
+    "Name": "Lesser Leech",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/LifeLeech.dds"
+  },
+  {
+    "_index": 204,
+    "Id": "LeechMid",
+    "Stat": "105",
+    "StatValues": "400",
+    "Name": "Leech",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/LifeLeech.dds"
+  },
+  {
+    "_index": 205,
+    "Id": "LeechHigh",
+    "Stat": "105",
+    "StatValues": "600",
+    "Name": "Greater Leech",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/LifeLeech.dds"
+  },
+  {
+    "_index": 206,
+    "Id": "TrapMineThrowSpeedLow",
+    "Stat": "312, 1837",
+    "StatValues": "15, 15",
+    "Name": "Lesser Throwing Speed",
+    "SupportFamily": 5,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverDexIntSupportGem.dds"
+  },
+  {
+    "_index": 207,
+    "Id": "TrapMineThrowSpeedMid",
+    "Stat": "312, 1837",
+    "StatValues": "30, 30",
+    "Name": "Throwing Speed",
+    "SupportFamily": 5,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverDexIntSupportGem.dds"
+  },
+  {
+    "_index": 208,
+    "Id": "TrapMineThrowSpeedHigh",
+    "Stat": "312, 1837",
+    "StatValues": "40, 40",
+    "Name": "Greater Throwing Speed",
+    "SupportFamily": 5,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverDexIntSupportGem.dds"
+  },
+  {
+    "_index": 209,
+    "Id": "TrapMineDamageLow",
+    "Stat": "3018, 14537",
+    "StatValues": "15, -25",
+    "Name": "Lesser Trap and Mine Damage",
+    "SupportFamily": 11,
+    "GemIcon": "Art/2DItems/Gems/Support/TrapAndMineDamage.dds"
+  },
+  {
+    "_index": 210,
+    "Id": "TrapMineDamageMid",
+    "Stat": "3018, 14537",
+    "StatValues": "20, -25",
+    "Name": "Trap and Mine Damage",
+    "SupportFamily": 11,
+    "GemIcon": "Art/2DItems/Gems/Support/TrapAndMineDamage.dds"
+  },
+  {
+    "_index": 211,
+    "Id": "TrapMineDamageHigh",
+    "Stat": "3018, 14537",
+    "StatValues": "30, -25",
+    "Name": "Greater Trap and Mine Damage",
+    "SupportFamily": 11,
+    "GemIcon": "Art/2DItems/Gems/Support/TrapAndMineDamage.dds"
+  },
+  {
+    "_index": 212,
+    "Id": "TrapChargeGenHigh",
+    "Stat": "3907",
+    "StatValues": "40",
+    "Name": "Charged Traps",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/PowerFrenzyCharge.dds"
+  },
+  {
+    "_index": 213,
+    "Id": "TrapTriggerRadiusLow",
+    "Stat": "311",
+    "StatValues": "20",
+    "Name": "Lesser Trigger Radius",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverDexIntSupportGem.dds"
+  },
+  {
+    "_index": 214,
+    "Id": "TrapTriggerRadiusMid",
+    "Stat": "311",
+    "StatValues": "40",
+    "Name": "Trigger Radius",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverDexIntSupportGem.dds"
+  },
+  {
+    "_index": 215,
+    "Id": "TrapTriggerRadiusHigh",
+    "Stat": "311",
+    "StatValues": "60",
+    "Name": "Greater Trigger Radius",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverDexIntSupportGem.dds"
+  },
+  {
+    "_index": 216,
+    "Id": "PurifyingFlameSpecificConsecratedGroundEffectHigh",
+    "Stat": "9038",
+    "StatValues": "30",
+    "Name": "Gilded Purified Ground",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 217,
+    "Id": "IgnoreEnemyPhysMitLow",
+    "Stat": "18338",
+    "StatValues": "20",
+    "Name": "Lesser Mitigation Ignore",
+    "SupportFamily": 49,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverStrDexSupportGem.dds"
+  },
+  {
+    "_index": 218,
+    "Id": "IgnoreEnemyPhysMitMid",
+    "Stat": "18338",
+    "StatValues": "25",
+    "Name": "Mitigation Ignore",
+    "SupportFamily": 49,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverStrDexSupportGem.dds"
+  },
+  {
+    "_index": 219,
+    "Id": "IgnoreEnemyPhysMitHigh",
+    "Stat": "18338",
+    "StatValues": "30",
+    "Name": "Greater Mitigation Ignore",
+    "SupportFamily": 49,
+    "GemIcon": "Art/2DItems/Gems/Support/MercSilverStrDexSupportGem.dds"
+  },
+  {
+    "_index": 220,
+    "Id": "HolyMortarSpecificCoverInAshHigh",
+    "Stat": "7852",
+    "StatValues": "50",
+    "Name": "Gilded Ash",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 221,
+    "Id": "VaalGroundSlamSpecificStunDurationHigh",
+    "Stat": "340",
+    "StatValues": "30",
+    "Name": "Gilded Stun Duration",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 222,
+    "Id": "LeapSlamSpecificFrenzyOnHitHigh",
+    "Stat": "186",
+    "StatValues": "100",
+    "Name": "Gilded Frenzy",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 223,
+    "Id": "GroundSlamSpecificAngleHigh",
+    "Stat": "3435",
+    "StatValues": "40",
+    "Name": "Gilded Increased Angle",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 224,
+    "Id": "MoltenShellSpecificPDRHigh",
+    "Stat": "9799",
+    "StatValues": "15",
+    "Name": "Gilded Physical Damage Reduction",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 225,
+    "Id": "FistOfWarHigh",
+    "Stat": "11855, 11856, 11859, 11858",
+    "StatValues": "1, 100, 60, 1760",
+    "Name": "Fist of War",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/FistOfWarGem.dds"
+  },
+  {
+    "_index": 226,
+    "Id": "SmiteSpecificAdditionalTargetHigh",
+    "Stat": "8332",
+    "StatValues": "100",
+    "Name": "Gilded Extra Targets",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 227,
+    "Id": "ShieldChargeSpecificCrushOnHitHigh",
+    "Stat": "14401",
+    "StatValues": "50",
+    "Name": "Gilded Crush",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 228,
+    "Id": "PulveriseLow",
+    "Stat": "9614, 9612, 433",
+    "StatValues": "-15, 15, 15",
+    "Name": "Lesser Pulverise",
+    "SupportFamily": 48,
+    "GemIcon": "Art/2DItems/Gems/Support/Pulverize.dds"
+  },
+  {
+    "_index": 229,
+    "Id": "PulveriseMid",
+    "Stat": "9614, 9612, 433",
+    "StatValues": "-15, 20, 30",
+    "Name": "Pulverise",
+    "SupportFamily": 48,
+    "GemIcon": "Art/2DItems/Gems/Support/Pulverize.dds"
+  },
+  {
+    "_index": 230,
+    "Id": "PulveriseHigh",
+    "Stat": "9614, 9612, 433",
+    "StatValues": "-15, 30, 40",
+    "Name": "Greater Pulverise",
+    "SupportFamily": 48,
+    "GemIcon": "Art/2DItems/Gems/Support/Pulverize.dds"
+  },
+  {
+    "_index": 231,
+    "Id": "IncreaseAreaOfEffectLow",
+    "Stat": "433",
+    "StatValues": "20",
+    "Name": "Lesser Increased Area of Effect",
+    "SupportFamily": 51,
+    "GemIcon": "Art/2DItems/Gems/Support/IncreasedAOE.dds"
+  },
+  {
+    "_index": 232,
+    "Id": "IncreaseAreaOfEffectMid",
+    "Stat": "433",
+    "StatValues": "40",
+    "Name": "Increased Area of Effect",
+    "SupportFamily": 51,
+    "GemIcon": "Art/2DItems/Gems/Support/IncreasedAOE.dds"
+  },
+  {
+    "_index": 233,
+    "Id": "IncreaseAreaOfEffectHigh",
+    "Stat": "433",
+    "StatValues": "60",
+    "Name": "Greater Area of Effect",
+    "SupportFamily": 51,
+    "GemIcon": "Art/2DItems/Gems/Support/IncreasedAOE.dds"
+  },
+  {
+    "_index": 234,
+    "Id": "SparkSpecificNovaHigh",
+    "Stat": "1776",
+    "StatValues": "1",
+    "Name": "Gilded Nova",
+    "SupportFamily": 0,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 235,
+    "Id": "OrbOfStormsSpecificShockCritKnockHigh",
+    "Stat": "11066, 552",
+    "StatValues": "1, 1000",
+    "Name": "Gilded Jolt",
+    "SupportFamily": 31,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 236,
+    "Id": "StormCallSpecificResCritHigh",
+    "Stat": "5225",
+    "StatValues": "1",
+    "Name": "Gilded Voltage",
+    "SupportFamily": 31,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 237,
+    "Id": "ArcSpecificDistanceHigh",
+    "Stat": "7906",
+    "StatValues": "10",
+    "Name": "Gilded Chain Distance",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 238,
+    "Id": "GigaShockNovaSpecificAOEHigh",
+    "Stat": "4853",
+    "StatValues": "-25",
+    "Name": "Gilded Inhibitor",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 239,
+    "Id": "IceNovaSpecificFirePerChillHigh",
+    "Stat": "1499",
+    "StatValues": "30",
+    "Name": "Gilded Freezer Burn",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 240,
+    "Id": "SummonSkeletonsSpecificArchersHigh",
+    "Stat": "12582",
+    "StatValues": "100",
+    "Name": "Gilded Archers",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 241,
+    "Id": "LightningTrapSpecificShockSlowHigh",
+    "Stat": "4854",
+    "StatValues": "-50",
+    "Name": "Gilded Electrocuting",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 242,
+    "Id": "FireballAltSpecificChanceToScorchHigh",
+    "Stat": "8657",
+    "StatValues": "50",
+    "Name": "Gilded Scorch Chance",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 243,
+    "Id": "VaalReapSpecificFireDebuffHigh",
+    "Stat": "17901",
+    "StatValues": "1",
+    "Name": "Gilded Searing Agony",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 244,
+    "Id": "SRSSpecificShrinesHigh",
+    "Stat": "17929",
+    "StatValues": "1",
+    "Name": "Gilded Devotion",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 245,
+    "Id": "SoulrendAltSpecificChaosChillHigh",
+    "Stat": "3520",
+    "StatValues": "1",
+    "Name": "Gilded Hopelessness",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 246,
+    "Id": "LightningSpireSpecificBeamsHigh",
+    "Stat": "7726, 24",
+    "StatValues": "10, -80",
+    "Name": "Gilded Reactor",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 247,
+    "Id": "ScorchingRayTotemSpecificLengthHigh",
+    "Stat": "5144",
+    "StatValues": "100",
+    "Name": "Gilded Conflagrant",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 248,
+    "Id": "HolyFlameTotemSpecificConcBlockHigh",
+    "Stat": "5505",
+    "StatValues": "35",
+    "Name": "Gilded Divine Shield",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 249,
+    "Id": "SunderAltSpecificAdditionalChainHigh",
+    "Stat": "21127",
+    "StatValues": "1",
+    "Name": "Gilded Snaking",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 250,
+    "Id": "BlastRainAltSpecificExtraBlastHigh",
+    "Stat": "4511",
+    "StatValues": "50",
+    "Name": "Gilded Blasting",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 251,
+    "Id": "BurningArrowSpecificAlwaysPierceHigh",
+    "Stat": "4546",
+    "StatValues": "1",
+    "Name": "Gilded Pierce",
+    "SupportFamily": 37,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 252,
+    "Id": "VaalLightningArrowSpecificRedirectHigh",
+    "Stat": "17711",
+    "StatValues": "3",
+    "Name": "Gilded Uncertainty",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 253,
+    "Id": "GiantZombieSpecificSlowZombieHigh",
+    "Stat": "2089, 616",
+    "StatValues": "50, -30",
+    "Name": "Gilded Lumbering Dead",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 254,
+    "Id": "ToxicRainSpecificGraspingVinesHigh",
+    "Stat": "15776",
+    "StatValues": "1",
+    "Name": "Gilded Grasp",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 255,
+    "Id": "ArtilleryBallistaSpecificOnslaughtHigh",
+    "Stat": "12066",
+    "StatValues": "1",
+    "Name": "Gilded Totemic Onslaught",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 256,
+    "Id": "LancingSteelSpecificRandomProjHigh",
+    "Stat": "13895, 173",
+    "StatValues": "1, 4",
+    "Name": "Gilded Scattershot",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 257,
+    "Id": "CobraLashSpecificPoisonRegenHigh",
+    "Stat": "15823",
+    "StatValues": "-50",
+    "Name": "Gilded Bitterwound",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  },
+  {
+    "_index": 258,
+    "Id": "MoltenStrikeSpecificExtraProjHigh",
+    "Stat": "19375",
+    "StatValues": "5",
+    "Name": "Gilded Molten Eruption",
+    "SupportFamily": null,
+    "GemIcon": "Art/2DItems/Gems/Support/MercGoldSupportGem.dds"
+  }
+]

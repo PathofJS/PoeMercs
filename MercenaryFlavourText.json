@@ -1,0 +1,1850 @@
+[
+  {
+    "_index": 0,
+    "Id": "NonEleBowRanger1",
+    "Description": "\"Even a lawless land needs rules. Even anarchy requires order.\" \r\n- Kylian Cyaxan",
+    "HASH16": 22819,
+    "Tags": "1199, 1258",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 1,
+    "Id": "NonEleBowRanger2",
+    "Description": "As Cyaxan's criminal empire grew, so too did its need for enforcers. The Trarthan militia was its answer. ",
+    "HASH16": 25135,
+    "Tags": "1199, 1258",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 2,
+    "Id": "NonEleBowRanger3",
+    "Description": "Order came later. At first, the Trarthan militia was little more than muscle - sold to the highest house, and drunk on its coin.",
+    "HASH16": 46485,
+    "Tags": "1199, 1258",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 3,
+    "Id": "NonEleBowRanger4",
+    "Description": "The Trarthan militia delivers justice swiftly - usually before a crime is even committed.",
+    "HASH16": 50075,
+    "Tags": "1199, 1258",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 4,
+    "Id": "NonEleBowRanger5",
+    "Description": "\"The militia don't keep the peace. They keep Trarthus profitable.\" ",
+    "HASH16": 1655,
+    "Tags": "1199, 1258",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 5,
+    "Id": "NonEleBowRanger6",
+    "Description": "\"They weren't just enforcers. They were reminders - of who ruled Korathin's gutters, and what disobedience cost.\" ",
+    "HASH16": 62209,
+    "Tags": "1199, 1258",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 6,
+    "Id": "NonEleBowRanger7",
+    "Description": "For a time, the militia had the slums on lockdown. Then Cyaxan flooded them with gems - and the streets ran red with blood. ",
+    "HASH16": 49281,
+    "Tags": "1199, 1258",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 7,
+    "Id": "NonEleBowRanger8",
+    "Description": "Of all Kylian Cyaxan's sins, virtue gems were the most costly. Blinded by greed, he never foresaw the chaos they'd unleash.",
+    "HASH16": 20691,
+    "Tags": "1199, 1258",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 8,
+    "Id": "NonEleBowRanger9",
+    "Description": "Kylian Cyaxan demanded a swift response to the chaos in the streets. The militia answered - virtue gems in hand.",
+    "HASH16": 18023,
+    "Tags": "1199, 1258",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 9,
+    "Id": "NonEleBowRanger10",
+    "Description": "The militia met fire with fire - gems for gems, blood for blood.",
+    "HASH16": 37252,
+    "Tags": "1199, 1258",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 10,
+    "Id": "NonEleBowRanger11",
+    "Description": "With gems came power - and with power came fewer survivors of the militia's 'justice'.",
+    "HASH16": 60423,
+    "Tags": "1199, 1258",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 11,
+    "Id": "NonEleBowRanger12",
+    "Description": "\"They called it peace when the killing slowed. Not justice - just fewer people left to fight back... and even fewer who would dare.\" ",
+    "HASH16": 8705,
+    "Tags": "1199, 1258",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 12,
+    "Id": "NonEleBowRangerNoble1",
+    "Description": "{0} Cyaxan once kept order in Korathin's worst quarter. Now she keeps trophies instead.",
+    "HASH16": 38775,
+    "Tags": "1260, 1262",
+    "TagWeight": "1000, 1000"
+  },
+  {
+    "_index": 13,
+    "Id": "NonEleBowRangerNoble2",
+    "Description": "{0} was born of Cyaxan stock, raised on slum smoke and discipline.",
+    "HASH16": 24942,
+    "Tags": "1260, 1262",
+    "TagWeight": "1000, 1000"
+  },
+  {
+    "_index": 14,
+    "Id": "NonEleBowRangerNoble3",
+    "Description": "{0} Cyaxan: a name once feared across the Trarthan militia ranks - feared even more now she's off the leash.",
+    "HASH16": 38714,
+    "Tags": "1260, 1262",
+    "TagWeight": "1000, 1000"
+  },
+  {
+    "_index": 15,
+    "Id": "NonEleBowRangerNoble4",
+    "Description": "Trarthus was barren after the Vaal Cataclysm... until the Empire began exiling their unwanted to its bleak shores.",
+    "HASH16": 9808,
+    "Tags": "1260, 1262",
+    "TagWeight": "1000, 1000"
+  },
+  {
+    "_index": 16,
+    "Id": "NonEleBowRangerNoble5",
+    "Description": "\"Our ancestors were exiled so that the Eternal Empire could have its thousand-year peace. I don't give a damn about Wraeclast.\"",
+    "HASH16": 3719,
+    "Tags": "1260, 1262",
+    "TagWeight": "1000, 1000"
+  },
+  {
+    "_index": 17,
+    "Id": "EleBowRanger1",
+    "Description": "Gems from Trarthus have their own trademarks. Like the populace, they are more brutal.",
+    "HASH16": 53790,
+    "Tags": "1199, 1263",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 18,
+    "Id": "EleBowRanger2",
+    "Description": "Keitan slaves built the walls of Korathin. Kylian Cyaxan filled them with vice before the mortar had dried.",
+    "HASH16": 19164,
+    "Tags": "1199, 1263",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 19,
+    "Id": "EleBowRanger3",
+    "Description": "Cyaxan brothels bore no name. But those who entered often forget their own. ",
+    "HASH16": 23012,
+    "Tags": "1199, 1263",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 20,
+    "Id": "EleBowRanger4",
+    "Description": "First came desire. Then came dependency. Cyaxan offered both - by design.",
+    "HASH16": 51626,
+    "Tags": "1199, 1263",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 21,
+    "Id": "EleBowRanger5",
+    "Description": "The courtesans were Cyaxan's first pushers. Pleasure and powder ensured each customer returned - shaking a little more each time.  ",
+    "HASH16": 5179,
+    "Tags": "1199, 1263",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 22,
+    "Id": "EleBowRanger6",
+    "Description": "Most were addicted before they even knew it - such was the potency of Cyaxan's blend. ",
+    "HASH16": 37109,
+    "Tags": "1199, 1263",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 23,
+    "Id": "EleBowRanger7",
+    "Description": "\"In the early days, the drug trade was shared. Then Cyaxan made sharing... unprofitable.\"",
+    "HASH16": 63610,
+    "Tags": "1199, 1263",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 24,
+    "Id": "EleBowRanger8",
+    "Description": "When even dependency began to dull, Kylian Cyaxan sought something stronger - 'virtue' in crystalline form.",
+    "HASH16": 1475,
+    "Tags": "1199, 1263",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 25,
+    "Id": "EleBowRanger9",
+    "Description": "While most wielded gems for violence, Kylian Cyaxan saw in them something far more sordid.",
+    "HASH16": 25908,
+    "Tags": "1199, 1263",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 26,
+    "Id": "EleBowRanger10",
+    "Description": "The first gem-lit flesh in Trarthus didn't belong to a warrior. It belonged to a courtesan.",
+    "HASH16": 28638,
+    "Tags": "1199, 1263",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 27,
+    "Id": "EleBowRanger12",
+    "Description": "Some gems enhanced sensation. Others suppressed it - turning bodies into tools of compliance.",
+    "HASH16": 33846,
+    "Tags": "1199, 1263",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 28,
+    "Id": "EleBowRanger13",
+    "Description": "What began as pleasure became ritual. What began as choice became conditioning.",
+    "HASH16": 56007,
+    "Tags": "1199, 1263",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 29,
+    "Id": "EleBowRanger14",
+    "Description": "\"Kylian Cyaxan is long dead - as are many of his customers. But the thing about that kind of customer? They replenish themselves.\"",
+    "HASH16": 29242,
+    "Tags": "1199, 1263",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 30,
+    "Id": "EleBowRanger16",
+    "Description": "\"Brick and stone may hold a city... but pleasure holds a people.\"\r\n - Kylian Cyaxan",
+    "HASH16": 24189,
+    "Tags": "1199, 1263",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 31,
+    "Id": "EleBowRangerNoble1",
+    "Description": "{0} Cyaxan knew every back alley in Korathin - especially the ones that glittered.",
+    "HASH16": 10473,
+    "Tags": "1265, 1267, 1269",
+    "TagWeight": "1000, 1000, 1000"
+  },
+  {
+    "_index": 32,
+    "Id": "EleBowRangerNoble2",
+    "Description": "The gems are socketed deep. {0} Cyaxan's need, deeper still.",
+    "HASH16": 10665,
+    "Tags": "1265, 1267, 1269",
+    "TagWeight": "1000, 1000, 1000"
+  },
+  {
+    "_index": 33,
+    "Id": "EleBowRangerNoble3",
+    "Description": "If it glints, {0} Cyaxan follows. If it runs, she chases.",
+    "HASH16": 30228,
+    "Tags": "1265, 1267, 1269",
+    "TagWeight": "1000, 1000, 1000"
+  },
+  {
+    "_index": 34,
+    "Id": "EleBowRangerNoble4",
+    "Description": "\"As decaying Empires are wont to do, the use of exile as a punishment gradually became more common over the centuries...\"",
+    "HASH16": 16,
+    "Tags": "1265, 1267, 1269",
+    "TagWeight": "1000, 1000, 1000"
+  },
+  {
+    "_index": 35,
+    "Id": "EleBowRangerNoble5",
+    "Description": "The Eternal Empire eventually made their greatest mistake: they exiled a simple farmer to Trarthus.",
+    "HASH16": 63215,
+    "Tags": "1265, 1267, 1269",
+    "TagWeight": "1000, 1000, 1000"
+  },
+  {
+    "_index": 36,
+    "Id": "MeleeAOEMarauder1",
+    "Description": "In Korathin's slave pits, Keita found its fortune. Death made for eager audiences.",
+    "HASH16": 51315,
+    "Tags": "1199, 1228",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 37,
+    "Id": "MeleeAOEMarauder2",
+    "Description": "Keitan slaves raised the walls of Korathin. Their blood still clings to the mortar. ",
+    "HASH16": 50223,
+    "Tags": "1199, 1228",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 38,
+    "Id": "MeleeAOEMarauder3",
+    "Description": "House Keita did not always command such fear. It was their crushing of the rebellion that made them a force to be reckoned with.  ",
+    "HASH16": 37253,
+    "Tags": "1199, 1228",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 39,
+    "Id": "MeleeAOEMarauder4",
+    "Description": "The slave rebellion began with a whisper. A promise of freedom passed from throat to throat, louder each time.",
+    "HASH16": 6010,
+    "Tags": "1199, 1228",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 40,
+    "Id": "MeleeAOEMarauder5",
+    "Description": "One night, the chains fell silent. The next, they snapped. Keitans awoke to fire in their camps and blood on their floors. ",
+    "HASH16": 12292,
+    "Tags": "1199, 1228",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 41,
+    "Id": "MeleeAOEMarauder6",
+    "Description": "It took just three days. Three days for Keita to crush the dissidents, reforge the chains, and fill the pits with corpses.",
+    "HASH16": 41155,
+    "Tags": "1199, 1228",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 42,
+    "Id": "MeleeAOEMarauder7",
+    "Description": "Keita left the rebels hanging, stripped and nameless. Not as martyrs - just meat, gone to waste.",
+    "HASH16": 33085,
+    "Tags": "1199, 1228",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 43,
+    "Id": "MeleeAOEMarauder8",
+    "Description": "After the revolt, Ixan Keita declared the slaves must be reminded of their place. Thus began the Trarthan slave pits.",
+    "HASH16": 45739,
+    "Tags": "1199, 1228",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 44,
+    "Id": "MeleeAOEMarauder9",
+    "Description": "From the ashes of rebellion came the slave pit - dug to remind the living what happened to those who sought freedom. ",
+    "HASH16": 61285,
+    "Tags": "1199, 1228",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 45,
+    "Id": "MeleeAOEMarauder10",
+    "Description": "The slave pits are a reflection of Trarthan society: brutal, bloodthirsty, and swift to punish mistakes.  ",
+    "HASH16": 24452,
+    "Tags": "1199, 1228",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 46,
+    "Id": "MeleeAOEMarauder11",
+    "Description": "Keita doesn't fear uprisings anymore. Every lash, every cage, every pit - lessons carved in flesh.",
+    "HASH16": 31091,
+    "Tags": "1199, 1228",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 47,
+    "Id": "MeleeAOEMarauder13",
+    "Description": "\"In Trarthus, freedom is earned, not given.\" ",
+    "HASH16": 55803,
+    "Tags": "1199, 1228",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 48,
+    "Id": "MeleeAOEMarauderNoble1",
+    "Description": "\"The lucky ones die early. The rest learn to live with it.\"",
+    "HASH16": 20797,
+    "Tags": "1230, 1232, 1234",
+    "TagWeight": "1000, 1000, 1000"
+  },
+  {
+    "_index": 49,
+    "Id": "MeleeAOEMarauderNoble2",
+    "Description": "Fighting in chains taught {0} everything he needed - including how to break them. ",
+    "HASH16": 22713,
+    "Tags": "1230, 1232, 1234",
+    "TagWeight": "1000, 1000, 1000"
+  },
+  {
+    "_index": 50,
+    "Id": "MeleeAOEMarauderNoble3",
+    "Description": "Inside Trarthus or out, slave or slaver - none bred more enemies than House Keita. ",
+    "HASH16": 3396,
+    "Tags": "1230, 1232, 1234",
+    "TagWeight": "1000, 1000, 1000"
+  },
+  {
+    "_index": 51,
+    "Id": "MeleeAOEMarauderNoble4",
+    "Description": "The Trarthans paid back their debt to the Karui, aiding them when it was their turn to battle the Empire.",
+    "HASH16": 43413,
+    "Tags": "1230, 1232, 1234",
+    "TagWeight": "1000, 1000, 1000"
+  },
+  {
+    "_index": 52,
+    "Id": "MeleeAOEMarauderNoble5",
+    "Description": "When Tyndarus Phrecius tried to resupply his occupying legions on Trarthus, the Karui blockaded the Archipelago.",
+    "HASH16": 62845,
+    "Tags": "1230, 1232, 1234",
+    "TagWeight": "1000, 1000, 1000"
+  },
+  {
+    "_index": 53,
+    "Id": "MeleeStrikesMarauder1",
+    "Description": "Trarthan slavers are despicable - and indispensable.",
+    "HASH16": 58696,
+    "Tags": "1199, 1235",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 54,
+    "Id": "MeleeStrikesMarauder2",
+    "Description": "Of all the Trarthan Death Trades, none strip the soul quite like slavery - brutal in both intent and execution.",
+    "HASH16": 61712,
+    "Tags": "1199, 1235",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 55,
+    "Id": "MeleeStrikesMarauder15",
+    "Description": "Trarthus was built on the backs of slaves, whose labour shaped much of its infrastructure. At the whip-hand stood House Keita.",
+    "HASH16": 17291,
+    "Tags": "1199, 1235",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 56,
+    "Id": "MeleeStrikesMarauder4",
+    "Description": "Cruel even by Trarthan standards, House Keita's blend of brutality and efficiency made them ideal architects of the slave trade.",
+    "HASH16": 32090,
+    "Tags": "1199, 1235",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 57,
+    "Id": "MeleeStrikesMarauder5",
+    "Description": "In their prime, Keita built more than cities - they built leverage. For a time, no House dared challenge their hold on Trarthus.",
+    "HASH16": 3557,
+    "Tags": "1199, 1235",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 58,
+    "Id": "MeleeStrikesMarauder6",
+    "Description": "Ixan Keita helped build Trarthus - and nearly ruled it. But power begets ambition, and ambition always demands more.",
+    "HASH16": 52255,
+    "Tags": "1199, 1235",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 59,
+    "Id": "MeleeStrikesMarauder7",
+    "Description": "The ambition of Ixan Keita was his undoing. His bid for power sparked war with Bardiya - a war Keita could not win.",
+    "HASH16": 48362,
+    "Tags": "1199, 1235",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 60,
+    "Id": "MeleeStrikesMarauder8",
+    "Description": "Keita held the chains. Bardiya cut the purse strings. Trarthus watched as labour lost to leverage - and coin won the war.",
+    "HASH16": 20364,
+    "Tags": "1199, 1235",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 61,
+    "Id": "MeleeStrikesMarauder9",
+    "Description": "Keita swore fealty to the Council with a clenched jaw. Better a seat at the table than exile from the game entirely.",
+    "HASH16": 49165,
+    "Tags": "1199, 1235",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 62,
+    "Id": "MeleeStrikesMarauder10",
+    "Description": "Though the Keita of today is still a House of influence, Bardiya remembers their treachery - and limits their power accordingly. ",
+    "HASH16": 32003,
+    "Tags": "1199, 1235",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 63,
+    "Id": "MeleeStrikesMarauder12",
+    "Description": "\"House Keita wrote the bloody book on cruelty. Think of the worst bastard you know - either they're a Keitan, or a poor imitation.\"",
+    "HASH16": 23825,
+    "Tags": "1199, 1235",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 64,
+    "Id": "MeleeStrikesMarauder13",
+    "Description": " \"The Merchant Council's a leash on House Keita - and the irony ain't lost on 'em. Still, better leashed than buried.\"",
+    "HASH16": 52710,
+    "Tags": "1199, 1235",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 65,
+    "Id": "MeleeStrikesMarauder14",
+    "Description": "\"Pain is the language of obedience.\"\r\n - Ixan Keita",
+    "HASH16": 10120,
+    "Tags": "1199, 1235",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 66,
+    "Id": "MeleeStrikesMarauderNoble1",
+    "Description": "{0} Keita built his name in the slave pits of Korathin - and built his fortune on the backs beneath him.",
+    "HASH16": 14721,
+    "Tags": "1237, 1239",
+    "TagWeight": "1000, 1000"
+  },
+  {
+    "_index": 67,
+    "Id": "MeleeStrikesMarauderNoble2",
+    "Description": "Slaves obeyed. Rivals bled. The rest learned to stay out of {0} Keita's way.",
+    "HASH16": 26180,
+    "Tags": "1237, 1239",
+    "TagWeight": "1000, 1000"
+  },
+  {
+    "_index": 68,
+    "Id": "MeleeStrikesMarauderNoble3",
+    "Description": "The pits made killers of men... and monsters of those who ran them.",
+    "HASH16": 47176,
+    "Tags": "1237, 1239",
+    "TagWeight": "1000, 1000"
+  },
+  {
+    "_index": 69,
+    "Id": "MeleeStrikesMarauderNoble4",
+    "Description": "For centuries, ash from Karui volcanoes rode the wind to Trarthus. It turned slaves into the continent's finest tools.",
+    "HASH16": 58966,
+    "Tags": "1237, 1239",
+    "TagWeight": "1000, 1000"
+  },
+  {
+    "_index": 70,
+    "Id": "MeleeStrikesMarauderNoble5",
+    "Description": "\"Slavery began on Trarthus when a simple farmer offered to serve and grow food in exchange for his life. Pathetic... but profitable.\"",
+    "HASH16": 48413,
+    "Tags": "1237, 1239",
+    "TagWeight": "1000, 1000"
+  },
+  {
+    "_index": 71,
+    "Id": "ElementalWitch1",
+    "Description": "Thaumaturgy in Trarthus is like smoke in the lungs - unpleasant, expected, and always present.",
+    "HASH16": 64923,
+    "Tags": "1199, 1200",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 72,
+    "Id": "ElementalWitch2",
+    "Description": " Before vice, before gems, before brothels and powder - Cyaxan dealt in spices, cloth and coin. ",
+    "HASH16": 28348,
+    "Tags": "1199, 1200",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 73,
+    "Id": "ElementalWitch3",
+    "Description": " \"They all started legitimate - even Cyaxan. But virtue doesn't buy power. Vice does.\"",
+    "HASH16": 54937,
+    "Tags": "1199, 1200",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 74,
+    "Id": "ElementalWitch4",
+    "Description": "Cyaxan didn't need blades. They had margins - and the power that comes from knowing what everyone else wanted.",
+    "HASH16": 44282,
+    "Tags": "1199, 1200",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 75,
+    "Id": "ElementalWitch5",
+    "Description": "In time, margins thinned. Rivals grew bolder. So Cyaxan found new markets - darker ones.",
+    "HASH16": 59324,
+    "Tags": "1199, 1200",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 76,
+    "Id": "ElementalWitch6",
+    "Description": "Cyaxan didn't set out to rule the underworld. Only to survive it. Then survival turned to opportunity.",
+    "HASH16": 55507,
+    "Tags": "1199, 1200",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 77,
+    "Id": "ElementalWitch7",
+    "Description": "Kylian Cyaxan's ascent to lord of the Trarthan underworld was not without obstacles. The first arose within his own house. ",
+    "HASH16": 46211,
+    "Tags": "1199, 1200",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 78,
+    "Id": "ElementalWitch8",
+    "Description": "Kylian's first victim wasn't a member of a rival House - it was family. From then on, betrayal became tradition.",
+    "HASH16": 32573,
+    "Tags": "1199, 1200",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 79,
+    "Id": "ElementalWitch9",
+    "Description": "Kylian Cyaxan never raised his voice. Just his glass. The rest of the table never stood again.",
+    "HASH16": 36337,
+    "Tags": "1199, 1200",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 80,
+    "Id": "ElementalWitch10",
+    "Description": "With rivals dead or disgraced, Kylian moved fast - consolidating power, ensuring no Cyaxan could rise as he had.",
+    "HASH16": 26896,
+    "Tags": "1199, 1200",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 81,
+    "Id": "ElementalWitch11",
+    "Description": "Kylian never trusted alliances. He preferred leverage. Internally, that meant secrets. Externally, sabotage.",
+    "HASH16": 24835,
+    "Tags": "1199, 1200",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 82,
+    "Id": "ElementalWitch13",
+    "Description": "\"When dining with a Cyaxan, bring an appetite - and an antidote.\" ",
+    "HASH16": 15336,
+    "Tags": "1199, 1200",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 83,
+    "Id": "ElementalWitch14",
+    "Description": "Cyaxan rarely availed themselves of House Azadi's services. They preferred less... bloody methods.",
+    "HASH16": 8955,
+    "Tags": "1199, 1200",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 84,
+    "Id": "ElementalWitchNoble1",
+    "Description": "It wasn't people {0} Cyaxan loathed, but the frailties they wore so proudly: need, artifice, expectation.",
+    "HASH16": 44150,
+    "Tags": "1202, 1204, 1206",
+    "TagWeight": "1000, 1000, 1000"
+  },
+  {
+    "_index": 85,
+    "Id": "ElementalWitchNoble2",
+    "Description": "Cold, restrained, detached - anathema to Cyaxan ideals. But death has many forms, and {0} excelled in hers.",
+    "HASH16": 9347,
+    "Tags": "1202, 1204, 1206",
+    "TagWeight": "1000, 1000, 1000"
+  },
+  {
+    "_index": 86,
+    "Id": "ElementalWitchNoble3",
+    "Description": "{0} Cyaxan despised mess - of thought, of feeling, of flesh.",
+    "HASH16": 51259,
+    "Tags": "1202, 1204, 1206",
+    "TagWeight": "1000, 1000, 1000"
+  },
+  {
+    "_index": 87,
+    "Id": "ElementalWitchNoble4",
+    "Description": "\"Emperor Tyndarus Phrecius was a fool who let a wasteland full of exiles defy the Empire.\"",
+    "HASH16": 24393,
+    "Tags": "1202, 1204, 1206",
+    "TagWeight": "1000, 1000, 1000"
+  },
+  {
+    "_index": 88,
+    "Id": "ElementalWitchNoble5",
+    "Description": "\"Trarthus lives on, long after the dying husk of its parent Empire has become nothing but a memory.\"",
+    "HASH16": 24784,
+    "Tags": "1202, 1204, 1206",
+    "TagWeight": "1000, 1000, 1000"
+  },
+  {
+    "_index": 89,
+    "Id": "ChaosMinionWitch1",
+    "Description": "In the early days of Trarthus, each House kept to its corner. Peace held - not through trust, but through distance.",
+    "HASH16": 44251,
+    "Tags": "1199, 1207",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 90,
+    "Id": "ChaosMinionWitch2",
+    "Description": "As each House drifted from legitimacy to vice, conflict was inevitable. Kylian Cyaxan made sure of it.",
+    "HASH16": 39199,
+    "Tags": "1199, 1207",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 91,
+    "Id": "ChaosMinionWitch3",
+    "Description": "\"They say Kylian Cyaxan was once an upstanding merchant. But then, they say a lot of things.\"",
+    "HASH16": 53525,
+    "Tags": "1199, 1207",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 92,
+    "Id": "ChaosMinionWitch4",
+    "Description": "\"To play both sides well is to leave no fingerprints - only consequences.\"\r\n - Kylian Cyaxan",
+    "HASH16": 63099,
+    "Tags": "1199, 1207",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 93,
+    "Id": "ChaosMinionWitch5",
+    "Description": "History blames Bardiya and Keita for the Merchant Wars. Fewer recall that Cyaxan was whispering in both ears all along.",
+    "HASH16": 59017,
+    "Tags": "1199, 1207",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 94,
+    "Id": "ChaosMinionWitch6",
+    "Description": "As Bardiya and Keita went to war, Kylian Cyaxan stayed neutral - by selling secrets to both sides.",
+    "HASH16": 28393,
+    "Tags": "1199, 1207",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 95,
+    "Id": "ChaosMinionWitch7",
+    "Description": "\"A Cyaxan will stir the pot, watch it boil, then let others burn their hands - all while they slip out the back door.\"",
+    "HASH16": 42821,
+    "Tags": "1199, 1207",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 96,
+    "Id": "ChaosMinionWitch8",
+    "Description": "\"There's coin in war... so long as you're not the one fighting it.\"\r\n - Kylian Cyaxan",
+    "HASH16": 10524,
+    "Tags": "1199, 1207",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 97,
+    "Id": "ChaosMinionWitch9",
+    "Description": "The Merchant Wars began with tariffs and treaties. They ended with fire, famine, and grudges that would last a lifetime.",
+    "HASH16": 22381,
+    "Tags": "1199, 1207",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 98,
+    "Id": "ChaosMinionWitch10",
+    "Description": "When all was said and done, the Merchant Wars had made fortunes for the few - and graves for the many.",
+    "HASH16": 44667,
+    "Tags": "1199, 1207",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 99,
+    "Id": "ChaosMinionWitch11",
+    "Description": "Cyaxan may have lit the fire. But when bodies piled high and profits ran dry, even Kylian sought peace.",
+    "HASH16": 65335,
+    "Tags": "1199, 1207",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 100,
+    "Id": "ChaosMinionWitch12",
+    "Description": "The end of the Merchant Wars came not from diplomacy, but depletion. The Houses didn't shake hands - they paused to reload.",
+    "HASH16": 35781,
+    "Tags": "1199, 1207",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 101,
+    "Id": "ChaosMinionWitch13",
+    "Description": "No House admits to starting the Merchant Wars. But every House claims to have won them.",
+    "HASH16": 17900,
+    "Tags": "1199, 1207",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 102,
+    "Id": "ChaosMinionWitchNoble1",
+    "Description": "Some Cyaxans peddled pleasure, others poison. {0} Cyaxan peddled death.",
+    "HASH16": 12104,
+    "Tags": "1209, 1211, 1213",
+    "TagWeight": "1000, 1000, 1000"
+  },
+  {
+    "_index": 103,
+    "Id": "ChaosMinionWitchNoble2",
+    "Description": "Even {0}'s fellow Cyaxans questioned her methods. But never their efficacy.  ",
+    "HASH16": 33843,
+    "Tags": "1209, 1211, 1213",
+    "TagWeight": "1000, 1000, 1000"
+  },
+  {
+    "_index": 104,
+    "Id": "ChaosMinionWitchNoble3",
+    "Description": "Few in Trarthus kill with curses or corpses. But those who do face no fear of retribution.",
+    "HASH16": 54892,
+    "Tags": "1209, 1211, 1213",
+    "TagWeight": "1000, 1000, 1000"
+  },
+  {
+    "_index": 105,
+    "Id": "ChaosMinionWitchNoble4",
+    "Description": "\"They exiled their undesirables to Trarthus, and then had the gall to act surprised when those undesirables refused to bow down.\"",
+    "HASH16": 61099,
+    "Tags": "1209, 1211, 1213",
+    "TagWeight": "1000, 1000, 1000"
+  },
+  {
+    "_index": 106,
+    "Id": "ChaosMinionWitchNoble5",
+    "Description": "\"Witches aren't feared in Trarthus. They're adored. We wisely sided with the rebels against Little Tinny Phrecius.\"",
+    "HASH16": 50775,
+    "Tags": "1209, 1211, 1213",
+    "TagWeight": "1000, 1000, 1000"
+  },
+  {
+    "_index": 107,
+    "Id": "PhysConvertTemplar1",
+    "Description": "In Trarthus, faith never died. It just turned inward. ",
+    "HASH16": 30741,
+    "Tags": "1199, 1251",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 108,
+    "Id": "PhysConvertTemplar2",
+    "Description": "The major Houses didn't worship gods. They tried to become them. ",
+    "HASH16": 5153,
+    "Tags": "1199, 1251",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 109,
+    "Id": "PhysConvertTemplar3",
+    "Description": "Divinity demands belief. Trarthus demanded proof. ",
+    "HASH16": 40116,
+    "Tags": "1199, 1251",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 110,
+    "Id": "PhysConvertTemplar4",
+    "Description": "One claimed the mantle of flame. Another of blood. But in a city of rival 'gods', none rose above the noise.",
+    "HASH16": 2227,
+    "Tags": "1199, 1251",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 111,
+    "Id": "PhysConvertTemplar5",
+    "Description": " A House could rise through war, through gold, through secrets - but not through grace.",
+    "HASH16": 65497,
+    "Tags": "1199, 1251",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 112,
+    "Id": "PhysConvertTemplar6",
+    "Description": "Ixan Keita declared himself a god - and built temples to prove it. His slaves were given no choice but to pray.",
+    "HASH16": 8278,
+    "Tags": "1199, 1251",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 113,
+    "Id": "PhysConvertTemplar7",
+    "Description": "In his quest for Divinity, Ixan Keita demanded worship. Obedience was beaten in. But no man ever reached godhood through fear alone.",
+    "HASH16": 50077,
+    "Tags": "1199, 1251",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 114,
+    "Id": "PhysConvertTemplar8",
+    "Description": "They sang of Ixan Keita, knelt in his hollow shrines... but their hearts spoke only of hate.",
+    "HASH16": 21904,
+    "Tags": "1199, 1251",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 115,
+    "Id": "PhysConvertTemplar9",
+    "Description": "Ixan mistook silence for reverence. In truth, not one soul believed. And so he remained just that: a mortal soul.",
+    "HASH16": 29229,
+    "Tags": "1199, 1251",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 116,
+    "Id": "PhysConvertTemplar10",
+    "Description": "\"Let them hate me, if they must. Even hatred bows to power.\"\r\n - Ixan Keita",
+    "HASH16": 714,
+    "Tags": "1199, 1251",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 117,
+    "Id": "PhysConvertTemplar11",
+    "Description": "They preached in alleyways and taverns. Few listened. Fewer remembered.",
+    "HASH16": 65002,
+    "Tags": "1199, 1251",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 118,
+    "Id": "PhysConvertTemplar12",
+    "Description": "Attempts to bring organised religion to Trarthus were many - and all of them met with blood.",
+    "HASH16": 29232,
+    "Tags": "1199, 1251",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 119,
+    "Id": "PhysConvertTemplar13",
+    "Description": "Faith is tolerated in Trarthus - but only so long as it is kept to one's self.",
+    "HASH16": 1910,
+    "Tags": "1199, 1251",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 120,
+    "Id": "PhysConvertTemplar14",
+    "Description": "Even the pious stray in Trarthus - led not by devils, but by gold and supple skin.",
+    "HASH16": 28108,
+    "Tags": "1199, 1251",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 121,
+    "Id": "PhysConvertTemplar15",
+    "Description": "Trarthans revere but one god: the almighty coin.",
+    "HASH16": 43510,
+    "Tags": "1199, 1251",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 122,
+    "Id": "PhysConvertTemplar16",
+    "Description": "\"If your mission should take you to Trarthus, you'd best carry a knife.\"\r\n - Gospel and Blade",
+    "HASH16": 13056,
+    "Tags": "1199, 1251",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 123,
+    "Id": "PhysConvertTemplarNoble1",
+    "Description": "{0} Keita came to preach salvation. He left certain there was none to be found.",
+    "HASH16": 22275,
+    "Tags": "1253, 1255, 1257",
+    "TagWeight": "1000, 1000, 1000"
+  },
+  {
+    "_index": 124,
+    "Id": "PhysConvertTemplarNoble2",
+    "Description": "In a city built on secrets, faith never stood a chance.",
+    "HASH16": 48664,
+    "Tags": "1253, 1255, 1257",
+    "TagWeight": "1000, 1000, 1000"
+  },
+  {
+    "_index": 125,
+    "Id": "PhysConvertTemplarNoble3",
+    "Description": "Though born of Keita blood, {0} sought to better Trarthus through faith - until his kin reminded him where power truly lay.",
+    "HASH16": 9549,
+    "Tags": "1253, 1255, 1257",
+    "TagWeight": "1000, 1000, 1000"
+  },
+  {
+    "_index": 126,
+    "Id": "PhysConvertTemplarNoble4",
+    "Description": "Once Emperor Tyndarus caught wind of Trarthan warlords setting up a society, he sent his legions to stomp them back down.",
+    "HASH16": 45384,
+    "Tags": "1253, 1255, 1257",
+    "TagWeight": "1000, 1000, 1000"
+  },
+  {
+    "_index": 127,
+    "Id": "PhysConvertTemplarNoble5",
+    "Description": "The Phrecian legions executed the warlords of that era, and instituted crushing taxes on the budding Trarthan society.",
+    "HASH16": 61014,
+    "Tags": "1253, 1255, 1257",
+    "TagWeight": "1000, 1000, 1000"
+  },
+  {
+    "_index": 128,
+    "Id": "AurasMinionsTemplar1",
+    "Description": "Some foreigners cling to warm memories of Divinity. In Trarthus, that's considered true madness.",
+    "HASH16": 16075,
+    "Tags": "1199, 1245",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 129,
+    "Id": "AurasMinionsTemplar2",
+    "Description": "Trarthans know Innocence not as a god, but as a tale told by passing missionaries - and quickly forgotten.",
+    "HASH16": 40666,
+    "Tags": "1199, 1245",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 130,
+    "Id": "AurasMinionsTemplar3",
+    "Description": "\"A fire that does not warm, does not feed, does not kill... what use is it in Trarthus?\"",
+    "HASH16": 41850,
+    "Tags": "1199, 1245",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 131,
+    "Id": "AurasMinionsTemplar4",
+    "Description": "Innocence preaches purity. Trarthus breeds survival. The two have little in common.",
+    "HASH16": 64861,
+    "Tags": "1199, 1245",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 132,
+    "Id": "AurasMinionsTemplar5",
+    "Description": "\"When they call Korathin a city of sin, they're not talking about the god.\"",
+    "HASH16": 49559,
+    "Tags": "1199, 1245",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 133,
+    "Id": "AurasMinionsTemplar6",
+    "Description": "\"Some say there's no honour left in Korathin. Others say it never belonged here to begin with.\" ",
+    "HASH16": 7791,
+    "Tags": "1199, 1245",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 134,
+    "Id": "AurasMinionsTemplar7",
+    "Description": "A good deed in Trarthus gets you one thing: a target on your back. ",
+    "HASH16": 34989,
+    "Tags": "1199, 1245",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 135,
+    "Id": "AurasMinionsTemplar8",
+    "Description": "\"What's a man to do with morals, when no one else plays by them?\" ",
+    "HASH16": 27826,
+    "Tags": "1199, 1245",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 136,
+    "Id": "AurasMinionsTemplar10",
+    "Description": "Even in Trarthus, someone buries the bodies. Someone remembers the names. ",
+    "HASH16": 18397,
+    "Tags": "1199, 1245",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 137,
+    "Id": "AurasMinionsTemplar11",
+    "Description": "Some virtues endure - not in law, nor gods, but in spite of both.",
+    "HASH16": 31506,
+    "Tags": "1199, 1245",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 138,
+    "Id": "AurasMinionsTemplar12",
+    "Description": "The surest way to frighten Ixan Keita was kindness. Always hunting for an angle, he could never see it for what it was.",
+    "HASH16": 64790,
+    "Tags": "1199, 1245",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 139,
+    "Id": "AurasMinionsTemplar13",
+    "Description": "Keita drew brutes from every corner - sadists, zealots, and worse. What bound them was a taste for cruelty.",
+    "HASH16": 61092,
+    "Tags": "1199, 1245",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 140,
+    "Id": "AurasMinionsTemplarNoble1",
+    "Description": "They mocked {0} Keita's prayers. Until one day, the sinner burned, and they said nothing more.",
+    "HASH16": 47761,
+    "Tags": "1250, 1247, 1249",
+    "TagWeight": "0, 1000, 1000"
+  },
+  {
+    "_index": 141,
+    "Id": "AurasMinionsTemplarNoble2",
+    "Description": "Trarthus could not unmake {0} Keita's faith. But it tried. With ridicule. With pain. With temptation.",
+    "HASH16": 56741,
+    "Tags": "1250, 1247, 1249",
+    "TagWeight": "0, 1000, 1000"
+  },
+  {
+    "_index": 142,
+    "Id": "AurasMinionsTemplarNoble3",
+    "Description": "Innocence found no altar in Trarthus. Just one man.",
+    "HASH16": 46324,
+    "Tags": "1250, 1247, 1249",
+    "TagWeight": "0, 1000, 1000"
+  },
+  {
+    "_index": 143,
+    "Id": "AurasMinionsTemplarNoble4",
+    "Description": "In 870 IC, the four great Founders spurred their guerrilla rebellion into open warfare against the occupying legions.",
+    "HASH16": 30194,
+    "Tags": "1250, 1247, 1249",
+    "TagWeight": "0, 1000, 1000"
+  },
+  {
+    "_index": 144,
+    "Id": "AurasMinionsTemplarNoble5",
+    "Description": "It took two years of open warfare, but Tyndarus finally capitulated in exchange for the lives of his legions.",
+    "HASH16": 29286,
+    "Tags": "1250, 1247, 1249",
+    "TagWeight": "0, 1000, 1000"
+  },
+  {
+    "_index": 145,
+    "Id": "PhysicalDuelist1",
+    "Description": "Trarthus was lawless once - but not without rules. Some approached the Death Trades with grace... and surprising decorum.",
+    "HASH16": 55333,
+    "Tags": "1199, 1270",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 146,
+    "Id": "PhysicalDuelist2",
+    "Description": "Before the Merchant Wars. Before the Council. Before Trarthus had a name. There was the Code.",
+    "HASH16": 43354,
+    "Tags": "1199, 1270",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 147,
+    "Id": "PhysicalDuelist4",
+    "Description": "The Trarthan Code was not written - not at first. It was remembered. Passed in whispers, etched in scars.",
+    "HASH16": 60669,
+    "Tags": "1199, 1270",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 148,
+    "Id": "PhysicalDuelist5",
+    "Description": "\"Break the Code, and you risked more than your life. You risked your name.\"",
+    "HASH16": 53063,
+    "Tags": "1199, 1270",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 149,
+    "Id": "PhysicalDuelist6",
+    "Description": "Whether in gutters or along trade routes, the Code took root where laws could not.",
+    "HASH16": 57497,
+    "Tags": "1199, 1270",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 150,
+    "Id": "PhysicalDuelist7",
+    "Description": "House Bardiya were first to back the Code - an early sign of their predilection for order and control.",
+    "HASH16": 52636,
+    "Tags": "1199, 1270",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 151,
+    "Id": "PhysicalDuelist8",
+    "Description": "To House Azadi, the Code wasn't a set of rules. It was a contract. And they never broke contracts.",
+    "HASH16": 21670,
+    "Tags": "1199, 1270",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 152,
+    "Id": "PhysicalDuelist9",
+    "Description": "Cyaxan did not endorse the Code. Not at first. They waited, watched, and once it took hold, claimed they'd backed it all along.",
+    "HASH16": 54646,
+    "Tags": "1199, 1270",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 153,
+    "Id": "PhysicalDuelist10",
+    "Description": "Even House Keita, for all their brutality, bowed to the Code. Not out of respect - but survival.",
+    "HASH16": 54564,
+    "Tags": "1199, 1270",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 154,
+    "Id": "PhysicalDuelist11",
+    "Description": "Even under Council rule, the Code endures - now etched into law. ",
+    "HASH16": 13811,
+    "Tags": "1199, 1270",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 155,
+    "Id": "PhysicalDuelist12",
+    "Description": "\"Travel to Trarthus is discouraged. Should you go, learn the Code - and honour it.\" - A Merchant's Guide to Trarthus",
+    "HASH16": 51983,
+    "Tags": "1199, 1270",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 156,
+    "Id": "PhysicalDuelist13",
+    "Description": "\"Break the Trarthan Code and you'll likely be buried by someone who didn't.\" - A Merchant's Guide to Trarthus",
+    "HASH16": 29581,
+    "Tags": "1199, 1270",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 157,
+    "Id": "PhysicalDuelist14",
+    "Description": "\"Those under the Great Houses shall answer any blood wager issued.\" \r\n- Trarthan Code, Article V",
+    "HASH16": 38213,
+    "Tags": "1199, 1270",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 158,
+    "Id": "PhysicalDuelistNoble1",
+    "Description": "{0} Azadi's words? Withering. His blade? Equally so. ",
+    "HASH16": 24075,
+    "Tags": "1272, 1274, 1276",
+    "TagWeight": "1000, 1000, 1000"
+  },
+  {
+    "_index": 159,
+    "Id": "PhysicalDuelistNoble2",
+    "Description": "\"Elegance is not lost in violence - only in vulgarity.\"\r\n - {0} Azadi",
+    "HASH16": 53100,
+    "Tags": "1272, 1274, 1276",
+    "TagWeight": "1000, 1000, 1000"
+  },
+  {
+    "_index": 160,
+    "Id": "PhysicalDuelistNoble3",
+    "Description": "\"Ask any Azadin... You don't get rich in Trarthus by being bad in a fight.\"\r\n - {0} Azadi",
+    "HASH16": 28306,
+    "Tags": "1272, 1274, 1276",
+    "TagWeight": "1000, 1000, 1000"
+  },
+  {
+    "_index": 161,
+    "Id": "PhysicalDuelistNoble4",
+    "Description": "\"The four Great Founders were not exiles. 'Twas the first Trarthan-born generation, once we actually had a modicum of society going.\"",
+    "HASH16": 36872,
+    "Tags": "1272, 1274, 1276",
+    "TagWeight": "1000, 1000, 1000"
+  },
+  {
+    "_index": 162,
+    "Id": "PhysicalDuelistNoble5",
+    "Description": "The four Great Houses were once begrudging allies, fighting a guerilla war against occupying legions.",
+    "HASH16": 6776,
+    "Tags": "1272, 1274, 1276",
+    "TagWeight": "1000, 1000, 1000"
+  },
+  {
+    "_index": 163,
+    "Id": "MeleeAOEStrikeDuelist1",
+    "Description": "Violence has always been common in Trarthus. But it was Ratha Azadi who commodified it - turned it into an art form all her own. ",
+    "HASH16": 59635,
+    "Tags": "1199, 1277",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 164,
+    "Id": "MeleeAOEStrikeDuelist2",
+    "Description": "Azadi distinguished itself not through efficiency, but through audacious spectacle. Azadins didn't kill. They wove death itself.",
+    "HASH16": 7194,
+    "Tags": "1199, 1277",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 165,
+    "Id": "MeleeAOEStrikeDuelist3",
+    "Description": "Ratha Azadi understood that killing goes beyond the act itself. Some kills live longer than the killer - but only when done right.",
+    "HASH16": 17773,
+    "Tags": "1199, 1277",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 166,
+    "Id": "MeleeAOEStrikeDuelist4",
+    "Description": " \"Anywhere else, you'd kill from the shadows. But this is Trarthus - so we shout murder from the rooftops.\" - Ratha Azadi",
+    "HASH16": 48219,
+    "Tags": "1199, 1277",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 167,
+    "Id": "MeleeAOEStrikeDuelist5",
+    "Description": "Would-be sadists flocked to House Azadi, seeking kin in their band of killers. But only a select few rose above the chaff.",
+    "HASH16": 41156,
+    "Tags": "1199, 1277",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 168,
+    "Id": "MeleeAOEStrikeDuelist7",
+    "Description": "Among Azadi's best, the mark mattered less than the method. To kill without flair was crude - commonplace. ",
+    "HASH16": 52733,
+    "Tags": "1199, 1277",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 169,
+    "Id": "MeleeAOEStrikeDuelist8",
+    "Description": "A name etched in blood is still a name. Many Azadins died trying to earn theirs.",
+    "HASH16": 28562,
+    "Tags": "1199, 1277",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 170,
+    "Id": "MeleeAOEStrikeDuelist9",
+    "Description": "Azadi's finest were known for rivalry as much as skill. On one occasion, both died trying to outdo the other - while their mark fled.",
+    "HASH16": 50895,
+    "Tags": "1199, 1277",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 171,
+    "Id": "MeleeAOEStrikeDuelist10",
+    "Description": "Audacious though they may be, Azadins don't advertise. They let their work speak for itself.",
+    "HASH16": 601,
+    "Tags": "1199, 1277",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 172,
+    "Id": "MeleeAOEStrikeDuelist11",
+    "Description": "Failure rang loudest of all. A botched kill meant the replacement made an example - of both target and Azadin.",
+    "HASH16": 23512,
+    "Tags": "1199, 1277",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 173,
+    "Id": "MeleeAOEStrikeDuelist12",
+    "Description": "\"Anyone can kill. We give death a name, a face, a reputation.\"\r\n - Ratha Azadi ",
+    "HASH16": 30623,
+    "Tags": "1199, 1277",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 174,
+    "Id": "MeleeAOEStrikeDuelist13",
+    "Description": "\"Those bloody Azadins...  Could kill twice the people in half the time if they weren't so obsessed with 'artistry'.\" - Ixan Keita",
+    "HASH16": 18706,
+    "Tags": "1199, 1277",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 175,
+    "Id": "MeleeAOEStrikeDuelistNoble1",
+    "Description": "\"Who needs paint, when blood spills so beautifully?\"\r\n - {0} Azadi",
+    "HASH16": 53658,
+    "Tags": "1279, 1281",
+    "TagWeight": "1000, 1000"
+  },
+  {
+    "_index": 176,
+    "Id": "MeleeAOEStrikeDuelistNoble2",
+    "Description": "{0} Azadi's blade did more than silence. It left an impression. ",
+    "HASH16": 22677,
+    "Tags": "1279, 1281",
+    "TagWeight": "1000, 1000"
+  },
+  {
+    "_index": 177,
+    "Id": "MeleeAOEStrikeDuelistNoble3",
+    "Description": "{0} Azadi: proof that his House's legacy wasn't written in history - but carved into flesh.",
+    "HASH16": 15252,
+    "Tags": "1279, 1281",
+    "TagWeight": "1000, 1000"
+  },
+  {
+    "_index": 178,
+    "Id": "MeleeAOEStrikeDuelistNoble4",
+    "Description": "Tyndarus tried to sail reinforcements west, but the Ezomytes burned his ships in the night, and supplied poisoned grain at port.",
+    "HASH16": 32778,
+    "Tags": "1279, 1281",
+    "TagWeight": "1000, 1000"
+  },
+  {
+    "_index": 179,
+    "Id": "MeleeAOEStrikeDuelistNoble5",
+    "Description": "\"Trarthus didn't even ask the Ezomytes to aid them in the uprising. Those beautiful poetic bastards did it all on their own.\"",
+    "HASH16": 39264,
+    "Tags": "1279, 1281",
+    "TagWeight": "1000, 1000"
+  },
+  {
+    "_index": 180,
+    "Id": "TrapsMinesShadow1",
+    "Description": "The children of Korathin don't play in fields. They play in slag.",
+    "HASH16": 33606,
+    "Tags": "1199, 1214",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 181,
+    "Id": "TrapsMinesShadow2",
+    "Description": "The fields were quiet. The factories never were. One bred men. The other broke them.",
+    "HASH16": 14549,
+    "Tags": "1199, 1214",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 182,
+    "Id": "TrapsMinesShadow3",
+    "Description": "A Trarthan farmer's back bends with harvest. A cityman's with hunger.",
+    "HASH16": 9691,
+    "Tags": "1199, 1214",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 183,
+    "Id": "TrapsMinesShadow4",
+    "Description": "To the cityfolk, a broken tool is replaced. To the peasant, it's a week lost.",
+    "HASH16": 18553,
+    "Tags": "1199, 1214",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 184,
+    "Id": "TrapsMinesShadow5",
+    "Description": "The fields breed silence. The cities breed noise. Neither understands the other's music.",
+    "HASH16": 20613,
+    "Tags": "1199, 1214",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 185,
+    "Id": "TrapsMinesShadow6",
+    "Description": "\"Out in the country, a harvest is shared. Here in the city, it's sold - then stolen back.\"",
+    "HASH16": 19858,
+    "Tags": "1199, 1214",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 186,
+    "Id": "TrapsMinesShadow9",
+    "Description": "Korathin's smog doesn't just fill the sky. It seeps behind the eyes.",
+    "HASH16": 12810,
+    "Tags": "1199, 1214",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 187,
+    "Id": "TrapsMinesShadow10",
+    "Description": "A thousand chimneys mark the skyline - monuments to what Trarthus built, and what it buried.",
+    "HASH16": 37724,
+    "Tags": "1199, 1214",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 188,
+    "Id": "TrapsMinesShadow12",
+    "Description": "No songs are sung in Korathin factories. Just the rhythm of toil and breaking backs.",
+    "HASH16": 45590,
+    "Tags": "1199, 1214",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 189,
+    "Id": "TrapsMinesShadowNoble1",
+    "Description": "Though rotten to the bone, Trarthus still shelters those the world cast aside.",
+    "HASH16": 22700,
+    "Tags": "1216, 1218, 1220",
+    "TagWeight": "1000, 1000, 1000"
+  },
+  {
+    "_index": 190,
+    "Id": "TrapsMinesShadowNoble2",
+    "Description": "A Mirror of Delirium cracked {0} Azadi's mind like glass - or so the story goes.",
+    "HASH16": 38745,
+    "Tags": "1216, 1218, 1220",
+    "TagWeight": "1000, 1000, 1000"
+  },
+  {
+    "_index": 191,
+    "Id": "TrapsMinesShadowNoble3",
+    "Description": "To House Azadi, {0} is a relic. To everyone else, a warning.",
+    "HASH16": 46712,
+    "Tags": "1216, 1218, 1220",
+    "TagWeight": "1000, 1000, 1000"
+  },
+  {
+    "_index": 192,
+    "Id": "TrapsMinesShadowNoble4",
+    "Description": "\"The moment the four Great Founders actually won their war of independence, tensions began to rise between them.\"",
+    "HASH16": 16190,
+    "Tags": "1216, 1218, 1220",
+    "TagWeight": "1000, 1000, 1000"
+  },
+  {
+    "_index": 193,
+    "Id": "TrapsMinesShadowNoble5",
+    "Description": "\"The four great Founders were only allies out of necessity. It didn't take much for their hard-won independence to fall apart.\"",
+    "HASH16": 64460,
+    "Tags": "1216, 1218, 1220",
+    "TagWeight": "1000, 1000, 1000"
+  },
+  {
+    "_index": 194,
+    "Id": "Crit1HShadow1",
+    "Description": "Azadi was last to rise among the major Houses. Where killing was common, no one paid for it  - until Azadi cornered the market.",
+    "HASH16": 234,
+    "Tags": "1199, 1221",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 195,
+    "Id": "Crit1HShadow2",
+    "Description": "At first, anyone could kill for coin. House Azadi made the kill itself worth paying for. ",
+    "HASH16": 39957,
+    "Tags": "1199, 1221",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 196,
+    "Id": "Crit1HShadow3",
+    "Description": "Independent killers didn't last. Clients knew: hire Azadi, or become their next contract.",
+    "HASH16": 60800,
+    "Tags": "1199, 1221",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 197,
+    "Id": "Crit1HShadow4",
+    "Description": "\"When palms need greasing, you go to House Bardiya. When heads need rolling, you send for House Azadi.\"",
+    "HASH16": 11453,
+    "Tags": "1199, 1221",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 198,
+    "Id": "Crit1HShadow5",
+    "Description": "\"A masterful blend of audacity and discretion - that's the Azadi trademark. You'll know who made the kill, never who paid for it.\"",
+    "HASH16": 58128,
+    "Tags": "1199, 1221",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 199,
+    "Id": "Crit1HShadow6",
+    "Description": "Azadi's true currency wasn't coin. It was reputation. And reputation, once wounded, bled.",
+    "HASH16": 27988,
+    "Tags": "1199, 1221",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 200,
+    "Id": "Crit1HShadow7",
+    "Description": "Azadi contracts came sealed in wax. To break the seal was to accept the mark - and the consequences of failure.",
+    "HASH16": 53081,
+    "Tags": "1199, 1221",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 201,
+    "Id": "Crit1HShadow8",
+    "Description": "Each Azadi contract was coded - names obscured, motives buried. But the message was always the same: kill. ",
+    "HASH16": 57053,
+    "Tags": "1199, 1221",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 202,
+    "Id": "Crit1HShadow9",
+    "Description": "Some left trophies. Others left warnings. But all Azadins left a message: the job was done - and the debt had been paid. ",
+    "HASH16": 24366,
+    "Tags": "1199, 1221",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 203,
+    "Id": "Crit1HShadow10",
+    "Description": "\"Everyone knows: renege on Azadi, and become their next target.\" ",
+    "HASH16": 56269,
+    "Tags": "1199, 1221",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 204,
+    "Id": "Crit1HShadow11",
+    "Description": "\"To last in House Azadi, you need to be dead inside - or skilled at making others so. Preferably both.\"",
+    "HASH16": 63960,
+    "Tags": "1199, 1221",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 205,
+    "Id": "Crit1HShadow13",
+    "Description": "\"In Trarthus, life is cheap. We made sure death wasn't.\"\r\n - Ratha Azadi",
+    "HASH16": 11698,
+    "Tags": "1199, 1221",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 206,
+    "Id": "Crit1HShadowNoble1",
+    "Description": "{0} Azadi's was not a style. It was a standard - silent, surgical, untraceable.",
+    "HASH16": 26110,
+    "Tags": "1223, 1225, 1227",
+    "TagWeight": "1000, 1000, 1000"
+  },
+  {
+    "_index": 207,
+    "Id": "Crit1HShadowNoble2",
+    "Description": "Where other Azadi painted death in crimson arcs, {0} delivered it with a whisper. ",
+    "HASH16": 36545,
+    "Tags": "1223, 1225, 1227",
+    "TagWeight": "1000, 1000, 1000"
+  },
+  {
+    "_index": 208,
+    "Id": "Crit1HShadowNoble3",
+    "Description": "In a House that prized spectacle, {0} Azadi offered none - only results. ",
+    "HASH16": 61326,
+    "Tags": "1223, 1225, 1227",
+    "TagWeight": "1000, 1000, 1000"
+  },
+  {
+    "_index": 209,
+    "Id": "Crit1HShadowNoble4",
+    "Description": "\"Trarthans never forget a debt. When the Ezomytes rebelled against the Empire, even though centuries had passed, we came to their aid.\"",
+    "HASH16": 10766,
+    "Tags": "1223, 1225, 1227",
+    "TagWeight": "1000, 1000, 1000"
+  },
+  {
+    "_index": 210,
+    "Id": "Crit1HShadowNoble5",
+    "Description": "\"Once our debts were paid to the Ezomytes and the Karui, we considered ourselves even. After that... well, might makes right.\"",
+    "HASH16": 59652,
+    "Tags": "1223, 1225, 1227",
+    "TagWeight": "1000, 1000, 1000"
+  },
+  {
+    "_index": 211,
+    "Id": "MiscScion1",
+    "Description": "The Merchant Council gave Trarthus a mask of order. Those who can't wear it are cast out.",
+    "HASH16": 8486,
+    "Tags": "1199, 1240",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 212,
+    "Id": "MiscScion2",
+    "Description": "Though they would not rule for years, the Bardiyans helped shape Trarthus - quiet power moving behind every deal and coin exchange.",
+    "HASH16": 19147,
+    "Tags": "1199, 1240",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 213,
+    "Id": "MiscScion3",
+    "Description": "The first Bardiyan vault was carved into Korathin's bedrock - long before the city rose above it.",
+    "HASH16": 35356,
+    "Tags": "1199, 1240",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 214,
+    "Id": "MiscScion4",
+    "Description": "While the Keitans laid stone, the Bardiyans moved coin. One built a city in broad daylight. The other ran it from the shadows.",
+    "HASH16": 27838,
+    "Tags": "1199, 1240",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 215,
+    "Id": "MiscScion5",
+    "Description": "Before the wars, there was trade. Keitan muscle, Bardiyan mind. Neither trusted the other - but both saw profit.",
+    "HASH16": 21834,
+    "Tags": "1199, 1240",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 216,
+    "Id": "MiscScion6",
+    "Description": "No two Trarthan forefathers were more opposed - in ideology or in temperament - than Ixan Keita and Quilon Bardiya.  ",
+    "HASH16": 44375,
+    "Tags": "1199, 1240",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 217,
+    "Id": "MiscScion7",
+    "Description": "Keita and Bardiya's rivalry erupted across Trarthus - supply lines cut, coin vanished, and not a single soldier raised. ",
+    "HASH16": 42488,
+    "Tags": "1199, 1240",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 218,
+    "Id": "MiscScion8",
+    "Description": "Keita demanded tribute. Bardiya and Azadi refused. The result: starvation, sabotage, and blood in the streets of Korathin. ",
+    "HASH16": 45671,
+    "Tags": "1199, 1240",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 219,
+    "Id": "MiscScion9",
+    "Description": "Bardiya won their struggle with Keita. Coin proved more vital to Trarthus than all the slaves Keita could whip into labour.",
+    "HASH16": 22019,
+    "Tags": "1199, 1240",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 220,
+    "Id": "MiscScion10",
+    "Description": "Bardiya's victory over Keita came at a cost. From that pyrrhic win grew the Merchant Council - cooperative in name, Bardiyan in truth.",
+    "HASH16": 54999,
+    "Tags": "1199, 1240",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 221,
+    "Id": "MiscScion11",
+    "Description": "House Bardiya remains as its forefather left it: clever, conniving, and always listening.",
+    "HASH16": 46679,
+    "Tags": "1199, 1240",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 222,
+    "Id": "MiscScion12",
+    "Description": "\"A whisper in the right ear is stronger than any army.\"\r\n - Quilon Bardiya",
+    "HASH16": 62363,
+    "Tags": "1199, 1240",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 223,
+    "Id": "MiscScion13",
+    "Description": "\"To rule through fear is to court your own demise. A frightened animal lashes out. A contended one purrs in your lap.\" - Quilon Bardiya",
+    "HASH16": 54193,
+    "Tags": "1199, 1240",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 224,
+    "Id": "MiscScion14",
+    "Description": "\"Bardiyans are clever, aye - but so ruthlessly self-serving it's a wonder their banquets don't end in blood.\"  ",
+    "HASH16": 19699,
+    "Tags": "1199, 1240",
+    "TagWeight": "0, 1000"
+  },
+  {
+    "_index": 225,
+    "Id": "MiscScionNoble1",
+    "Description": "{0} was born into Bardiyan silk and silver - until a sibling whispered her inheritance away...",
+    "HASH16": 28396,
+    "Tags": "1242, 1244",
+    "TagWeight": "1000, 1000"
+  },
+  {
+    "_index": 226,
+    "Id": "MiscScionNoble2",
+    "Description": "{0} Bardiya's legacy was stolen. Her appetite remains. ",
+    "HASH16": 40267,
+    "Tags": "1242, 1244",
+    "TagWeight": "1000, 1000"
+  },
+  {
+    "_index": 227,
+    "Id": "MiscScionNoble3",
+    "Description": "Betrayal is currency in House Bardiya. {0} has never left a ledger unsettled. ",
+    "HASH16": 17286,
+    "Tags": "1242, 1244",
+    "TagWeight": "1000, 1000"
+  },
+  {
+    "_index": 228,
+    "Id": "MiscScionNoble4",
+    "Description": "The Eternal Empire stopped exiling people to Trarthus after 872 IC. They began building island prisons closer to home instead.",
+    "HASH16": 21964,
+    "Tags": "1242, 1244",
+    "TagWeight": "1000, 1000"
+  },
+  {
+    "_index": 229,
+    "Id": "MiscScionNoble5",
+    "Description": "\"The Empire essentially cut contact with Trarthus for five hundred years... until Chitus wanted our powder.\"",
+    "HASH16": 51644,
+    "Tags": "1242, 1244",
+    "TagWeight": "1000, 1000"
+  },
+  {
+    "_index": 230,
+    "Id": "AurasMinionsTemplarNobleNeon1",
+    "Description": "'A ruckus that is made, may not be unmade.'\r\n - Trarthan Code Appendice XII",
+    "HASH16": 11271,
+    "Tags": "1250",
+    "TagWeight": "1000"
+  }
+]
